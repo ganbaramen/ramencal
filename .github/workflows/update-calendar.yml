@@ -24,5 +24,5 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update calendar $(date +%Y-%m-%d)"
+          commit_message: 'Update calendar $(date +"%Y-%m-%d %H:%M %Z")'
           file_pattern: "mizutama-live.ics"
