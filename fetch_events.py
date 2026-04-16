@@ -45,9 +45,9 @@ def scrape_events():
 
 def generate_ics(events):
     calendar = icalendar.Calendar()
-    calendar.add("prodid", "-//Mizutama Live Calendar//oishii.love//")
+    calendar.add("prodid", "-//Mizutama Live Calendar//ramencal//")
     calendar.add("version", "2.0")
-    calendar.add("x-wr-calname", "水玉 Live")
+    calendar.add("x-wr-calname", "美味しい水玉非公式カレンダー")
 
     for i, event in enumerate(events):
         cal_event = icalendar.Event()

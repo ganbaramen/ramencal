@@ -27,7 +27,11 @@ jobs:
 
       - run: python fetch_events.py
 
+      - name: Set commit message
+        id: commit_msg
+        run: echo "message=Update calendar $(date +"%Y-%m-%d %H:%M %Z")" >> $GITHUB_OUTPUT
+
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: 'Update calendar $(date +"%Y-%m-%d %H:%M %Z")'
+          commit_message: ${{ steps.commit_msg.outputs.message }}
           file_pattern: "mizutama-live.ics"
