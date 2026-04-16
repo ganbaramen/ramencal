@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Mizutama Live Calendar//oishii.love//
-X-WR-CALNAME:水玉 Live
+PRODID:-//Mizutama Live Calendar//ramencal//
+X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
 SUMMARY:深海の雨音 vol.49
 DTSTART;VALUE=DATE:20260418
