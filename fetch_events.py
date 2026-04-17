@@ -24,14 +24,24 @@ def scrape_event_details(url):
 
     content = soup.find("div", class_="the-content")
     if content:
-        html = str(content)
-        html = re.sub(r"<br\s*/?>\s*", "\n", html)
-        text_soup = BeautifulSoup(html, "html.parser")
         lines = []
-        for elem in text_soup.find_all(["p", "h3", "h4"]):
-            text = elem.get_text(strip=True)
+        for elem in content.find_all(["p", "h3", "h4"]):
+            parts = []
+            for child in elem.children:
+                if hasattr(child, "name"):
+                    if child.name == "a":
+                        parts.append(child.get("href", ""))
+                    elif child.name == "br":
+                        parts.append("\n")
+                    elif child.string:
+                        parts.append(child.string.strip())
+                elif child.string:
+                    parts.append(child.string.strip())
+            text = "".join(parts)
+            text = re.sub(r" *\n *", "\n", text)
+            text = text.strip()
             if text and not text.startswith("美味しい水玉 OFFICIAL"):
-                lines.append(text.strip())
+                lines.append(text)
         return "\n\n".join(lines)
     return ""
 
