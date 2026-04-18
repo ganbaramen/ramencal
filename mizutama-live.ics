@@ -3,22 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:深海の雨音 vol.49
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260418
-UID:2026-04-18-0@mizutama-cal
-DESCRIPTION:新高円寺LOFTX\n深海の雨音 vol.49\nhttps://oishii.love
- /mizutama/live/2026/04/6021/\n\nOP/ST 11:10/11:30\n\n🎤出演 12:50〜\n
- 📸特典会 終演後\n\n▼出演\n美味しい水玉 / THE ORGANICS / 
- キキレイレイ / 秘密俱楽部 / BuddhaTOKYO / 露光時間\n\n▼
- チケット\nhttps://tiget.net/events/477233\n3/26(木)21:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SELENE STADIUM
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260419
-UID:2026-04-19-1@mizutama-cal
+UID:2026-04-19-0@mizutama-cal
 DESCRIPTION:白金高輪SELENEb2\nSELENE STADIUM\nhttps://oishii.love/mizu
  tama/live/2026/04/5990/\n\nOP/ST 10:00/10:15\n\n🎤出演 10:15〜\n📸
  特典会 A 11:00〜\n\n▼出演\n美味しい水玉 / iCON! / I MY ME MI
@@ -51,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:トナリア定期公演「diplomatic relations」vol.25
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260422
-UID:2026-04-22-2@mizutama-cal
+UID:2026-04-22-1@mizutama-cal
 DESCRIPTION:渋谷Star lounge\nトナリア定期公演「diplomatic relat
  ions」vol.25\nhttps://oishii.love/mizutama/live/2026/03/6017/\n\nOP/ST 18
  :20/18:40\n\n🎤出演 19:05〜\n📸特典会 終演後\n\n▼出演\n
@@ -63,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:IDOLGROW vol.23
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260425
-UID:2026-04-25-3@mizutama-cal
+UID:2026-04-25-2@mizutama-cal
 DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.23\nhttps://oishii.love/mizu
  tama/live/2026/04/6048/\n\nOP/ST 11:30/12:00\n\n🎤出演 12:30～\n📸
  特典会 B 13:15～\n\n▼出演\n美味しい水玉 / 美味しい贖罪
@@ -76,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:TOKYO BEATREC mini
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260429
-UID:2026-04-29-4@mizutama-cal
+UID:2026-04-29-3@mizutama-cal
 DESCRIPTION:渋谷Milkyway\nTOKYO BEATREC mini\nhttps://oishii.love/mizuta
  ma/live/2026/04/6059/\n\nOP/ST 15:30/15:45\n\n▼出演\n美味しい水
  玉\nCoTei\nHATENO\nmay in film\nLion net girl\n\n▼チケット\nhttps:/
@@ -97,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:SELENE STADIUM
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260429
-UID:2026-04-29-5@mizutama-cal
+UID:2026-04-29-4@mizutama-cal
 DESCRIPTION:白金高輪SELENEb2\nSELENE STADIUM\nhttps://oishii.love/mizu
  tama/live/2026/04/6014/\n\nOP/ST 10:00/10:15\n\n🎤出演 10:15〜\n📸
  特典会 A 11:00〜\n\n▼出演\n美味しい水玉 / iCON! / I MY ME MI
@@ -131,7 +119,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-裏ハロウィ
  ン2026-
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260430
-UID:2026-04-30-6@mizutama-cal
+UID:2026-04-30-5@mizutama-cal
 DESCRIPTION:表参道GROUND\nOISHII.inc Presents「美味しいイベン
  ト」-裏ハロウィン2026-\nhttps://oishii.love/mizutama/live/2026/03/
  6011/\n\nOP/ST 18:00/18:30\n\n🎤出演 18:30〜\n📸特典会 終演後
@@ -156,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:『weekend weekend festa 2026』〜KAIYU～ DAY 2
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260503
-UID:2026-05-03-7@mizutama-cal
+UID:2026-05-03-6@mizutama-cal
 DESCRIPTION:SHELTER⇄MOSAiC\n『weekend weekend festa 2026』〜KAIYU～ 
  DAY 2\nhttps://oishii.love/mizutama/live/2026/03/6024/\n\n2会場回遊\n\
  nOP/ST 10:30/11:00\n\n▼出演\n美味しい水玉 / さとりモンス
@@ -173,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『GORDENCOCO SPECIALWEEK SP 2026』
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260506
-UID:2026-05-06-8@mizutama-cal
+UID:2026-05-06-7@mizutama-cal
 DESCRIPTION:下北沢MOSAiC / Flowers Loft\nINFINITY LIVE presents『GORDE
  NCOCO SPECIALWEEK SP 2026』\nhttps://oishii.love/mizutama/live/2026/04/60
  63/\n\nリストバンド交換 MOSAiC 11:00〜\n\n▼出演\n美味しい
@@ -190,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Marble Marble vol.4
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260511
-UID:2026-05-11-9@mizutama-cal
+UID:2026-05-11-8@mizutama-cal
 DESCRIPTION:SHIBUYA DIVE\nMarble Marble vol.4\nhttps://oishii.love/mizutam
  a/live/2026/04/6068/\n\nOP/ST 17:00/17:30\n\n🎤出演 17:45〜\n📸特
  典会 B 18:20〜\n\n▼出演\n美味しい水玉 / SCRAMBLE SMILE / Hey!
@@ -205,7 +193,7 @@ SUMMARY:さとりモンスター 全国下北化計画 春のわくわく
  大サーキット
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260524
-UID:2026-05-24-10@mizutama-cal
+UID:2026-05-24-9@mizutama-cal
 DESCRIPTION:下北沢各会場\nさとりモンスター 全国下北化
  計画 春のわくわく大サーキット\nhttps://oishii.love/mizutama/
  live/2026/03/5993/\n\n▼出演\n\n※詳細後日発表
