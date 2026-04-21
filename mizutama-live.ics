@@ -156,14 +156,38 @@ DESCRIPTION:SHIBUYA DIVE\nMarble Marble vol.4\nhttps://oishii.love/mizutam
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:kijō no kūron 隔月定期公演『水曜日の空論』
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260513
+UID:2026-05-13-8@mizutama-cal
+DESCRIPTION:下北沢MOSAiC\nkijō no kūron 隔月定期公演『水曜
+ 日の空論』\nhttps://oishii.love/mizutama/live/2026/04/6079/\n\nOP/ST 
+ 19:00/19:30\n\n🎤出演 19:30〜\n📸特典会 終演後\n\n▼出演\n
+ 美味しい水玉\nkijō no kūron\n水槽とクレマチス\nミライ
+ ズ\n\n▼チケット\nhttps://livepocket.jp/e/jiyuz\n4/20(月)21:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:さとりモンスター 全国下北化計画 春のわくわく
  大サーキット
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260524
-UID:2026-05-24-8@mizutama-cal
+UID:2026-05-24-9@mizutama-cal
 DESCRIPTION:下北沢各会場\nさとりモンスター 全国下北化
  計画 春のわくわく大サーキット\nhttps://oishii.love/mizutama/
  live/2026/03/5993/\n\n▼出演\n\n※詳細後日発表
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カガクハンノウvol.71
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260530
+UID:2026-05-30-10@mizutama-cal
+DESCRIPTION:新高円寺LOFT X\nカガクハンノウvol.71\nhttps://oishi
+ i.love/mizutama/live/2026/04/6084/\n\nOP/ST 17:15/17:45\n\n🎤出演 20:1
+ 5〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉\nEMOE\n露
+ 光時間\nトナリア\nピューパ!!\n\n▼チケット\nhttps://tiget.
+ net/events/483915\n4/22(水)20:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
