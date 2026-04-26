@@ -272,4 +272,19 @@ DESCRIPTION:新高円寺LOFT X\nカガクハンノウvol.71\nhttps://oishi
  net/events/483915\n4/22(水)20:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:『うまいもんアイドルフェス』
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260531
+UID:2026-05-31-13@mizutama-cal
+DESCRIPTION:レジデンシャルパークSHOWA(庄和総合公園)\n『
+ うまいもんアイドルフェス』\nhttps://oishii.love/mizutama/live
+ /2026/04/6109/\n\n前方受付 11:10 START 11:30\n\n▼出演\n美味し
+ い水玉 / 美味しい贖罪 / にっぽんワチャチャ / LUCY / ミ
+ リオン!~ Million Heaven Tokyo~ / エラバレシ / MOON RABBiTS / MEMOR
+ I / 撫子の音返し / ミニワチャ / THE POWER / 7テンフィーバ
+ ーズ！ / SoRaLis / ティアラボ / FADEIN＋\nAnd more\n\n▼チケ
+ ット\nhttps://t-dv.com/umaimonidolfes202605
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
