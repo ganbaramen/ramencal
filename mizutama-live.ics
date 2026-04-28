@@ -83,27 +83,10 @@ DESCRIPTION:表参道GROUND\nOISHII.inc Presents「美味しいイベン
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:『weekend weekend festa 2026』〜KAIYU～ DAY 2
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260503
-UID:2026-05-03-3@mizutama-cal
-DESCRIPTION:SHELTER⇄MOSAiC\n『weekend weekend festa 2026』〜KAIYU～ 
- DAY 2\nhttps://oishii.love/mizutama/live/2026/03/6024/\n\n2会場回遊\n\
- nOP/ST 10:30/11:00\n\n▼出演\n美味しい水玉 / さとりモンス
- ター / SOMOSOMO / SHAKEBE / PUREMORPH / メルクマールメルマー
- ル / Noreco / HOTALOOP / ROY Limited GIRLFRIEND / 猫の眼に宇宙 / 
- パピプペポは難しい / KACHIDOKI / YUGUREMI / LUCY / Lion net girl 
- / LIZZ / you-show / 8°世界が変われば、 / 会心ノ一撃 / O-VER-
- KiLL / MA7MEL / NINGENKYOU / Drawry. / RED-i / マイナーガール\nand 
- more…\n\n▼チケット\nhttps://t-dv.com/weekendfesta2026\n\n※再入
- 場自由
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IDOL SUMMER JUNGLE GOLDEN
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260503
-UID:2026-05-03-4@mizutama-cal
+UID:2026-05-03-3@mizutama-cal
 DESCRIPTION:お台場R地区\nIDOL SUMMER JUNGLE GOLDEN\nhttps://oishii.lo
  ve/mizutama/live/2026/04/6102/\n\nOP/ST 9:00/10:00\n\nKABULO MUSHI STAGE\n
  🎤出演 11:50〜\n📸特典会 12:25〜\n\n▼出演\n美味しい水
@@ -139,6 +122,25 @@ DESCRIPTION:お台場R地区\nIDOL SUMMER JUNGLE GOLDEN\nhttps://oishii.lo
  )引換券/サイントークありチェキ券\n●一般/女性チケッ
  ト\nスマートフォン撮影券/私物サイン券\n\n※2日通し券
  なし/各税込/1D代別途
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:『weekend weekend festa 2026』〜KAIYU～ DAY 2
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260503
+UID:2026-05-03-4@mizutama-cal
+DESCRIPTION:下北沢MOSAiC\n『weekend weekend festa 2026』〜KAIYU～ D
+ AY 2\nhttps://oishii.love/mizutama/live/2026/04/6024/\n\nSHELTER⇄MOSAiC 
+ 2会場回遊\n\nOP/ST 10:00/10:30\n\n🎤出演 17:50〜\n📸特典会 1
+ 8:15〜\n\n▼出演\n美味しい水玉 / さとりモンスター / SOMO
+ SOMO / SHAKEBE / PUREMORPH / メルクマールメルマール / Noreco / 
+ HOTALOOP / ROY Limited GIRLFRIEND / 猫の眼に宇宙 / パピプペポ
+ は難しい / KACHIDOKI / YUGUREMI / LUCY / Lion net girl / you-show / 8
+ °世界が変われば、 / 会心ノ一撃 / O-VER-KiLL / MA7MEL / NINGE
+ NKYOU / Drawry. / RED-i / マイナーガール / ワガマき / HALOPALLE
+ TE / スーパーオーバー / ゆるめるモ！ / 兎アイズ / RETROT
+ AIN / エレクトリックリボン\n\n▼チケット\nhttps://t-dv.com/
+ weekendfesta2026\n\n※再入場自由
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
