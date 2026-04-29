@@ -3,31 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:TOKYO BEATREC mini
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260429
-UID:2026-04-29-0@mizutama-cal
-DESCRIPTION:渋谷Milkyway\nTOKYO BEATREC mini\nhttps://oishii.love/mizuta
- ma/live/2026/04/6059/\n\nOP/ST 15:30/15:45\n\n▼出演\n美味しい水
- 玉 / CoTei / HATENO / may in film / Lion net girl / シオリベル\n\n
- ▼チケット\nhttps://ticketvillage.jp/events/13748\n4/12(日)22:00〜\
- n\n【公演に関する注意事項】\n※整理番号順入場\n※入
- 場時、ドリンク代別途必要\n※営利目的のチケット転売
- 禁止\n※アルコール類の持込、及び泥酔者の入場はお断
- りいたします。\n※リフト、柵に登る、前列へ突っ込む
- の危険行為、ヤジ等、まわりのお客様の迷惑となる行
- 為は全面禁止といたします。\n※ルールをお守りいただ
- けないお客様へ対しては、退場処分とさせていただき
- ます。入場をお断り、ご退場いただく場合でもチケッ
- ト代等の返金は一切いたしません。\n※物販・特典会へ
- の参加には本公演のチケットが必要となります。
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SELENE STADIUM
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260429
-UID:2026-04-29-1@mizutama-cal
+UID:2026-04-29-0@mizutama-cal
 DESCRIPTION:白金高輪SELENEb2\nSELENE STADIUM\nhttps://oishii.love/mizu
  tama/live/2026/04/6014/\n\nOP/ST 10:00/10:15\n\n🎤出演 10:15〜\n📸
  特典会 A 11:00〜\n\n▼出演\n美味しい水玉 / iCON! / I MY ME MI
@@ -61,7 +40,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-裏ハロウィ
  ン2026-
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260430
-UID:2026-04-30-2@mizutama-cal
+UID:2026-04-30-1@mizutama-cal
 DESCRIPTION:表参道GROUND\nOISHII.inc Presents「美味しいイベン
  ト」-裏ハロウィン2026-\nhttps://oishii.love/mizutama/live/2026/03/
  6011/\n\nOP/ST 18:00/18:30\n\n🎤出演 18:30〜\n📸特典会 終演後
@@ -86,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:IDOL SUMMER JUNGLE GOLDEN
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260503
-UID:2026-05-03-3@mizutama-cal
+UID:2026-05-03-2@mizutama-cal
 DESCRIPTION:お台場R地区\nIDOL SUMMER JUNGLE GOLDEN\nhttps://oishii.lo
  ve/mizutama/live/2026/04/6102/\n\nOP/ST 9:00/10:00\n\nKABULO MUSHI STAGE\n
  🎤出演 11:50〜\n📸特典会 12:25〜\n\n▼出演\n美味しい水
@@ -128,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:『weekend weekend festa 2026』〜KAIYU～ DAY 2
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260503
-UID:2026-05-03-4@mizutama-cal
+UID:2026-05-03-3@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\n『weekend weekend festa 2026』〜KAIYU～ D
  AY 2\nhttps://oishii.love/mizutama/live/2026/04/6024/\n\nSHELTER⇄MOSAiC 
  2会場回遊\n\nOP/ST 10:00/10:30\n\n🎤出演 17:50〜\n📸特典会 1
@@ -148,7 +127,7 @@ SUMMARY:「美味しいイベント」-ワンコインランチ・水玉
  ミニワンマン-
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260505
-UID:2026-05-05-5@mizutama-cal
+UID:2026-05-05-4@mizutama-cal
 DESCRIPTION:SHIBUYA TAKE OFF 7\n「美味しいイベント」-ワンコ
  インランチ・水玉ミニワンマン-\nhttps://oishii.love/mizutama/
  live/2026/04/6095/\n\nOP/ST 13:00/13:30\n\n▼出演\n美味しい水玉\n
@@ -178,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『GORDENCOCO SPECIALWEEK SP 2026』
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260506
-UID:2026-05-06-6@mizutama-cal
+UID:2026-05-06-5@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『GORDENCOCO SPECIALWE
  EK SP 2026』\nhttps://oishii.love/mizutama/live/2026/04/6063/\n\n下北
  沢MOSAiC / Flowers Loft\n\nリストバンド交換 MOSAiC 11:00〜\n\n
@@ -196,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『シキサイ。』
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260507
-UID:2026-05-07-7@mizutama-cal
+UID:2026-05-07-6@mizutama-cal
 DESCRIPTION:渋谷近未来会館\n#ﾆｷﾌﾟﾚ『シキサイ。』\n
  https://oishii.love/mizutama/live/2026/04/6099/\n\nOP/ST 19:00/19:20\n\n
  🎤出演 20:50〜\n📸特典会 終演後\n\n▼出演\n美味しい水
@@ -208,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Marble Marble vol.4
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260511
-UID:2026-05-11-8@mizutama-cal
+UID:2026-05-11-7@mizutama-cal
 DESCRIPTION:SHIBUYA DIVE\nMarble Marble vol.4\nhttps://oishii.love/mizutam
  a/live/2026/04/6068/\n\nOP/ST 17:00/17:30\n\n🎤出演 17:45〜\n📸特
  典会 B 18:20〜\n\n▼出演\n美味しい水玉 / SCRAMBLE SMILE / Hey!
@@ -222,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:kijō no kūron 隔月定期公演『水曜日の空論』
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260513
-UID:2026-05-13-9@mizutama-cal
+UID:2026-05-13-8@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nkijō no kūron 隔月定期公演『水曜
  日の空論』\nhttps://oishii.love/mizutama/live/2026/04/6079/\n\nOP/ST 
  19:00/19:30\n\n🎤出演 19:30〜\n📸特典会 終演後\n\n▼出演\n
@@ -234,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:IDOL SQUARE presents SQUARE PARTY20
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260516
-UID:2026-05-16-10@mizutama-cal
+UID:2026-05-16-9@mizutama-cal
 DESCRIPTION:KANDA SQUARE HALL\nIDOL SQUARE presents SQUARE PARTY20\nhttps:
  //oishii.love/mizutama/live/2026/04/6089/\n\nOP/ST 10:30/11:00\n\n▼出
  演\n美味しい水玉 / WHITE SCORPION / I.Rink / 異世界アイドル
@@ -258,7 +237,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260521
-UID:2026-05-21-11@mizutama-cal
+UID:2026-05-21-10@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/04/6119/
  \n\nOP/ST 18:30/19:00\n\n🎁入場特典🎁\n「美味しい試食券」
@@ -292,7 +271,7 @@ SUMMARY:さとりモンスター 全国下北化計画 春のわくわく
  大サーキット
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260524
-UID:2026-05-24-12@mizutama-cal
+UID:2026-05-24-11@mizutama-cal
 DESCRIPTION:下北沢各会場\nさとりモンスター 全国下北化
  計画 春のわくわく大サーキット\nhttps://oishii.love/mizutama/
  live/2026/03/5993/\n\n▼出演\n\n※詳細後日発表
@@ -302,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROTRONIC』
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260526
-UID:2026-05-26-13@mizutama-cal
+UID:2026-05-26-12@mizutama-cal
 DESCRIPTION:新宿LOFT\nINFINITY LIVE presents『ASTROTRONIC』\nhttps://o
  ishii.love/mizutama/live/2026/04/6115/\n\nOP/ST 17:30/17:45\n\n🎤出演 
  17:45〜\n📸特典会 18:20〜\n\n▼出演\n美味しい水玉 / 美味
@@ -315,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:カガクハンノウvol.71
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260530
-UID:2026-05-30-14@mizutama-cal
+UID:2026-05-30-13@mizutama-cal
 DESCRIPTION:新高円寺LOFT X\nカガクハンノウvol.71\nhttps://oishi
  i.love/mizutama/live/2026/04/6084/\n\nOP/ST 17:15/17:45\n\n🎤出演 20:1
  5〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉\nEMOE\n露
@@ -327,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:『うまいもんアイドルフェス』
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260531
-UID:2026-05-31-15@mizutama-cal
+UID:2026-05-31-14@mizutama-cal
 DESCRIPTION:レジデンシャルパークSHOWA(庄和総合公園)\n『
  うまいもんアイドルフェス』\nhttps://oishii.love/mizutama/live
  /2026/04/6109/\n\n前方受付 11:10 START 11:30\n\n▼出演\n美味し
