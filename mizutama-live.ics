@@ -214,4 +214,25 @@ DESCRIPTION:レジデンシャルパークSHOWA(庄和総合公園)\n『
  ット\nhttps://t-dv.com/umaimonidolfes202605
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260610
+UID:2026-06-10-11@mizutama-cal
+DESCRIPTION:渋谷各会場\n#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-
+ 』\nhttps://oishii.love/mizutama/live/2026/05/6142/\n\n渋谷音楽堂 / 
+ Shibuya Milkyway / SHIBUYA THE GAME / STAR LOUNGE / CHELSEA HOTEL / GARRET
+  UDAGAWA / SHIBUYA CYCLONE\n\nOP/ST 16:30/17:00(予定)\n\n▼出演\n美
+ 味しい水玉 / 美味しい曖昧 / 美味しい贖罪 / airattic / AIW
+ O / alma / AZATOY / Axelight / AZ-ON / BLUEGOATS / buGG / Chalca / Cosmosl
+ ay / CYCLONISTA / Drawry. / ELEVYZ / Finally / GigiL / hakanai / HATENO / 
+ I MY ME MINE / INSPIRE / iRiNE / JINKS / KAMAITACI / .LiNIXLiNE. / LiVS / 
+ lonlium / LUVRiX / Magi / MAGMAZ / Ma’Scar’Piece / may in film / PASTE
+ L RADIO / PinkySpice / SWANTICK / YA’ABURNEE / YOTAKA / 9DayzGlitchClubT
+ okyo / アキストゼネコ / クモリノチ。 / 月刊PAM / 鳴ル神 
+ / ピューパ!!\n\n▼チケット\nhttps://ticketdive.com/event/20260610
+ _nikipre\n超先行：5/5(火)18:00〜5/6(水)23:59\n先行：5/7(木)12:0
+ 0〜5/10(日)23:59\n一般販売：5/11(月)22:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
