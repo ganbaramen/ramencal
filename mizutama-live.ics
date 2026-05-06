@@ -166,10 +166,22 @@ DESCRIPTION:レジデンシャルパークSHOWA(庄和総合公園)\n『
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260608
+UID:2026-06-08-9@mizutama-cal
+DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
+ 水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/05/6146/\n\
+ nOP/ST 18:30/19:00\n\n🎤出演 20:00〜\n📸特典会 終演後\n\n▼
+ 出演\n美味しい水玉\nAurora\nGREAT MONKEYS\n\n▼チケット\nhttp
+ s://livepocket.jp/e/h8t4v\n5/6(水)20:00～
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260610
-UID:2026-06-10-9@mizutama-cal
+UID:2026-06-10-10@mizutama-cal
 DESCRIPTION:渋谷各会場\n#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-
  』\nhttps://oishii.love/mizutama/live/2026/05/6142/\n\n渋谷音楽堂 / 
  Shibuya Milkyway / SHIBUYA THE GAME / STAR LOUNGE / CHELSEA HOTEL / GARRET
