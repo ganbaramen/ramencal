@@ -166,10 +166,42 @@ DESCRIPTION:レジデンシャルパークSHOWA(庄和総合公園)\n『
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BLAZE STADIUM
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260606
+UID:2026-06-06-9@mizutama-cal
+DESCRIPTION:BLAZE GOTANDA\nBLAZE STADIUM\nhttps://oishii.love/mizutama/liv
+ e/2026/05/6149/\n\nOP/ST 9:45/10:00\n\n▼出演\n美味しい水玉 / I M
+ Y ME MINE / アキストゼネコ / 雨のち、ハレーション / UNDO 
+ / エイアイカ / COLOR of COLOR / KissBee / 君とのシナリオ / GAN
+ GDEMIC / Question.VI / KOURiN / 透色ドロップ / ストロボグリッ
+ ター / NUANCE / Bunny La Crew / Panic Monster !n Wonderland / PinkySpice
+  / フィルフェリーチェ / べるべっとセンテンス / Payrin
+ ’s / ポラライト / 魔訶不思議変革者-デスデス- / MATE × 
+ MATE! / Maidon de Queen / 夢みるアドレセンス / Rea Lis\n\n▼チ
+ ケット\nhttps://livepocket.jp/e/0606b_st\n5/8(金)18:00〜\n\n※アル
+ コール提供無し\n※再入場可\n※追加ドリンク代なし\n\n
+ ※モッシュ、ダイブ、リフト他危険行為は一切禁止と
+ させていただきます。\n※会場内に飲食物の持ち込みは
+ 、お断りさせていただきます。\n※泥酔者の入場は、お
+ 断りいたします。\n※会場周辺でのたむろ、大声での会
+ 話は近隣の迷惑になる為、ご遠慮ください。\n※会場周
+ 辺での喫煙は近隣の迷惑になる為、禁止とさせていた
+ だきます。\n※出演者都合によるキャンセルの場合、チ
+ ケット代の払い戻しはお受けできません。\n※本公演で
+ はチケット購入確定後、お客様のご都合によるチケッ
+ トのキャンセル・払い戻しは受け付けておりません。\n
+ ※入場時チケット読み込みの際スクリーンショットで
+ の提示は禁止となります。\n上記のルールをお守りにな
+ れない場合、ご退場していただく場合がございます。
+ 予めご了承ください。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260608
-UID:2026-06-08-9@mizutama-cal
+UID:2026-06-08-10@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/05/6146/\n\
  nOP/ST 18:30/19:00\n\n🎤出演 20:00〜\n📸特典会 終演後\n\n▼
@@ -181,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260610
-UID:2026-06-10-10@mizutama-cal
+UID:2026-06-10-11@mizutama-cal
 DESCRIPTION:渋谷各会場\n#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-
  』\nhttps://oishii.love/mizutama/live/2026/05/6142/\n\n渋谷音楽堂 / 
  Shibuya Milkyway / SHIBUYA THE GAME / STAR LOUNGE / CHELSEA HOTEL / GARRET
