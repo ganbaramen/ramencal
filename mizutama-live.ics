@@ -3,24 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:Marble Marble vol.4
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260511
-UID:2026-05-11-0@mizutama-cal
-DESCRIPTION:SHIBUYA DIVE\nMarble Marble vol.4\nhttps://oishii.love/mizutam
- a/live/2026/04/6068/\n\nOP/ST 17:00/17:30\n\n🎤出演 17:45〜\n📸特
- 典会 B 18:20〜\n\n▼出演\n美味しい水玉 / SCRAMBLE SMILE / Hey!
- Mommy! / EDEN / MEOWMEW / マリークラウン / HAPPY CREATORS / トウ
- トイナ。 / 絶対少女 / BABBLY BUBBLY (O.A.)\n\n▼チケット\nhtt
- ps://livepocket.jp/e/marble-marble04\n4/15(水)22:00〜\n\n🎁入場特
- 典🎁\nメンバー集合ランダムチェキ1枚
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:kijō no kūron 隔月定期公演『水曜日の空論』
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260513
-UID:2026-05-13-1@mizutama-cal
+UID:2026-05-13-0@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nkijō no kūron 隔月定期公演『水曜
  日の空論』\nhttps://oishii.love/mizutama/live/2026/04/6079/\n\nOP/ST 
  19:00/19:30\n\n🎤出演 19:30〜\n📸特典会 終演後\n\n▼出演\n
@@ -32,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:IDOL SQUARE presents SQUARE PARTY20
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260516
-UID:2026-05-16-2@mizutama-cal
+UID:2026-05-16-1@mizutama-cal
 DESCRIPTION:KANDA SQUARE HALL\nIDOL SQUARE presents SQUARE PARTY20\nhttps:
  //oishii.love/mizutama/live/2026/05/6089/\n\nOP/ST 10:30/11:00\n\n🎤出
  演 12:30〜\n📸特典会 C 13:00〜\n\n▼出演\n美味しい水玉 / 
@@ -56,7 +42,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260521
-UID:2026-05-21-3@mizutama-cal
+UID:2026-05-21-2@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/04/6119/
  \n\nOP/ST 18:30/19:00\n\n🎁入場特典🎁\n「美味しい試食券」
@@ -90,7 +76,7 @@ SUMMARY:さとりモンスター 全国下北化計画ツアー2026 春の
  わくわく大サーキット
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260524
-UID:2026-05-24-4@mizutama-cal
+UID:2026-05-24-3@mizutama-cal
 DESCRIPTION:下北沢各会場\nさとりモンスター 全国下北化
  計画ツアー2026 春のわくわく大サーキット\nhttps://oishii.l
  ove/mizutama/live/2026/04/5993/\n\nシャングリラ / MOSAiC / ERA / SHE
@@ -117,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROTRONIC』
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260526
-UID:2026-05-26-5@mizutama-cal
+UID:2026-05-26-4@mizutama-cal
 DESCRIPTION:新宿LOFT\nINFINITY LIVE presents『ASTROTRONIC』\nhttps://o
  ishii.love/mizutama/live/2026/04/6115/\n\nOP/ST 17:30/17:45\n\n🎤出演 
  17:45〜\n📸特典会 18:20〜\n\n▼出演\n美味しい水玉 / 美味
@@ -130,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:カガクハンノウvol.71
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260530
-UID:2026-05-30-6@mizutama-cal
+UID:2026-05-30-5@mizutama-cal
 DESCRIPTION:新高円寺LOFT X\nカガクハンノウvol.71\nhttps://oishi
  i.love/mizutama/live/2026/04/6084/\n\nOP/ST 17:15/17:45\n\n🎤出演 20:1
  5〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉\nEMOE\n露
@@ -142,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:『うまいもんアイドルフェス』
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260531
-UID:2026-05-31-7@mizutama-cal
+UID:2026-05-31-6@mizutama-cal
 DESCRIPTION:レジデンシャルパークSHOWA(庄和総合公園)\n『
  うまいもんアイドルフェス』\nhttps://oishii.love/mizutama/live
  /2026/04/6109/\n\n前方受付 11:10 START 11:30\n\n▼出演\n美味し
@@ -151,6 +137,35 @@ DESCRIPTION:レジデンシャルパークSHOWA(庄和総合公園)\n『
  I / 撫子の音返し / ミニワチャ / THE POWER / 7テンフィーバ
  ーズ！ / SoRaLis / ティアラボ / FADEIN＋\nAnd more\n\n▼チケ
  ット\nhttps://t-dv.com/umaimonidolfes202605
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUATTRO STADIUM
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260603
+UID:2026-06-03-7@mizutama-cal
+DESCRIPTION:SHIBUYA CLUB QUATTRO\nQUATTRO STADIUM\nhttps://oishii.love/miz
+ utama/live/2026/05/6157/\n\nOP/ST 12:45/13:00\n\n▼出演\n美味しい
+ 曖昧 / 美味しい水玉 / 美味しい贖罪 / アキストゼネコ /
+  アストレイル / エイアイカ / COLOR of COLOR / KissBee / Questio
+ n.VI / KOURiN / SCRAMBLE SMILE / 戦国アニマル極楽浄土 / フィ
+ ルフェリーチェ / Payrin’s / Malcolm Mask McLaren / Made in Maiden
+  / メイビーME / Maison de Queen / ヲドルマヨナカ\n\n▼チケ
+ ット\nhttps://livepocket.jp/e/qs_0603\n\n※モッシュ、ダイブ、
+ リフト他危険行為は一切禁止とさせていただきます。\n
+ ※会場内に飲食物の持ち込みは、お断りさせていただ
+ きます。\n※泥酔者の入場は、お断りいたします。\n※
+ 会場周辺でのたむろ、大声での会話は近隣の迷惑にな
+ る為、ご遠慮ください。\n※会場周辺での喫煙は近隣の
+ 迷惑になる為、禁止とさせていただきます。\n※出演者
+ 都合によるキャンセルの場合、チケット代の払い戻し
+ はお受けできません。\n※本公演ではチケット購入確定
+ 後、お客様のご都合によるチケットのキャンセル・払
+ い戻しは受け付けておりません。\n※入場時チケット読
+ み込みの際スクリーンショットでの提示は禁止となり
+ ます。\n上記のルールをお守りになれない場合、ご退場
+ していただく場合がございます。予めご了承ください
+ 。
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
