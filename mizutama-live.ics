@@ -169,10 +169,22 @@ DESCRIPTION:SHIBUYA CLUB QUATTRO\nQUATTRO STADIUM\nhttps://oishii.love/miz
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:#ﾆｷﾌﾟﾚ『シブヤチャンプルー』
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260604
+UID:2026-06-04-8@mizutama-cal
+DESCRIPTION:渋谷近未来会館\n#ﾆｷﾌﾟﾚ『シブヤチャン
+ プルー』\nhttps://oishii.love/mizutama/live/2026/05/6162/\n\nOP/ST 18:
+ 30/18:50\n\n🎤出演 19:20〜\n📸特典会 終演後\n\n▼出演\n美
+ 味しい水玉 / iRiNE / KIKO / UNDO / 雨音とアプローズ\n\n▼チ
+ ケット\nhttps://t-dv.com/20260604_nikipre\n5/12(火)22:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BLAZE STADIUM
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260606
-UID:2026-06-06-8@mizutama-cal
+UID:2026-06-06-9@mizutama-cal
 DESCRIPTION:BLAZE GOTANDA\nBLAZE STADIUM\nhttps://oishii.love/mizutama/liv
  e/2026/05/6149/\n\nOP/ST 9:45/10:00\n\n▼出演\n美味しい水玉 / I M
  Y ME MINE / アキストゼネコ / 雨のち、ハレーション / UNDO 
@@ -204,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260608
-UID:2026-06-08-9@mizutama-cal
+UID:2026-06-08-10@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/05/6146/\n\
  nOP/ST 18:30/19:00\n\n🎤出演 20:00〜\n📸特典会 終演後\n\n▼
@@ -216,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260610
-UID:2026-06-10-10@mizutama-cal
+UID:2026-06-10-11@mizutama-cal
 DESCRIPTION:渋谷各会場\n#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-
  』\nhttps://oishii.love/mizutama/live/2026/05/6142/\n\n渋谷音楽堂 / 
  Shibuya Milkyway / SHIBUYA THE GAME / STAR LOUNGE / CHELSEA HOTEL / GARRET
