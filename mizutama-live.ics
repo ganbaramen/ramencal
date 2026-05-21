@@ -3,44 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
- t-
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260521
-UID:2026-05-21-0@mizutama-cal
-DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
- ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/04/6119/
- \n\nOP/ST 18:30/19:00\n\n🎁入場特典🎁\n「美味しい試食券」
- (サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
- プを問わずお好きなメンバー1名と撮影可能\n\n▼出演\n
- 美味しい水玉\n美味しい曖昧\n美味しい贖罪\n\n▼チケッ
- ト\nhttps://livepocket.jp/e/d2g2f\n4/28(火)20:00～\n\n【優先チケ
- ット特典】\n・優先エリアでの観覧が可能となります。
- \n・優先入場となります。\n・特典会に参加される方は
- 番号順に優先的に整列いたします。\n※優先整列は開場
- 及び特典会が始まる前に整列をお願いします。\n(特典
- 会の列は特典会が始まりましたら割込み禁止とさせて
- いただきます。ご了承ください。)\n\n【お客様への諸注
- 意】\n※入場時、ドリンク代が必要となります。\n※入
- 場時、チケット読み込みの際、スクリーンショットで
- の提示は禁止となります。\n※泥酔者の入場は、お断り
- いたします。\n※モッシュ、ダイブ、リフト、過度なジ
- ャンプ、他危険行為は一切禁止とさせていただきます
- 。\n※ライブ公演中の写真撮影、録音、録画行為は禁止
- とさせていただきます。\n※会場周辺でのたむろ、大声
- での会話は近隣の迷惑になる為、ご遠慮ください。\n※
- その他、会場やほかのお客様、メンバーに迷惑をかけ
- る行為をされたり、上記のルールをお守りになれない
- お客様には、ご退場いただく場合がございます。その
- 場合、チケット代の返金などはできかねます。ご了承
- ください。
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:STAYTUNED
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260522
-UID:2026-05-22-1@mizutama-cal
+UID:2026-05-22-0@mizutama-cal
 DESCRIPTION:SHIBUYA DESEO\nSTAYTUNED\nhttps://oishii.love/mizutama/live/20
  26/05/6179/\n\nOP/ST 18:10/18:30\n\n🎤出演 18:55〜\n📸特典会 終
  演後\n\n▼出演\n美味しい水玉 / il pleut / Gimme!× Gimme! / ス
@@ -69,7 +35,7 @@ SUMMARY:さとりモンスター 全国下北化計画ツアー2026 春の
  わくわく大サーキット
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260524
-UID:2026-05-24-2@mizutama-cal
+UID:2026-05-24-1@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nさとりモンスター 全国下北化計
  画ツアー2026 春のわくわく大サーキット\nhttps://oishii.love
  /mizutama/live/2026/05/5993/\n\nシャングリラ / MOSAiC / ERA / SHELTE
@@ -98,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROTRONIC』
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260526
-UID:2026-05-26-3@mizutama-cal
+UID:2026-05-26-2@mizutama-cal
 DESCRIPTION:新宿LOFT\nINFINITY LIVE presents『ASTROTRONIC』\nhttps://o
  ishii.love/mizutama/live/2026/04/6115/\n\nOP/ST 17:30/17:45\n\n🎤出演 
  17:45〜\n📸特典会 18:20〜\n\n▼出演\n美味しい水玉 / 美味
@@ -111,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『THE PRISMiNG vol.37 Day』
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260530
-UID:2026-05-30-4@mizutama-cal
+UID:2026-05-30-3@mizutama-cal
 DESCRIPTION:下北沢Flowers Loft\nINFINITY LIVE presents『THE PRISMiNG v
  ol.37 Day』\nhttps://oishii.love/mizutama/live/2026/05/6168/\n\nOP/ST 11:
  00/11:20\n\n🎤出演 11:45〜\n📸特典会 12:15〜\n\n▼出演\n美
@@ -124,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:カガクハンノウvol.71
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260530
-UID:2026-05-30-5@mizutama-cal
+UID:2026-05-30-4@mizutama-cal
 DESCRIPTION:新高円寺LOFT X\nカガクハンノウvol.71\nhttps://oishi
  i.love/mizutama/live/2026/04/6084/\n\nOP/ST 17:15/17:45\n\n🎤出演 20:1
  5〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉\nEMOE\n露
@@ -136,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:『うまいもんアイドルフェス』
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260531
-UID:2026-05-31-6@mizutama-cal
+UID:2026-05-31-5@mizutama-cal
 DESCRIPTION:レジデンシャルパークSHOWA(庄和総合公園)\n『
  うまいもんアイドルフェス』\nhttps://oishii.love/mizutama/live
  /2026/05/6109/\n\n前方受付 11:10 START 11:30\n\n🎤出演 SUB STAGE 1
@@ -153,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:QUATTRO STADIUM
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260603
-UID:2026-06-03-7@mizutama-cal
+UID:2026-06-03-6@mizutama-cal
 DESCRIPTION:SHIBUYA CLUB QUATTRO\nQUATTRO STADIUM\nhttps://oishii.love/miz
  utama/live/2026/05/6157/\n\nOP/ST 12:45/13:00\n\n▼出演\n美味しい
  曖昧 / 美味しい水玉 / 美味しい贖罪 / アキストゼネコ /
@@ -182,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『シブヤチャンプルー』
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260604
-UID:2026-06-04-8@mizutama-cal
+UID:2026-06-04-7@mizutama-cal
 DESCRIPTION:渋谷近未来会館\n#ﾆｷﾌﾟﾚ『シブヤチャン
  プルー』\nhttps://oishii.love/mizutama/live/2026/05/6162/\n\nOP/ST 18:
  30/18:50\n\n🎤出演 19:20〜\n📸特典会 終演後\n\n▼出演\n美
@@ -194,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:BLAZE STADIUM
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260606
-UID:2026-06-06-9@mizutama-cal
+UID:2026-06-06-8@mizutama-cal
 DESCRIPTION:BLAZE GOTANDA\nBLAZE STADIUM\nhttps://oishii.love/mizutama/liv
  e/2026/05/6149/\n\nOP/ST 9:45/10:00\n\n▼出演\n美味しい水玉 / I M
  Y ME MINE / アキストゼネコ / 雨のち、ハレーション / UNDO 
@@ -226,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260608
-UID:2026-06-08-10@mizutama-cal
+UID:2026-06-08-9@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/05/6146/\n\
  nOP/ST 18:30/19:00\n\n🎤出演 20:00〜\n📸特典会 終演後\n\n▼
@@ -238,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260610
-UID:2026-06-10-11@mizutama-cal
+UID:2026-06-10-10@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n#ﾆｷﾌﾟﾚ『カンシャサイ。-夏
  -』\nhttps://oishii.love/mizutama/live/2026/05/6142/\n\n渋谷音楽堂 /
   Shibuya Milkyway / SHIBUYA THE GAME / STAR LOUNGE / CHELSEA HOTEL / GARRE
@@ -260,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:新宿周遊FES『UNIVERSE × 脱却』
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
-UID:2026-06-14-12@mizutama-cal
+UID:2026-06-14-11@mizutama-cal
 DESCRIPTION:新宿各会場\n新宿周遊FES『UNIVERSE × 脱却』\nhttp
  s://oishii.love/mizutama/live/2026/05/6172/\n\n新宿LOFT / 新宿MARZ / 
  新宿WALLY / 新宿DHNoA / 新宿club SCIENCE / 新宿SAMURAI / 新宿Mar
@@ -287,7 +253,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260630
-UID:2026-06-30-13@mizutama-cal
+UID:2026-06-30-12@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/05/6191/
  \n\nOP/ST 18:30/19:00\n\n🎁入場特典🎁\n「美味しい試食券」
