@@ -26,7 +26,7 @@ DTEND;VALUE=DATE:20260603
 UID:2026-06-03-1@mizutama-cal
 DESCRIPTION:SHIBUYA CLUB QUATTRO\nQUATTRO STADIUM\nhttps://oishii.love/miz
  utama/live/2026/05/6157/\n\nOP/ST 12:45/13:00\n\n🎤出演 13:00〜\n📸
- 特典会 A 13:40〜\n\n▼出演\n美味しい曖昧 / 美味しい水玉
+ 特典会 A 13:40〜\n\n▼出演\n美味しい水玉 / 美味しい曖昧
   / 美味しい贖罪 / アキストゼネコ / アストレイル / エ
  イアイカ / COLOR of COLOR / KissBee / Question.VI / KOURiN / SCRAMBLE 
  SMILE / 戦国アニマル極楽浄土 / フィルフェリーチェ / Pay
@@ -66,30 +66,31 @@ DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260606
 UID:2026-06-06-3@mizutama-cal
 DESCRIPTION:BLAZE GOTANDA\nBLAZE STADIUM\nhttps://oishii.love/mizutama/liv
- e/2026/05/6149/\n\nOP/ST 9:45/10:00\n\n▼出演\n美味しい水玉 / I M
- Y ME MINE / アキストゼネコ / 雨のち、ハレーション / UNDO 
- / エイアイカ / COLOR of COLOR / KissBee / 君とのシナリオ / GAN
- GDEMIC / Question.VI / KOURiN / 透色ドロップ / ストロボグリッ
- ター / NUANCE / Bunny La Crew / Panic Monster !n Wonderland / PinkySpice
-  / フィルフェリーチェ / べるべっとセンテンス / Payrin
- ’s / ポラライト / 魔訶不思議変革者-デスデス- / MATE × 
- MATE! / Maidon de Queen / 夢みるアドレセンス / Rea Lis\n\n▼チ
- ケット\nhttps://livepocket.jp/e/0606b_st\n5/8(金)18:00〜\n\n※アル
- コール提供無し\n※再入場可\n※追加ドリンク代なし\n\n
- ※モッシュ、ダイブ、リフト他危険行為は一切禁止と
- させていただきます。\n※会場内に飲食物の持ち込みは
- 、お断りさせていただきます。\n※泥酔者の入場は、お
- 断りいたします。\n※会場周辺でのたむろ、大声での会
- 話は近隣の迷惑になる為、ご遠慮ください。\n※会場周
- 辺での喫煙は近隣の迷惑になる為、禁止とさせていた
- だきます。\n※出演者都合によるキャンセルの場合、チ
- ケット代の払い戻しはお受けできません。\n※本公演で
- はチケット購入確定後、お客様のご都合によるチケッ
- トのキャンセル・払い戻しは受け付けておりません。\n
- ※入場時チケット読み込みの際スクリーンショットで
- の提示は禁止となります。\n上記のルールをお守りにな
- れない場合、ご退場していただく場合がございます。
- 予めご了承ください。
+ e/2026/05/6149/\n\nOP/ST 9:45/10:00\n\n🎤出演 10:00〜\n📸特典会 
+ A 10:40〜\n\n▼出演\n美味しい水玉 / I MY ME MINE / アキスト
+ ゼネコ / 雨のち、ハレーション / UNDO / エイアイカ / COLO
+ R of COLOR / KissBee / 君とのシナリオ / GANGDEMIC / Question.VI / K
+ OURiN / 透色ドロップ / ストロボグリッター / NUANCE / Bunny 
+ La Crew / Panic Monster !n Wonderland / PinkySpice / フィルフェリー
+ チェ / べるべっとセンテンス / Payrin’s / ポラライト / 
+ 魔訶不思議変革者-デスデス- / MATE × MATE! / Maidon de Queen /
+  夢みるアドレセンス / Rea Lis\n\n▼チケット\nhttps://livepoc
+ ket.jp/e/0606b_st\n5/8(金)18:00〜\n\n※アルコール提供無し\n※
+ 再入場可\n※追加ドリンク代なし\n\n※モッシュ、ダイ
+ ブ、リフト他危険行為は一切禁止とさせていただきま
+ す。\n※会場内に飲食物の持ち込みは、お断りさせてい
+ ただきます。\n※泥酔者の入場は、お断りいたします。
+ \n※会場周辺でのたむろ、大声での会話は近隣の迷惑に
+ なる為、ご遠慮ください。\n※会場周辺での喫煙は近隣
+ の迷惑になる為、禁止とさせていただきます。\n※出演
+ 者都合によるキャンセルの場合、チケット代の払い戻
+ しはお受けできません。\n※本公演ではチケット購入確
+ 定後、お客様のご都合によるチケットのキャンセル・
+ 払い戻しは受け付けておりません。\n※入場時チケット
+ 読み込みの際スクリーンショットでの提示は禁止とな
+ ります。\n上記のルールをお守りになれない場合、ご退
+ 場していただく場合がございます。予めご了承くださ
+ い。
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -248,6 +249,32 @@ DESCRIPTION:新宿LOFT\nTribu 10th Anniversary half step ahead-DAY2-\nhttp
  ト都合による出演キャンセルの払い戻しはございませ
  ん。\nその際の対応は該当アーティストにお問い合わせ
  いただくか、アナウンスをお待ちください。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ゆループ
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260726
+UID:2026-07-26-11@mizutama-cal
+DESCRIPTION:下北沢各会場\nゆループ\nhttps://oishii.love/mizutama
+ /live/2026/05/6216/\n\nリストバンド交換開始 10:30〜\n\nゆル
+ ーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,000 VIP学生 ¥1
+ 0\,500\nADV ¥5\,500 学生 ¥4\,000 +1D\n※VIP特典付き\n※学割は
+ 当日受付にて学生証提示\n\n▼出演\n美味しい水玉 / ゆ
+ るめるモ！ / IQ99 / 青海龍 / AFTERS / alma / il pleut / 棘-おど
+ ろ- / 開歌-かいか- / 可愛いって言わないと呪う！ / KIKO 
+ / キュニコ / CUBΣLIC / Question.VI / GREAT MONKEYS / cleomery / さ
+ よならステイチューン / じゅじゅ / シンダーエラ / 絶
+ 対少女 / DEARSTAGE研究生 / diig / 寺田寛明 / トナリア / Tri-
+ Sphere / にっぽんワチャチャ / NINGENKYOU / 猫の眼に宇宙 / 8
+ °世界が変われば、 / HAPPY CREATORS / HATENO / パピプペポは
+ 難しい / PANDA CLUB / 不思議BOYS / BABYTANTS / ponderosa may bloom /
+  マイナーガール / 名称非公開 / め組 / Maison de Queen / YUGU
+ REMI / 唯美人形 / yumegiwa last girl / 夢みるアドレセンス / L
+ ike Skip / RICEMOSH!? / Lion net girl / ラストブルー / iVS / RIFFBAB
+ YZ / LUCY / RETRORAIN / REBEL REBEL / ROY Limited GIRLFRIEND / lonlium / 
+ フリージアン / Su凸ko D凹koi\n\n▼チケット\nhttps://buzz-tick
+ et.com/e/YOULOOP\n6/4(木)22:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
