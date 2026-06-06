@@ -3,44 +3,11 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:BLAZE STADIUM
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260606
-UID:2026-06-06-0@mizutama-cal
-DESCRIPTION:BLAZE GOTANDA\nBLAZE STADIUM\nhttps://oishii.love/mizutama/liv
- e/2026/05/6149/\n\nOP/ST 9:45/10:00\n\n🎤出演 10:00〜\n📸特典会 
- A 10:40〜\n\n▼出演\n美味しい水玉 / I MY ME MINE / アキスト
- ゼネコ / 雨のち、ハレーション / UNDO / エイアイカ / COLO
- R of COLOR / KissBee / 君とのシナリオ / GANGDEMIC / Question.VI / K
- OURiN / 透色ドロップ / ストロボグリッター / NUANCE / Bunny 
- La Crew / Panic Monster !n Wonderland / PinkySpice / フィルフェリー
- チェ / べるべっとセンテンス / Payrin’s / ポラライト / 
- 魔訶不思議変革者-デスデス- / MATE × MATE! / Maidon de Queen /
-  夢みるアドレセンス / Rea Lis\n\n▼チケット\nhttps://livepoc
- ket.jp/e/0606b_st\n5/8(金)18:00〜\n\n※アルコール提供無し\n※
- 再入場可\n※追加ドリンク代なし\n\n※モッシュ、ダイ
- ブ、リフト他危険行為は一切禁止とさせていただきま
- す。\n※会場内に飲食物の持ち込みは、お断りさせてい
- ただきます。\n※泥酔者の入場は、お断りいたします。
- \n※会場周辺でのたむろ、大声での会話は近隣の迷惑に
- なる為、ご遠慮ください。\n※会場周辺での喫煙は近隣
- の迷惑になる為、禁止とさせていただきます。\n※出演
- 者都合によるキャンセルの場合、チケット代の払い戻
- しはお受けできません。\n※本公演ではチケット購入確
- 定後、お客様のご都合によるチケットのキャンセル・
- 払い戻しは受け付けておりません。\n※入場時チケット
- 読み込みの際スクリーンショットでの提示は禁止とな
- ります。\n上記のルールをお守りになれない場合、ご退
- 場していただく場合がございます。予めご了承くださ
- い。
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:パピムズFES2026 ミニサーキット Supported by WEEKEND INF
  NITY
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260607
-UID:2026-06-07-1@mizutama-cal
+UID:2026-06-07-0@mizutama-cal
 DESCRIPTION:下北沢4会場\nパピムズFES2026 ミニサーキット Su
  pported by WEEKEND INFNITY\nhttps://oishii.love/mizutama/live/2026/05/6212
  /\n\nシャングリラ/Flowers LOFT/ERA/MOSAiC\n\nFlowersLOFTにてリス
@@ -64,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260608
-UID:2026-06-08-2@mizutama-cal
+UID:2026-06-08-1@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/05/6146/\n\
  nOP/ST 18:30/19:00\n\n🎤出演 20:00〜\n📸特典会 終演後\n\n▼
@@ -76,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260610
-UID:2026-06-10-3@mizutama-cal
+UID:2026-06-10-2@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n#ﾆｷﾌﾟﾚ『カンシャサイ。-夏
  -』\nhttps://oishii.love/mizutama/live/2026/05/6142/\n\n渋谷音楽堂 /
   Shibuya Milkyway / SHIBUYA THE GAME / STAR LOUNGE / CHELSEA HOTEL / GARRE
@@ -98,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:美味しい水玉/diig 合同リリース&フリーイベント
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260613
-UID:2026-06-13-4@mizutama-cal
+UID:2026-06-13-3@mizutama-cal
 DESCRIPTION:タワーレコード新宿店 9F店内イベントスペー
  ス\n美味しい水玉/diig 合同リリース&フリーイベント\nhtt
  ps://oishii.love/mizutama/live/2026/06/6234/\n\n【日時】2026年6月13
@@ -233,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:新宿周遊FES『UNIVERSE × 脱却』
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
-UID:2026-06-14-5@mizutama-cal
+UID:2026-06-14-4@mizutama-cal
 DESCRIPTION:新宿各会場\n新宿周遊FES『UNIVERSE × 脱却』\nhttp
  s://oishii.love/mizutama/live/2026/05/6172/\n\n新宿LOFT / 新宿MARZ / 
  新宿WALLY / 新宿DHNoA / 新宿club SCIENCE / 新宿SAMURAI / 新宿Mar
@@ -259,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:SELENE STADIUM
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260621
-UID:2026-06-21-6@mizutama-cal
+UID:2026-06-21-5@mizutama-cal
 DESCRIPTION:白金高輪SELENEb2\nSELENE STADIUM\nhttps://oishii.love/mizu
  tama/live/2026/05/6206/\n\nOP/ST 9:45/10:00\n\n▼出演\n美味しい曖
  昧 / 美味しい水玉 / 美味しい贖罪 / ai*ai / I’mew（あい
@@ -277,7 +244,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260630
-UID:2026-06-30-7@mizutama-cal
+UID:2026-06-30-6@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/05/6191/
  \n\nOP/ST 18:30/19:00\n\n🎁入場特典🎁\n「美味しい試食券」
@@ -310,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROFES 2026 -Summer-』
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
-UID:2026-07-04-8@mizutama-cal
+UID:2026-07-04-7@mizutama-cal
 DESCRIPTION:下北沢4会場周遊\nINFINITY LIVE presents『ASTROFES 2026
   -Summer-』\nhttps://oishii.love/mizutama/live/2026/06/6238/\n\nMOSAiC / 
  Flowers Loft / WAVER / CLUB251\n\nリストバンド交換はMOSAiCにて1
@@ -333,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Tribu 10th Anniversary half step ahead-DAY2-
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260711
-UID:2026-07-11-9@mizutama-cal
+UID:2026-07-11-8@mizutama-cal
 DESCRIPTION:新宿LOFT\nTribu 10th Anniversary half step ahead-DAY2-\nhttp
  s://oishii.love/mizutama/live/2026/05/6209/\n\nOP/ST 10:40/11:00\n\n🎤
  出演 11:00〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉\
@@ -355,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:ゆループ
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-UID:2026-07-26-10@mizutama-cal
+UID:2026-07-26-9@mizutama-cal
 DESCRIPTION:下北沢各会場\nゆループ\nhttps://oishii.love/mizutama
  /live/2026/05/6216/\n\nリストバンド交換開始 10:30〜\n\nゆル
  ーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,000 VIP学生 ¥1
