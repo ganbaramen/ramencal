@@ -3,38 +3,14 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:パピムズFES2026 ミニサーキット Supported by WEEKEND INF
- NITY
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260607
-UID:2026-06-07-0@mizutama-cal
-DESCRIPTION:下北沢4会場\nパピムズFES2026 ミニサーキット Su
- pported by WEEKEND INFNITY\nhttps://oishii.love/mizutama/live/2026/05/6212
- /\n\nシャングリラ/Flowers LOFT/ERA/MOSAiC\n\nFlowersLOFTにてリス
- トバンド交換開始10:30(予定)\n\n▼出演\n美味しい水玉 / 
- パピプペポは難しい / さとりモンスター / SOMOSOMO / 猫の
- 眼に宇宙 / KACHIDOKI / ROY Limited GIRLFRIEND / you-show / PinkySpice 
- / KIKO / demipogune / Noreco / メルクマールメルマール / PUREMOR
- PH / Twilight BlooM. / ponderosa may bloom / POPPiNG EMO / KIRA:MINA / 8°
- 世界が変われば、 / キュニコ / マイナーガール / HATENO /
-  唯美人形 / YUGUREMI / RETRORAIN / ゆるめるモ！ / えくすく
- らめーしょん！ / THE ORGANICS / Gimme!×Gimme! / キキレイレイ
-  / Tri-Sphere / Lion net girl / 会心ノ一撃 / il pleut / じゅじゅ 
- / シンダーエラ / Innocent Lucia / 可愛いって言わないと呪
- う！ / 美味しい水玉 / 棘-おどろ- / スーパーオーバー / 
- ピューパ!! / グットクルー / Drawry. / エレクトリックリ
- ボン / youmenosay\nand more…\n\n▼チケット\nhttps://t-dv.com/papi
- muzfes2026miinicircuit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260608
-UID:2026-06-08-1@mizutama-cal
+UID:2026-06-08-0@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/05/6146/\n\
- nOP/ST 18:30/19:00\n\n🎤出演 20:00〜\n📸特典会 終演後\n\n▼
+ nOP/ST 18:30/19:00\n優先(A) ¥3\,000 ※枚数限定\n一般(B) ¥1\,500
+  DOOR ¥2\,000 +1D\n\n🎤出演 20:00〜\n📸特典会 終演後\n\n▼
  出演\n美味しい水玉\nAurora\nGREAT MONKEYS\n\n▼チケット\nhttp
  s://livepocket.jp/e/h8t4v\n5/6(水)20:00～
 TRANSP:TRANSPARENT
@@ -43,33 +19,37 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260610
-UID:2026-06-10-2@mizutama-cal
+UID:2026-06-10-1@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n#ﾆｷﾌﾟﾚ『カンシャサイ。-夏
  -』\nhttps://oishii.love/mizutama/live/2026/05/6142/\n\n渋谷音楽堂 /
   Shibuya Milkyway / SHIBUYA THE GAME / STAR LOUNGE / CHELSEA HOTEL / GARRE
- T UDAGAWA / SHIBUYA CYCLONE\n\nOP/ST 16:30/17:00\n\n🎤出演 18:10〜\n
- 📸特典会 外物販会場C 19:00〜\n\n▼出演\n美味しい水玉 /
-  美味しい曖昧 / 美味しい贖罪 / airattic / AIWO / alma / AZATOY
-  / Axelight / AZ-ON / BLUEGOATS / buGG / Chalca / Cosmoslay / CYCLONISTA /
-  Drawry. / ELEVYZ / Finally / GigiL / hakanai / HATENO / I MY ME MINE / IN
- SPIRE / iRiNE / JINKS / KAMAITACI / .LiNIXLiNE. / LiVS / lonlium / LUVRiX 
- / Magi / MAGMAZ / Ma’Scar’Piece / may in film / PASTEL RADIO / PinkySp
- ice / SWANTICK / YA’ABURNEE / YOTAKA / 9DayzGlitchClubTokyo / アキス
- トゼネコ / クモリノチ。 / 月刊PAM / 鳴ル神 / ピューパ!!
- \n\n▼チケット\nhttps://ticketdive.com/event/20260610_nikipre\n超先
- 行：5/5(火)18:00〜5/6(水)23:59\n先行：5/7(木)12:00〜5/10(日)23:
- 59\n一般販売：5/11(月)22:00〜
+ T UDAGAWA / SHIBUYA CYCLONE\n\nOP/ST 16:30/17:00\n超先行 ¥3\,800 先
+ 行 ¥4\,800\nADV ¥5\,300 +1D\n\n🎤出演 18:10〜\n📸特典会 外
+ 物販会場C 19:00〜\n\n▼出演\n美味しい水玉 / 美味しい曖
+ 昧 / 美味しい贖罪 / airattic / AIWO / alma / AZATOY / Axelight / AZ
+ -ON / BLUEGOATS / buGG / Chalca / Cosmoslay / CYCLONISTA / Drawry. / ELEVY
+ Z / Finally / GigiL / hakanai / HATENO / I MY ME MINE / INSPIRE / iRiNE / 
+ JINKS / KAMAITACI / .LiNIXLiNE. / LiVS / lonlium / LUVRiX / Magi / MAGMAZ 
+ / Ma’Scar’Piece / may in film / PASTEL RADIO / PinkySpice / SWANTICK /
+  YA’ABURNEE / YOTAKA / 9DayzGlitchClubTokyo / アキストゼネコ / 
+ クモリノチ。 / 月刊PAM / 鳴ル神 / ピューパ!!\n\n▼チケ
+ ット\nhttps://ticketdive.com/event/20260610_nikipre\n超先行：5/5(火
+ )18:00〜5/6(水)23:59\n先行：5/7(木)12:00〜5/10(日)23:59\n一般販
+ 売：5/11(月)22:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:美味しい水玉/diig 合同リリース&フリーイベント
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260613
-UID:2026-06-13-3@mizutama-cal
+UID:2026-06-13-2@mizutama-cal
 DESCRIPTION:タワーレコード新宿店 9F店内イベントスペー
  ス\n美味しい水玉/diig 合同リリース&フリーイベント\nhtt
  ps://oishii.love/mizutama/live/2026/06/6234/\n\n【日時】2026年6月13
- 日(土)18:00 (集合17:45)\n\n【タイムテーブル】\n16:30〜 対
+ 日(土)18:00 (集合17:45)\n【会場】タワーレコード新宿店 9F
+ 店内イベントスペース\nhttps://tower.jp/store/kanto/Shinjuku\n【
+ 内容】ミニライブ＆特典会\n【お問合せ先】タワーレコ
+ ード新宿店 03-5360-7811\n\n【タイムテーブル】\n16:30〜 対
  象商品販売開始/「整理番号付き入場券」配布開始\n17:45
  〜 優先入場\n17:50〜 フリー入場\n18:00〜 ミニライブ&特
  典会\n\n■美味しい水玉\n【対象商品】\n美味しい水玉「
@@ -200,43 +180,45 @@ BEGIN:VEVENT
 SUMMARY:新宿周遊FES『UNIVERSE × 脱却』
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
-UID:2026-06-14-4@mizutama-cal
+UID:2026-06-14-3@mizutama-cal
 DESCRIPTION:新宿各会場\n新宿周遊FES『UNIVERSE × 脱却』\nhttp
  s://oishii.love/mizutama/live/2026/05/6172/\n\n新宿LOFT / 新宿MARZ / 
  新宿WALLY / 新宿DHNoA / 新宿club SCIENCE / 新宿SAMURAI / 新宿Mar
- ble\n\nOP/ST 11:30/12:00\n\n▼出演\n美味しい水玉 / IQ99 / アキ
- ストゼネコ / アップアップガールズ（仮）/ unSea / UNDO / 
- 棘-おどろ- / KACHIDOKI / 開歌-かいか- / 会心ノ一撃 / 甲斐
- 莉乃 / キキレイレイ / XOXO EXTREME / kimikara / Gimme!×Gimme! / 
- キュニコ / グデイ / クモリノチ。/ 月刊PAM / 始発待ちア
- ンダーグラウンド / THE ORGANICS / じゅじゅ / シンダーエ
- ラ / スーパーオーバー / スーパーベイビーズ / SHAKE NA BA
- BYS / SWANTICK / セカイシティ / SOMOSOMO / 月に足跡を残した
- 少女達は一体何を見たのか… / T.M.P / demipogune / Drawry. / N
- INGENKYOU / nicora ray ark / 二丁目の魁カミングアウト / NUANCE
-  / Noreco / PASTEL RADIO / buGG / パピプペポは難しい / 8°世界
- が変われば、/ PANDA CLUB / 平野友里 / ピューパ!! / FOKALITE 
- / 僕には通じない / Buddha TOKYO / Hellzapoppin’ / ponderosa may b
- loom / MID POP / may in film / YA’ABURNEE / you-show / YOUR ADVISORY BOA
- RD / yumegiwa last girl / YOTAKA / Lion net girl / REBEL REBEL / lonlium\n
- \n▼チケット\nhttps://livepocket.jp/e/s_5yb\n5/16(土)22:00〜
+ ble\n\nOP/ST 11:30/12:00\nADV ¥5\,000 +1D\n\n▼出演\n美味しい水
+ 玉 / IQ99 / アキストゼネコ / アップアップガールズ（仮
+ ）/ unSea / UNDO / 棘-おどろ- / KACHIDOKI / 開歌-かいか- / 会
+ 心ノ一撃 / 甲斐莉乃 / キキレイレイ / XOXO EXTREME / kimikara
+  / Gimme!×Gimme! / キュニコ / グデイ / クモリノチ。/ 月刊P
+ AM / 始発待ちアンダーグラウンド / THE ORGANICS / じゅじゅ
+  / シンダーエラ / スーパーオーバー / スーパーベイビ
+ ーズ / SHAKE NA BABYS / SWANTICK / セカイシティ / SOMOSOMO / 月
+ に足跡を残した少女達は一体何を見たのか… / T.M.P / dem
+ ipogune / Drawry. / NINGENKYOU / nicora ray ark / 二丁目の魁カミン
+ グアウト / NUANCE / Noreco / PASTEL RADIO / buGG / パピプペポは
+ 難しい / 8°世界が変われば、/ PANDA CLUB / 平野友里 / ピ
+ ューパ!! / FOKALITE / 僕には通じない / Buddha TOKYO / Hellzapopp
+ in’ / ponderosa may bloom / MID POP / may in film / YA’ABURNEE / you-s
+ how / YOUR ADVISORY BOARD / yumegiwa last girl / YOTAKA / Lion net girl / 
+ REBEL REBEL / lonlium\n\n▼チケット\nhttps://livepocket.jp/e/s_5yb\n5
+ /16(土)22:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SELENE STADIUM
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260621
-UID:2026-06-21-5@mizutama-cal
+UID:2026-06-21-4@mizutama-cal
 DESCRIPTION:白金高輪SELENEb2\nSELENE STADIUM\nhttps://oishii.love/mizu
- tama/live/2026/05/6206/\n\nOP/ST 9:45/10:00\n\n▼出演\n美味しい曖
- 昧 / 美味しい水玉 / 美味しい贖罪 / ai*ai / I’mew（あい
- みゅう）/ アキストゼネコ / アストレイル / UNDO / EcruRare
-  / COLOR of COLOR / Question.VI / KOURiN / SHAKEBE / シオリベル / 虜
- なるプレリュード / ParaLulu / FULIT BOX / Payrin’s / べるべ
- っとセンテンス / ポラライト / Melodys High / YumeLia / ラフ
- ティア / Rea Lis / RIFFBABYZ / LilyS/ash /\nROOKEY♡ROOKEYS / ルル
- ネージュ / ワガママなラストノート\n\n▼チケット\nhttps
- ://livepocket.jp/e/selest_0621\n5/29(金)20:00〜
+ tama/live/2026/05/6206/\n\nOP/ST 9:45/10:00\n前方 ¥6\,000\nADV ¥3\,000
+  DOOR 各+¥500 +1D\n\n▼出演\n美味しい曖昧 / 美味しい水玉 
+ / 美味しい贖罪 / ai*ai / I’mew（あいみゅう）/ アキスト
+ ゼネコ / アストレイル / UNDO / EcruRare / COLOR of COLOR / Questi
+ on.VI / KOURiN / SHAKEBE / シオリベル / 虜なるプレリュード /
+  ParaLulu / FULIT BOX / Payrin’s / べるべっとセンテンス / ポ
+ ラライト / Melodys High / YumeLia / ラフティア / Rea Lis / RIFFBA
+ BYZ / LilyS/ash /\nROOKEY♡ROOKEYS / ルルネージュ / ワガママな
+ ラストノート\n\n▼チケット\nhttps://livepocket.jp/e/selest_0621
+ \n5/29(金)20:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -244,10 +226,11 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260630
-UID:2026-06-30-6@mizutama-cal
+UID:2026-06-30-5@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/05/6191/
- \n\nOP/ST 18:30/19:00\n\n🎁入場特典🎁\n「美味しい試食券」
+ \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
+ 500 DOOR ¥2\,000 +1D\n\n🎁入場特典🎁\n「美味しい試食券」
  (サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
  プを問わずお好きなメンバー1名と撮影可能\n\n▼出演\n
  美味しい水玉\n美味しい曖昧\n美味しい贖罪\n\n▼チケッ
@@ -277,71 +260,73 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROFES 2026 -Summer-』
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
-UID:2026-07-04-7@mizutama-cal
+UID:2026-07-04-6@mizutama-cal
 DESCRIPTION:下北沢4会場周遊\nINFINITY LIVE presents『ASTROFES 2026
   -Summer-』\nhttps://oishii.love/mizutama/live/2026/06/6238/\n\nMOSAiC / 
  Flowers Loft / WAVER / CLUB251\n\nリストバンド交換はMOSAiCにて1
- 1:00開始\n\n▼出演\n美味しい水玉 / alma / LUCY / じゅじゅ /
-  シンダーエラ / キキレイレイ / 8°世界が変われば、 / K
- ACHIDOKI / YUGUREMI / Question.VI / WONDERWHITE / YELLOWBEAT BOP / SEVEN S
- ENSES / Hello♡DayDream! / Lion net girl / THE ORGANICS / Tri-Sphere / In
- nocent Lucia / RETRORAIN / トナリア / 幻色シアター / マイナ
- ーガール / 唯美人形 / KIRA:MINA / キュニコ / ponderosa may blo
- om / CUBΣLIC / GREAT MONKEYS / LOOPARADE / Gimme!×Gimme! / IQ99 / MA7MEL
-  / ミライズ / KIKO / RIFFBABYZ / じゅじゅ / シンダーエラ / 
- 棘-おどろ- / メルクマールメルマール / CoTei / sync sens / 
- 開歌-かいか- / PANDA CLUB / スーパーオーバー / meluQ / 雨模
- 様のソラリス / 夢みるアドレセンス / 揺メク夜ニ / AVACL
- UB / ワガマき\nand more…\n\n▼チケット\nhttps://t-dv.com/202607
- 04_all\n6/3(水)20:00〜
+ 1:00開始\nOP/ST 11:30/12:00\nCOMPLETE ¥7\,900 ※特典付き\nADV ¥4\
+ ,000 +1D\n\n▼出演\n美味しい水玉 / alma / LUCY / じゅじゅ / 
+ シンダーエラ / キキレイレイ / 8°世界が変われば、 / KA
+ CHIDOKI / YUGUREMI / Question.VI / WONDERWHITE / YELLOWBEAT BOP / SEVEN SE
+ NSES / Hello♡DayDream! / Lion net girl / THE ORGANICS / Tri-Sphere / Inn
+ ocent Lucia / RETRORAIN / トナリア / 幻色シアター / マイナー
+ ガール / 唯美人形 / KIRA:MINA / キュニコ / ponderosa may bloom 
+ / CUBΣLIC / GREAT MONKEYS / LOOPARADE / Gimme!×Gimme! / IQ99 / MA7MEL / 
+ ミライズ / KIKO / RIFFBABYZ / じゅじゅ / シンダーエラ / 棘-
+ おどろ- / メルクマールメルマール / CoTei / sync sens / 開
+ 歌-かいか- / PANDA CLUB / スーパーオーバー / meluQ / 雨模様
+ のソラリス / 夢みるアドレセンス / 揺メク夜ニ / AVACLUB 
+ / ワガマき\nand more…\n\n▼チケット\nhttps://t-dv.com/20260704_
+ all\n6/3(水)20:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tribu 10th Anniversary half step ahead-DAY2-
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260711
-UID:2026-07-11-8@mizutama-cal
+UID:2026-07-11-7@mizutama-cal
 DESCRIPTION:新宿LOFT\nTribu 10th Anniversary half step ahead-DAY2-\nhttp
- s://oishii.love/mizutama/live/2026/05/6209/\n\nOP/ST 10:40/11:00\n\n🎤
- 出演 11:00〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉\
- nyumegiwa last girl\nピューパ!!\nゆるめるモ！\nグデイ\n\n▼
- チケット\nhttps://livepocket.jp/e/20260711halfstepahead2\n5/30(土)22:
- 00〜\n\n■お客様への諸注意\n・マスクの着用は任意、た
- だしコール、MIXを行う場合は周りのお客様へのご配慮
- をお願いいたします。\n※アーティストによりコール、
- MIX禁止の場合は、それに従っていただきますようお願
- いいたします。\n・リフト・モッシュ・ダイブ等の危険
- 行為禁止。\n・素晴らしいパフォーマンスへの歓声は積
- 極的にお願いします。\n・チケット購入後、アーティス
- ト都合による出演キャンセルの払い戻しはございませ
- ん。\nその際の対応は該当アーティストにお問い合わせ
- いただくか、アナウンスをお待ちください。
+ s://oishii.love/mizutama/live/2026/05/6209/\n\nOP/ST 10:40/11:00\nADV ¥2\
+ ,900 DOOR ¥3\,300 +1D\n\n🎤出演 11:00〜\n📸特典会 終演後\n\n
+ ▼出演\n美味しい水玉\nyumegiwa last girl\nピューパ!!\nゆる
+ めるモ！\nグデイ\n\n▼チケット\nhttps://livepocket.jp/e/202607
+ 11halfstepahead2\n5/30(土)22:00〜\n\n■お客様への諸注意\n・マ
+ スクの着用は任意、ただしコール、MIXを行う場合は周
+ りのお客様へのご配慮をお願いいたします。\n※アーテ
+ ィストによりコール、MIX禁止の場合は、それに従って
+ いただきますようお願いいたします。\n・リフト・モッ
+ シュ・ダイブ等の危険行為禁止。\n・素晴らしいパフォ
+ ーマンスへの歓声は積極的にお願いします。\n・チケッ
+ ト購入後、アーティスト都合による出演キャンセルの
+ 払い戻しはございません。\nその際の対応は該当アーテ
+ ィストにお問い合わせいただくか、アナウンスをお待
+ ちください。
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ゆループ
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-UID:2026-07-26-9@mizutama-cal
+UID:2026-07-26-8@mizutama-cal
 DESCRIPTION:下北沢各会場\nゆループ\nhttps://oishii.love/mizutama
- /live/2026/05/6216/\n\nリストバンド交換開始 10:30〜\n\nゆル
- ーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,000 VIP学生 ¥1
- 0\,500\nADV ¥5\,500 学生 ¥4\,000 +1D\n※VIP特典付き\n※学割は
- 当日受付にて学生証提示\n\n▼出演\n美味しい水玉 / ゆ
- るめるモ！ / IQ99 / 青海龍 / AFTERS / alma / il pleut / 棘-おど
- ろ- / 開歌-かいか- / 可愛いって言わないと呪う！ / KIKO 
- / キュニコ / CUBΣLIC / Question.VI / GREAT MONKEYS / cleomery / さ
- よならステイチューン / じゅじゅ / シンダーエラ / 絶
- 対少女 / DEARSTAGE研究生 / diig / 寺田寛明 / トナリア / Tri-
- Sphere / にっぽんワチャチャ / NINGENKYOU / 猫の眼に宇宙 / 8
- °世界が変われば、 / HAPPY CREATORS / HATENO / パピプペポは
- 難しい / PANDA CLUB / 不思議BOYS / BABYTANTS / ponderosa may bloom /
-  マイナーガール / 名称非公開 / め組 / Maison de Queen / YUGU
- REMI / 唯美人形 / yumegiwa last girl / 夢みるアドレセンス / L
- ike Skip / RICEMOSH!? / Lion net girl / ラストブルー / iVS / RIFFBAB
- YZ / LUCY / RETRORAIN / REBEL REBEL / ROY Limited GIRLFRIEND / lonlium / 
- フリージアン / Su凸ko D凹koi\n\n▼チケット\nhttps://buzz-tick
- et.com/e/YOULOOP\n6/4(木)22:00〜
+ /live/2026/05/6216/\n\nリストバンド交換開始 10:30〜\nST 11:30(
+ 予定)\n\nゆルーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,
+ 000 VIP学生 ¥10\,500\nADV ¥5\,500 学生 ¥4\,000 +1D\n※VIP特典付
+ き\n※学割は当日受付にて学生証提示\n\n▼出演\n美味し
+ い水玉 / ゆるめるモ！ / IQ99 / 青海龍 / AFTERS / alma / il ple
+ ut / 棘-おどろ- / 開歌-かいか- / 可愛いって言わないと
+ 呪う！ / KIKO / キュニコ / CUBΣLIC / Question.VI / GREAT MONKEYS /
+  cleomery / さよならステイチューン / じゅじゅ / シンダ
+ ーエラ / 絶対少女 / DEARSTAGE研究生 / diig / 寺田寛明 / ト
+ ナリア / Tri-Sphere / にっぽんワチャチャ / NINGENKYOU / 猫の
+ 眼に宇宙 / 8°世界が変われば、 / HAPPY CREATORS / HATENO / パ
+ ピプペポは難しい / PANDA CLUB / 不思議BOYS / BABYTANTS / ponder
+ osa may bloom / マイナーガール / 名称非公開 / め組 / Maison 
+ de Queen / YUGUREMI / 唯美人形 / yumegiwa last girl / 夢みるアド
+ レセンス / Like Skip / RICEMOSH!? / Lion net girl / ラストブルー
+  / iVS / RIFFBABYZ / LUCY / RETRORAIN / REBEL REBEL / ROY Limited GIRLFRIE
+ ND / lonlium / フリージアン / Su凸ko D凹koi\n\n▼チケット\nht
+ tps://buzz-ticket.com/e/YOULOOP\n6/4(木)22:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
