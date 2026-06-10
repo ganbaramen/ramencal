@@ -3,33 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-夏-』
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260610
-UID:2026-06-10-0@mizutama-cal
-DESCRIPTION:Shibuya Milkyway\n#ﾆｷﾌﾟﾚ『カンシャサイ。-夏
- -』\nhttps://oishii.love/mizutama/live/2026/05/6142/\n\n渋谷音楽堂 /
-  Shibuya Milkyway / SHIBUYA THE GAME / STAR LOUNGE / CHELSEA HOTEL / GARRE
- T UDAGAWA / SHIBUYA CYCLONE\n\nOP/ST 16:30/17:00\n超先行 ¥3\,800 先
- 行 ¥4\,800\nADV ¥5\,300 +1D\n\n🎤出演 18:10〜\n📸特典会 外
- 物販会場C 19:00〜\n\n▼出演\n美味しい水玉 / 美味しい曖
- 昧 / 美味しい贖罪 / airattic / AIWO / alma / AZATOY / Axelight / AZ
- -ON / BLUEGOATS / buGG / Chalca / Cosmoslay / CYCLONISTA / Drawry. / ELEVY
- Z / Finally / GigiL / hakanai / HATENO / I MY ME MINE / INSPIRE / iRiNE / 
- JINKS / KAMAITACI / .LiNIXLiNE. / LiVS / lonlium / LUVRiX / Magi / MAGMAZ 
- / Ma’Scar’Piece / may in film / PASTEL RADIO / PinkySpice / SWANTICK /
-  YA’ABURNEE / YOTAKA / 9DayzGlitchClubTokyo / アキストゼネコ / 
- クモリノチ。 / 月刊PAM / 鳴ル神 / ピューパ!!\n\n▼チケ
- ット\nhttps://ticketdive.com/event/20260610_nikipre\n超先行：5/5(火
- )18:00〜5/6(水)23:59\n先行：5/7(木)12:00〜5/10(日)23:59\n一般販
- 売：5/11(月)22:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:美味しい水玉/diig 合同リリース&フリーイベント
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260613
-UID:2026-06-13-1@mizutama-cal
+UID:2026-06-13-0@mizutama-cal
 DESCRIPTION:タワーレコード新宿店 9F店内イベントスペー
  ス\n美味しい水玉/diig 合同リリース&フリーイベント\nhtt
  ps://oishii.love/mizutama/live/2026/06/6234/\n\n【日時】2026年6月13
@@ -167,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:IDOLGROW vol.25
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260613
-UID:2026-06-13-2@mizutama-cal
+UID:2026-06-13-1@mizutama-cal
 DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.25\nhttps://oishii.love/mizu
  tama/live/2026/05/6256/\n\nOP/ST 10:30/11:00\nVIP ¥5\,000\nADV ¥3\,000 D
  OOR 各+¥500 +1D\n\n🎤出演 13:00〜\n📸特典会 B 13:45〜\n\n▼
@@ -178,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『WHITEDAYS』
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
-UID:2026-06-14-3@mizutama-cal
+UID:2026-06-14-2@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『WHITEDAYS』\nhttps:
  //oishii.love/mizutama/live/2026/06/6248/\n\nOP/ST 16:40/17:00\n優先 ¥3
  \,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n🎤出演 19:40〜\n📸特典
@@ -192,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:新宿周遊FES『UNIVERSE × 脱却』
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260614
-UID:2026-06-14-4@mizutama-cal
+UID:2026-06-14-3@mizutama-cal
 DESCRIPTION:新宿各会場\n新宿周遊FES『UNIVERSE × 脱却』\nhttp
  s://oishii.love/mizutama/live/2026/05/6172/\n\n新宿LOFT / 新宿MARZ / 
  新宿WALLY / 新宿DHNoA / 新宿club SCIENCE / 新宿SAMURAI / 新宿Mar
@@ -219,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『AKIBA AROUND』
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260620
-UID:2026-06-20-5@mizutama-cal
+UID:2026-06-20-4@mizutama-cal
 DESCRIPTION:TwinBox GARAGE\nINFINITY LIVE presents『AKIBA AROUND』\nhttp
  s://oishii.love/mizutama/live/2026/06/6252/\n\nOP/ST 15:45/16:00\n優先 
  ¥3\,100\nADV ¥2\,500 DOOR ¥3\,100 +1D\n\n🎤出演 16:45〜\n📸特
@@ -234,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:SELENE STADIUM
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260621
-UID:2026-06-21-6@mizutama-cal
+UID:2026-06-21-5@mizutama-cal
 DESCRIPTION:白金高輪SELENEb2\nSELENE STADIUM\nhttps://oishii.love/mizu
  tama/live/2026/06/6206/\n\nOP/ST 9:45/10:00\n前方 ¥6\,000\nADV ¥3\,000
   DOOR 各+¥500 +1D\n\n🎤出演 11:40〜\n📸特典会 B 12:25〜\n\n
@@ -252,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:IDOLGROW vol.26
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260627
-UID:2026-06-27-7@mizutama-cal
+UID:2026-06-27-6@mizutama-cal
 DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.26\nhttps://oishii.love/mizu
  tama/live/2026/06/6260/\n\nOP/ST 12:00/12:30\nVIP ¥5\,000 ADV ¥3\,000 +1
  D\n\n🎤出演 14:50〜\n📸特典会 B 15:40〜\n\n▼出演\n美味し
@@ -266,7 +243,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260630
-UID:2026-06-30-8@mizutama-cal
+UID:2026-06-30-7@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/05/6191/
  \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -300,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROFES 2026 -Summer-』
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
-UID:2026-07-04-9@mizutama-cal
+UID:2026-07-04-8@mizutama-cal
 DESCRIPTION:下北沢4会場周遊\nINFINITY LIVE presents『ASTROFES 2026
   -Summer-』\nhttps://oishii.love/mizutama/live/2026/06/6238/\n\nMOSAiC / 
  Flowers Loft / WAVER / CLUB251\n\nリストバンド交換はMOSAiCにて1
@@ -324,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Tribu 10th Anniversary half step ahead-DAY2-
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260711
-UID:2026-07-11-10@mizutama-cal
+UID:2026-07-11-9@mizutama-cal
 DESCRIPTION:新宿LOFT\nTribu 10th Anniversary half step ahead-DAY2-\nhttp
  s://oishii.love/mizutama/live/2026/05/6209/\n\nOP/ST 10:40/11:00\nADV ¥2\
  ,900 DOOR ¥3\,300 +1D\n\n🎤出演 11:00〜\n📸特典会 終演後\n\n
@@ -347,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:ゆループ
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-UID:2026-07-26-11@mizutama-cal
+UID:2026-07-26-10@mizutama-cal
 DESCRIPTION:下北沢各会場\nゆループ\nhttps://oishii.love/mizutama
  /live/2026/05/6216/\n\nリストバンド交換開始 10:30〜\nST 11:30(
  予定)\n\nゆルーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,
