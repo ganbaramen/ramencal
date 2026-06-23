@@ -114,106 +114,114 @@ DESCRIPTION:新宿LOFT\nTribu 10th Anniversary half step ahead-DAY2-\nhttp
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPARK 2026 渋谷納涼祭
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260711
-UID:2026-07-11-5@mizutama-cal
-DESCRIPTION:-12(日) 渋谷各会場\nSPARK 2026 渋谷納涼祭\nhttps://
- oishii.love/mizutama/live/2026/06/6267/\n\nベルサール渋谷ガーデ
- ン 他複数会場\n\nOP/ST TBA\nVIP ¥15\,000 ADV ¥4\,000 +1D\n\n▼出
- 演\n美味しい水玉 / 美味しい曖昧 / AOAO / Appare! / THE ENCORE
-  / UtaGe! / 衛星とカラテア / キングサリ / クマリデパー
- ト / こみっきゅおん！ / Sweet Alley / Task have Fun / 手羽先
- センセーション / Toi Toi Toi / Tohkei / NANIMONO / なみだ色の
- 消しごむ / パラディーク / ハルニシオン / Palette Parade / 
- FES☆TIVE / HzMe / myojou / Mirror\,Mirror / Merry BAD TUNE. / ラナキ
- ュラ / log you / IWI! / AISTEAL / ideal peco / アイテムはてるて
- るのみ / アイドルカレッジ / I MY ME MINE / I’mew（あいみ
- ゅう） / AZATOY / あたまのなかは8ビット⁉ / アルテミス
- の翼 / α＋ / alma / Ange☆Reve / unFinale Tokyo / 泡沫パーティ
- ーズ / Varia Noise. / airrow / Aerolipop / 8WIZARD / 8ANGEL / EDEN / 【
- eN】 / 踊れ！神風 / KATACOTO＊BANK / KATA☆CHU / 神様の言う
- 通り / カリスマめんざいふっ！ / GigiL / KissBee / kimikara（
- きみから） / 君とのシナリオ / 君と見るそら / 君のメ
- インヒロイン / CURE’T / Gran☆Ciel / Cotei / コングラッチ
- ェ！ / SAI ²Rium / サクヤコノハナ / シオリベル / JAPANARIZM
-  / Jewel☆Garden / SUPER JYAPON / STARRY×NIGHT↗ / STAiNY / すてね
- こキャッツ / SPRISE / SEKAIE☆ / SAISON / セレインノート / 
- ぜろから☆すた→と / ちゃーむぽっしゅ / Chalca / 月と
- ソーダ / 強がりセンセーション / diig / テラテラ / てん
- しめし！ / 点染テンセイ少女。 / トウトイナ。 DREAMING /
-  MONSTER / 虜なるプレリュード / 虹色の飛行少女 / にっぽ
- ん！真骨頂 / NiLUNLOCK / ネコプラpixx. / HIGH SPIRITS / hakanai /
-  buGG / ハニースパイスRe. / ハレとハレ！ / VVSiS / himawari(
- 船橋) / PiRiRi / ファーストプレイリスト / Falench. / ぶっ
- とび！パンデミック / FRESH CHARM / HATE and TEARS / BNSI / MyDres
- scode / マイノリティアラート / Magi / マジカル・パンチ
- ライン / MADOROMI-マドロミ- / まねきケチャ / まぶだちゅ
- ！ / Malcolm Mask McLaren / 未完成のキャラメル / MeMeQ / MEOWMEW
-  / ミラクルファンファーレ / メイビーME / metarium / MELYUME
-  / Melodys High / Y∀KIN / 山﨑夢羽 / 宵 / 越しのアンサンブ
- ル / 4次元コンパス / 4864. / RAViDAVi / LOVEME / 愛乙女★DOLL /
-  LilyS/ash / RiNCENT♯ / ルージュブック / Root mimi / ルルネー
- ジュ / わんふぁす！ / aiai* / 藍色アステリズム / あいす
+SUMMARY:SPARK 2026 渋谷納涼祭 DAY2
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260712
+UID:2026-07-12-5@mizutama-cal
+DESCRIPTION:渋谷各会場\nSPARK 2026 渋谷納涼祭 DAY2\nhttps://oish
+ ii.love/mizutama/live/2026/06/6267/\n\nベルサール渋谷ガーデン 
+ 他複数会場\n\nOP/ST TBA\nVIP ¥15\,000 ADV ¥4\,000 +1D\n\n▼出演(
+ 全日程)\n美味しい水玉 / 美味しい曖昧 / AOAO / Appare! / THE
+  ENCORE / UtaGe! / 衛星とカラテア / キングサリ / クマリデ
+ パート / こみっきゅおん！ / Sweet Alley / Task have Fun / 手
+ 羽先センセーション / Toi Toi Toi / Tohkei / NANIMONO / なみだ
+ 色の消しごむ / パラディーク / ハルニシオン / Palette Par
+ ade / FES☆TIVE / HzMe / myojou / Mirror\,Mirror / Merry BAD TUNE. / ラ
+ ナキュラ / log you / IWI! / AISTEAL / ideal peco / アイテムはて
+ るてるのみ / アイドルカレッジ / I MY ME MINE / I’mew（あ
+ いみゅう） / AZATOY / あたまのなかは8ビット⁉︎ / アル
+ テミスの翼 / α＋ / alma / Ange☆Reve / unFinale Tokyo / 泡沫パ
+ ーティーズ / Varia Noise. / airrow / Aerolipop / 8WIZARD / 8ANGEL / e
+ Den / 【eN】 / 踊れ！神風 / KATACOTO＊BANK / KATA☆CHU / 神様
+ の言う通り / カリスマめんざいふっ！ / GigiL / KissBee / ki
+ mikara（きみから） / 君とのシナリオ / 君と見るそら / 
+ 君のメインヒロイン / CURE’T / Gran☆Ciel / CoTei / コング
+ ラッチェ！ / SAI ²Rium / サクヤコノハナ / シオリベル / J
+ APANARIZM / Jewel☆Garden / SUPER JYAPON / STARRY×NIGHT↗ / STAiNY / 
+ すてねこキャッツ / SPRISE / SEKAIE☆ / SAISON / セレインノ
+ ート / ぜろから☆すた→と / ちゃーむぽっしゅ / Chalca /
+  月とソーダ / 強がりセンセーション / diig / テラテラ / 
+ てんしめし！ / 点染テンセイ少女。 / トウトイナ。 / DR
+ EAMING MONSTER / 虜なるプレリュード / 虹色の飛行少女 / に
+ っぽん！真骨頂 / NiLUNLOCK / ネコプラpixx. / HIGH SPIRITS / hak
+ anai / buGG / ハニースパイスRe. / ハレとハレ！ / VVSiS / hima
+ wari(船橋) / PiRiRi / ファーストプレイリスト / Falench. / ぶ
+ っとび！パンデミック / FRESH CHARM / HATE and TEARS / BNSI / MyD
+ resscode / マイノリティアラート / Magi / マジカル・パン
+ チライン / MADOROMI-マドロミ- / まねきケチャ / まぶだち
+ ゅ！ / Malcolm Mask McLaren / 未完成のキャラメル / MeMeQ / MEOW
+ MEW / ミラクルファンファーレ / メイビーME / metarium / MELY
+ UME / Melodys High / Y∀KiN / 山﨑夢羽 / 宵越しのアンサンブ
+ ル / 4次元コンパス / 4864 / RAViDAVi / LOVEME / 愛乙女★DOLL / 
+ LilyS/ash / RiNCENT♯ / ルージュブック / Root mimi / ルルネー
+ ジュ / わんふぁす！ / ai*ai / 藍色アステリズム / あいす
  なっつ / airattic / アキシブproject / アキストゼネコ / AQA /
   As a Cutie Pomeranian / ADMIRAL×BANQUET / Aproof / あまいものつめ
  あわせ / AMO million / &CUTE / UNBS(アンビス) / イイトコドリ 
- / 異国のルミナリア / いつだって青い春 / エイアイカ / 
- AZの理由 / éclatcia / ESTLINK☆ / Ep!codE / エピック・エピロ
- ーグ 第3番 / オカシリゾート / オトメルキュール / 思い
- 出とプレゼント / Aurora / 奏音コレクト / Coloration / COLOR o
- f COLOR / 蓋然性オルトイズム / GaCHU!!! / かすみ草とステ
- ラ / 君と青 / 君とのシナリオ / きみはれ。 / KAMAITACI / 
- 煌めき☆アンフォレント / きゅ～くる / キュータルチ
- ェ / きゅーんず！ / きゅんぱに！ / Gimme!×Gimme! / GANGDEMIC
-  / 空想ロマンス / Claire♡Dolls / グラたま / 幻色シアター
-  / 恋に落ちる確率は限りなく低いが0じゃない / このア
- イドルはフィクションです。 / CAL&RES / サイレントフィ
- ルム / シークレットシャノワール / Cheriecla / Cherie! / Sist
- ersあにま / シャルロット / Sugar♡Holic / しゅぴねす / 新
- 世界ギルドール / 17秒前の瞬きに光 / を / THE EUPHORIA / SCR
- AMBLE SMILE / ZUTTOMOTTO / スターチスのラブレター / スター
- リットストーリー / ステラリオン / ストロボグリッタ
- ー / SnowComp/ex / spiralia / スプスラッシュ / スポポポポニ
- ー / SMiLE DROP / セツナソウ / ゼノシンフォニー / Sophià la
-  Mode / 玉響storage / 昼夜逆転 / 月に足跡を残した少女達
- は一体何を見たのか… / TEARS-ティアーズ- / DollyKiss / DRAW
- CY / Drawry. / 撫子の音返し / なんキニ！ / にとくり。 / ne
- Oen / Noi/Fen:D / はいどーも！テラスマです！ / はぐっと
- ！ / 花いろは / HoneyDevil / 遥か、彼方。 / HEARLATE / ばた
- んキュン / BANZAI JAPAN / BUNGEE GUM. / PATI PATI CANDY…☆ / Panic 
- Monster !n Wonderland / パラレルサイダー / ハルカエコー / Pa
- lpitink / ParaLulu / ヒップバーン / ひとつキラリ / HIRAETH.Tok
- yo / vVibe! / ビーバイユー / Fancy film* / フィルフェリーチ
- ェ / FLAP STAR / Flower＊Hour / FLORERISA / ブルーなままで / Blue
- berry Girls / プエラの絶対値 / ベンジャス！ / 放課後プリ
- ンセス / 蛍 / BOCCHI。 / Poppin’ Parade / ポラリスマイル / 
- ポンコツコンポ / My Starry Diary / My_Stage / 魔訶不思議変革
- 者-デスデス- / 瞬きのネビュラ / MiX BeRRY / miao / ミライ
- サガシ～MIRAISAGASHI～ / ミライズ / メノニューイヤー / 
- メモワールパルファム / MORE* / MOMENT COLLECTION / UNION FLEUR /
-  ゆにきゅーと / 夢みるアドレセンス / ゆるっと革命団 
- / Yo2La / LAST PiECE / ラビットビット / ラフティア / LOVE C!DE
- R / LOVE 9 LOVE / ラプラス / Rea Lis / Re:♡ / リットクロスxxx 
- / LIT MOON / RIFFBABYZ / LiVREAL / Lily scale / Lily wonder / LuNaria / lu
- mietoile / Lumi Cherie / 縷々 / ルートプリュフォール / るる
- ぱにっく!!! / LADYBABY / LEVEL7 / Lollipop♡CHU / ワガマき / 笑
- う門には福来たる / wonder channel / ワンダーウィード 天\n
- \n▼チケット\nhttps://t-dv.com/spark2026_summer\nVIP先行：～6/21(
- 日)23:59\nVIP一般販売：6/22(月)22:00～\n一般販売：販売中\n
- \n【開催における注意事項】\n・スタッフの指示に従っ
- ていただけない方は退場いただくことがございます。\n
- その際のチケットの払い戻しはいたしませんのであら
- かじめご了承ください。\n・過度なモッシュ、ダイブ、
- サーフ他危険行為は禁止とさせていただきます。\nその
- ような行為によりケガ・事故等発生した場合は当事者
- 同士で協議をいただき、主催者は関与いたしかねます
- 。\n・過度な場所取り行為はご遠慮ください。\n・お手
- 荷物はロッカーをご利用ください。\n・ご購入者様、ご
- 本人様のご来場をしていただきますようにお願いいた
- します。\n・公演終了後、会場を出られた方は溜まらず
- に解散をお願いいたします。\n・出待ち、入り待ち等、
- 近隣の方の迷惑になる行為はお辞めください。
+ / 異国のルミナリア / いつだって青い春。 / エイアイカ
+  / AZの理由 / éclatcia / ESTLINK☆ / Ep!codE / エピック・エピ
+ ローグ 第3番 / オカシリゾート / オトメルキュール / 思
+ い出とプレゼント / Aurora / 奏音コレクト / Coloration / COLO
+ R of COLOR / 蓋然性オルトイズム / GaCHU!!! / かすみ草とス
+ テラ / 君と青 / きみはれ。 / KAMAITACI / 煌めき☆アンフ
+ ォレント / きゅ〜くる / キュータルチェ / きゅーんず
+ ！ / きゅんぱに！ / Gimme!×Gimme! / GANGDEMIC / 空想ロマンス
+  / Claire♡Dolls / グラたま / 幻色シアター / 恋に落ちる確
+ 率は限りなく低いが0じゃない / このアイドルはフィク
+ ションです。 / CAL&RES / サイレントフィルム / シークレ
+ ットシャノワール / Cheriecla / Cherie! / Sistersあにま / シャ
+ ルロット / Sugar♡Holic / シュピネス / 新世界ギルドール 
+ / THE EUPHORIA / SCRAMBLE SMILE / ZUTTOMOTTO / スターチスのラブレ
+ ター / スターリットストーリー / ステラリオン / スト
+ ロボグリッター / SnowComp/ex / Spiralia / スプスラッシュ / 
+ スポポポポニー / SMiLE DROP / セツナソウ / ゼノシンフォ
+ ニー / Sophià la Mode / 玉響storage / 昼夜逆転 / 月に足跡を
+ 残した少女達は一体何を見たのか… / TEARS-ティアーズ- 
+ / DollyKiss / DRAWCY / Drawry. / 撫子の音返し / なんキニ！ / 
+ にとくり。 / Noi/Fen:D / neOen / はいどーも！テラスマです
+ ！ / はぐっと！ / 花いろは / HoneyDevil / 遥か、彼方。 / H
+ EARLATE / ばたんキュン / BANZAI JAPAN / BUNGEE GUM. / PATI PATI CAND
+ Y…☆ / Panic Monster !n Wonderland / パラレルサイダー / ハル
+ カエコー / Palpitink / ParaLulu / ヒップバーン / ひとつキラ
+ リ / HIRAETH.Tokyo / vVibe! / ビーバイユー / Fancy Film* / フィ
+ ルフェリーチェ / FLAP STAR / Flower＊Hour / FLORERISA / ブルー
+ なままで / Blueberry Girls / プエラの絶対値 / ベンジャス
+ ！ / 放課後プリンセス / 蛍 / BOCCHI。 / Poppin’ Parade / ポ
+ ラリスマイル / ポンコツコンポ / My Starry Diary / My_Stage / 
+ 魔訶不思議変革者-デスデス- / 瞬きのネビュラ / MiX BeRRY
+  / miao / ミライサガシ〜MIRAISAGASHI〜 / ミライズ / メノニ
+ ューイヤー / メモワールパルファム / MORE* / MOMENT COLLECTI
+ ON / UNION FLEUR / ゆにきゅーと / 夢みるアドレセンス / ゆ
+ るっと革命団 / Yo2La / LAST PiECE / ラビットビット / ラフ
+ ティア / LOVE C!DER / LOVE 9 LOVE / ラプラス / Rea Lis / Re:♡ / 
+ リットクロスxxx / LIT MOON / RIFFBABYZ / LiVREAL / Lily scale / Lily
+  wonder / Lunaria / Lumiétoile / Lumi Cherie / 縷々 / ルートプリ
+ ュフォール / るるぱにっく!! / LADYBABY / LEVEL7 / Lollipop♡CH
+ U / ワガマき / 笑う門には福来たる / wonder channel / ワン
+ ダーウィード 天 / One Last Bloom / AKANECLUB. / アストレイル 
+ / @youuuuu!!! / anemoreel / アップアップガールズ(仮) / アッ
+ プアップガールズ（プロレス） / UP UP NEW AGE ネオアゲ / 
+ iROTORiDOLLY / きゅんﾀﾋに一生を!? / SiLENT←NOiSE / Secret Pin
+ ky / 終末のアンセム / 17秒前の瞬きに光を / ノベルノア 
+ / Pafio / +Alpha / HEAVENLY / Payrin’s / マリークラウン / MiiS / 
+ MiDi ON! / ミリフェア / melnoir / ROOKEY♡ROOKEYS\n\n▼チケット
+ \nhttps://t-dv.com/spark2026_summer\nVIP先行：～6/21(日)23:59\nVIP一
+ 般販売：6/22(月)22:00～\n一般販売：販売中\n\n🎁入場特
+ 典🎁\nVIP：囲み写メ券/15秒動画券\n一般：写メ券/私物
+ サイン券\n\n【開催における注意事項】\n・スタッフの
+ 指示に従っていただけない方は退場いただくことがご
+ ざいます。\nその際のチケットの払い戻しはいたしませ
+ んのであらかじめご了承ください。\n・過度なモッシュ
+ 、ダイブ、サーフ他危険行為は禁止とさせていただき
+ ます。\nそのような行為によりケガ・事故等発生した場
+ 合は当事者同士で協議をいただき、主催者は関与いた
+ しかねます。\n・過度な場所取り行為はご遠慮ください
+ 。\n・お手荷物はロッカーをご利用ください。\n・ご購
+ 入者様、ご本人様のご来場をしていただきますように
+ お願いいたします。\n・公演終了後、会場を出られた方
+ は溜まらずに解散をお願いいたします。\n・出待ち、入
+ り待ち等、近隣の方の迷惑になる行為はお辞めくださ
+ い。
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
