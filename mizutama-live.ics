@@ -86,8 +86,9 @@ DESCRIPTION:下北沢4会場周遊\nINFINITY LIVE presents『ASTROFES 2026
  のソラリス / 夢みるアドレセンス / 揺メク夜ニ / AVACLUB 
  / ワガマき / novel junction / きゃらめるもんすたーず / 始
  発待ちアンダーグラウンド / グットクルー / くぴぽ / Li
- ly / 猫の眼に宇宙 / ROY Limited GIRLFRIEND\nand more…\n\n▼チケ
- ット\nhttps://t-dv.com/20260704_all\n6/3(水)20:00〜
+ ly / 猫の眼に宇宙 / ROY Limited GIRLFRIEND / びびっとキュー
+ ト / クモリノチ。 / POPPiNG EMO\n\n▼チケット\nhttps://t-dv.co
+ m/20260704_all\n6/3(水)20:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -257,10 +258,52 @@ DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IMMERSE
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260718
+UID:2026-07-18-7@mizutama-cal
+DESCRIPTION:Shibuya Milkyway\nIMMERSE\nhttps://oishii.love/mizutama/live/2
+ 026/06/6322/\n\nOP/ST 10:30/10:45\nADV ¥2\,000 +1D\n\n▼出演\n美味
+ しい水玉\nキュニコ\nCoTei\n寄絃 – Yo2La\n\n▼チケット\nht
+ tps://t-dv.com/260718_IMMERSE\n6/26(金)22:00〜\n\n・全席オールス
+ タンディングとなります。\n・飲食物の持ち込みは禁止
+ です。\n・イベント会場近隣での溜まり・喫煙・飲食等
+ はご遠慮ください。\n・お客様を含む会場内の映像・写
+ 真が公開される場合がございます。予めご了承くださ
+ い。\n・スタッフの指示に従っていただけない方は退場
+ いただくことがございます。その際のチケットの払い
+ 戻しはいたしませんのであらかじめご了承ください。\n
+ ・リフト、モッシュ、ダイブ等の危険行為、ヤジ等の
+ 迷惑行為は禁止とさせていただきます。そのような行
+ 為によりケガ・事故等発生した場合は当事者同士で協
+ 議をいただき、主催者は関与いたしかねます。\n・荷物
+ 等を置いての場所取り行為はご遠慮ください。\n・お手
+ 荷物はロッカーをご利用ください。\n・お荷物、貴重品
+ の管理はお客様ご自身で管理お願いいたします。盗難
+ の際は主催者は一切の責任を負いませんのでご了承く
+ ださい。\n・会場内、外で生じた事故や盗難、破損、傷
+ 害等に関して主催者・会場・出演者は一切の責任を負
+ いません。\n・天候や災害、トラブルや出演者様の都合
+ により予告無しでイベントの中止、会場、時間、内容
+ 等を変更する場合がありますので予めご了承ください
+ 。\n・会場内での座り込みはご遠慮ください。スタッフ
+ からお声がけをさせていただく場合がございます。\n・
+ 公演終了後、会場を出られた方は会場付近に滞留しな
+ いようにお願いいたします。\n・出待ち、入り待ち等、
+ 出演者様の迷惑になる行為はお辞めください。\n・お客
+ 様都合によるチケットのキャンセルや返金は対応でき
+ ませんので予めご了承ください。同様に、出演者様都
+ 合によるキャンセルのチケット返金につきましても対
+ 応できませんので予めご了承ください。\n・イベントの
+ 内容に関する会場への直接のお問合せはご遠慮くださ
+ い。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ゆループ
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-UID:2026-07-26-7@mizutama-cal
+UID:2026-07-26-8@mizutama-cal
 DESCRIPTION:下北沢各会場\nゆループ\nhttps://oishii.love/mizutama
  /live/2026/06/6216/\n\nリストバンド交換開始 10:30〜\nST 11:30(
  予定)\n\nゆルーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,
@@ -283,15 +326,17 @@ DESCRIPTION:下北沢各会場\nゆループ\nhttps://oishii.love/mizutama
  グデイ / さとりモンスター / SEVENTEEN AGAiN / Czecho No Republi
  c / 東京パピーズ / novel junction / ハイエナカー / berliner fi
  lling wis / ポップしなないで / め組 / mele / ようなぴバン
- ド / LOOPARADE\n\n▼チケット\nhttps://buzz-ticket.com/e/YOULOOP\n6/4
- (木)22:00〜
+ ド / LOOPARADE / Utakata / 観音日和 / ギターウルフ / 脳みそ
+ 夫 / 箱庭の室内楽 / 松永天馬（アーバンギャルド） / 
+ 桃組暴想族 / ユビッジャ・ポポポー\n\n▼チケット\nhttps
+ ://buzz-ticket.com/e/YOULOOP\n6/4(木)22:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:POPGALAXY2026
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260815
-UID:2026-08-15-8@mizutama-cal
+UID:2026-08-15-9@mizutama-cal
 DESCRIPTION:-08.16(日) お台場R地区\nPOPGALAXY2026\nhttps://oishii.lo
  ve/mizutama/live/2026/06/6319/\n\nOP/ST 9:00/10:00(予定)\nVIP ¥20\,000 
  ADV ¥4\,500 +1D\n\n※詳細後日発表
