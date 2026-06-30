@@ -3,45 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
- t-
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260630
-UID:2026-06-30-0@mizutama-cal
-DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
- ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/05/6191/
- \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
- 500 DOOR ¥2\,000 +1D\n\n🎁入場特典🎁\n「美味しい試食券」
- (サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
- プを問わずお好きなメンバー1名と撮影可能\n\n▼出演\n
- 美味しい水玉\n美味しい曖昧\n美味しい贖罪\n\n▼チケッ
- ト\nhttps://livepocket.jp/e/m65if\n5/22(金)20:00～\n\n【優先チケ
- ット特典】\n・優先エリアでの観覧が可能となります。
- \n・優先入場となります。\n・特典会に参加される方は
- 番号順に優先的に整列いたします。\n※優先整列は開場
- 及び特典会が始まる前に整列をお願いします。\n(特典
- 会の列は特典会が始まりましたら割込み禁止とさせて
- いただきます。ご了承ください。)\n\n【お客様への諸注
- 意】\n※入場時、ドリンク代が必要となります。\n※入
- 場時、チケット読み込みの際、スクリーンショットで
- の提示は禁止となります。\n※泥酔者の入場は、お断り
- いたします。\n※モッシュ、ダイブ、リフト、過度なジ
- ャンプ、他危険行為は一切禁止とさせていただきます
- 。\n※ライブ公演中の写真撮影、録音、録画行為は禁止
- とさせていただきます。\n※会場周辺でのたむろ、大声
- での会話は近隣の迷惑になる為、ご遠慮ください。\n※
- その他、会場やほかのお客様、メンバーに迷惑をかけ
- る行為をされたり、上記のルールをお守りになれない
- お客様には、ご退場いただく場合がございます。その
- 場合、チケット代の返金などはできかねます。ご了承
- ください。
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROFES 2026 -Summer-』
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260704
-UID:2026-07-04-1@mizutama-cal
+UID:2026-07-04-0@mizutama-cal
 DESCRIPTION:下北沢Flowers Loft\nINFINITY LIVE presents『ASTROFES 2026 
  -Summer-』\nhttps://oishii.love/mizutama/live/2026/06/6238/\n\nMOSAiC / F
  lowers Loft / WAVER / CLUB251\n\nリストバンド交換はMOSAiCにて11
@@ -69,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Tribu 10th Anniversary half step ahead-DAY2-
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260711
-UID:2026-07-11-2@mizutama-cal
+UID:2026-07-11-1@mizutama-cal
 DESCRIPTION:新宿LOFT\nTribu 10th Anniversary half step ahead-DAY2-\nhttp
  s://oishii.love/mizutama/live/2026/05/6209/\n\nOP/ST 10:40/11:00\nADV ¥2\
  ,900 DOOR ¥3\,300 +1D\n\n🎤出演 11:00〜\n📸特典会 終演後\n\n
@@ -92,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:SPARK 2026 渋谷納涼祭 DAY2
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260712
-UID:2026-07-12-3@mizutama-cal
+UID:2026-07-12-2@mizutama-cal
 DESCRIPTION:渋谷各会場\nSPARK 2026 渋谷納涼祭 DAY2\nhttps://oish
  ii.love/mizutama/live/2026/06/6267/\n\nベルサール渋谷ガーデン 
  他複数会場\n\nOP/ST TBA\nVIP ¥15\,000 ADV ¥4\,000 +1D\n\n▼出演(
@@ -203,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260714
-UID:2026-07-14-4@mizutama-cal
+UID:2026-07-14-3@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6289/\n\
  nOP/ST 18:30/19:00\n優先(A) ¥3\,000 ※枚数限定\n一般(B) ¥1\,500
@@ -235,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:IMMERSE
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260718
-UID:2026-07-18-5@mizutama-cal
+UID:2026-07-18-4@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\nIMMERSE\nhttps://oishii.love/mizutama/live/2
  026/06/6322/\n\nOP/ST 10:30/10:45\nADV ¥2\,000 +1D\n\n▼出演\n美味
  しい水玉\nキュニコ\nCoTei\n寄絃 – Yo2La\n\n▼チケット\nht
@@ -277,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:ゆループ
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-UID:2026-07-26-6@mizutama-cal
+UID:2026-07-26-5@mizutama-cal
 DESCRIPTION:下北沢各会場\nゆループ\nhttps://oishii.love/mizutama
  /live/2026/06/6216/\n\nリストバンド交換開始 10:30〜\nST 11:30(
  予定)\n\nゆルーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,
@@ -310,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:POPGALAXY2026
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260815
-UID:2026-08-15-7@mizutama-cal
+UID:2026-08-15-6@mizutama-cal
 DESCRIPTION:-08.16(日) お台場R地区\nPOPGALAXY2026\nhttps://oishii.lo
  ve/mizutama/live/2026/06/6319/\n\nOP/ST 9:00/10:00(予定)\nVIP ¥20\,000 
  ADV ¥4\,500 +1D\n\n※詳細後日発表
@@ -320,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-8@mizutama-cal
+UID:2026-08-31-7@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n\
  nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 +
