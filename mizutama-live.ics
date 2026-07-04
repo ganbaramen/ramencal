@@ -3,38 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:INFINITY LIVE presents『ASTROFES 2026 -Summer-』
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260704
-UID:2026-07-04-0@mizutama-cal
-DESCRIPTION:下北沢Flowers Loft\nINFINITY LIVE presents『ASTROFES 2026 
- -Summer-』\nhttps://oishii.love/mizutama/live/2026/06/6238/\n\nMOSAiC / F
- lowers Loft / WAVER / CLUB251\n\nリストバンド交換はMOSAiCにて11
- :00開始\nOP/ST 11:30/12:00\nCOMPLETE ¥7\,900 ※特典付き\nADV ¥4\,
- 000 +1D\n\n🎤出演 18:50〜\n📸特典会 終演後\n\n▼出演\n美
- 味しい水玉 / alma / LUCY / じゅじゅ / シンダーエラ / キキ
- レイレイ / 8°世界が変われば、 / KACHIDOKI / YUGUREMI / Questi
- on.VI / WONDERWHITE / YELLOWBEAT BOP / SEVEN SENSES / Hello♡DayDream! / 
- Lion net girl / THE ORGANICS / Tri-Sphere / Innocent Lucia / RETRORAIN / 
- トナリア / 幻色シアター / マイナーガール / 唯美人形 /
-  KIRA:MINA / キュニコ / ponderosa may bloom / CUBΣLIC / GREAT MONKEYS
-  / LOOPARADE / Gimme!×Gimme! / IQ99 / MA7MEL / ミライズ / KIKO / RIFF
- BABYZ / じゅじゅ / シンダーエラ / 棘-おどろ- / メルクマ
- ールメルマール / CoTei / sync sens / 開歌-かいか- / PANDA CLUB
-  / スーパーオーバー / meluQ / 雨模様のソラリス / 夢みる
- アドレセンス / 揺メク夜ニ / AVACLUB / ワガマき / novel junc
- tion / きゃらめるもんすたーず / 始発待ちアンダーグラ
- ウンド / グットクルー / くぴぽ / Lily / 猫の眼に宇宙 / R
- OY Limited GIRLFRIEND / びびっとキュート / クモリノチ。 / PO
- PPiNG EMO\n\n▼チケット\nhttps://t-dv.com/20260704_all\n6/3(水)20:00
- 〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『シキサイ。』
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260709
-UID:2026-07-09-1@mizutama-cal
+UID:2026-07-09-0@mizutama-cal
 DESCRIPTION:渋谷STAR LOUNGE\n#ﾆｷﾌﾟﾚ『シキサイ。』\nhttp
  s://oishii.love/mizutama/live/2026/07/6356/\n\nOP/ST 18:30/18:50\nADV ¥2\
  ,500 DOOR ¥3\,000 +1D\n\n🎤出演 19:50〜\n📸特典会 終演後\n\n
@@ -46,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:Tribu 10th Anniversary half step ahead-DAY2-
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260711
-UID:2026-07-11-2@mizutama-cal
+UID:2026-07-11-1@mizutama-cal
 DESCRIPTION:新宿LOFT\nTribu 10th Anniversary half step ahead-DAY2-\nhttp
  s://oishii.love/mizutama/live/2026/05/6209/\n\nOP/ST 10:40/11:00\nADV ¥2\
  ,900 DOOR ¥3\,300 +1D\n\n🎤出演 11:00〜\n📸特典会 終演後\n\n
@@ -69,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:SPARK 2026 渋谷納涼祭 DAY2
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260712
-UID:2026-07-12-3@mizutama-cal
+UID:2026-07-12-2@mizutama-cal
 DESCRIPTION:渋谷各会場\nSPARK 2026 渋谷納涼祭 DAY2\nhttps://oish
  ii.love/mizutama/live/2026/06/6267/\n\nベルサール渋谷ガーデン 
  他複数会場\n\nOP/ST TBA\nVIP ¥15\,000 ADV ¥4\,000 +1D\n\n▼出演(
@@ -180,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260714
-UID:2026-07-14-4@mizutama-cal
+UID:2026-07-14-3@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6289/\n\
  nOP/ST 18:30/19:00\n優先(A) ¥3\,000 ※枚数限定\n一般(B) ¥1\,500
@@ -212,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:IMMERSE
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260718
-UID:2026-07-18-5@mizutama-cal
+UID:2026-07-18-4@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\nIMMERSE\nhttps://oishii.love/mizutama/live/2
  026/06/6322/\n\nOP/ST 10:30/10:45\nADV ¥2\,000 +1D\n\n▼出演\n美味
  しい水玉\nキュニコ\nCoTei\n寄絃 – Yo2La\n\n▼チケット\nht
@@ -255,7 +227,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260721
-UID:2026-07-21-6@mizutama-cal
+UID:2026-07-21-5@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/06/6353/
  \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -310,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:ゆループ
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-UID:2026-07-26-7@mizutama-cal
+UID:2026-07-26-6@mizutama-cal
 DESCRIPTION:下北沢各会場\nゆループ\nhttps://oishii.love/mizutama
  /live/2026/06/6216/\n\nリストバンド交換開始 10:30〜\nST 11:30(
  予定)\n\nゆルーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,
@@ -343,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:POPGALAXY2026
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260815
-UID:2026-08-15-8@mizutama-cal
+UID:2026-08-15-7@mizutama-cal
 DESCRIPTION:-08.16(日) お台場R地区\nPOPGALAXY2026\nhttps://oishii.lo
  ve/mizutama/live/2026/06/6319/\n\nOP/ST 9:00/10:00(予定)\nVIP ¥20\,000 
  ADV ¥4\,500 +1D\n\n※詳細後日発表
@@ -353,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-9@mizutama-cal
+UID:2026-08-31-8@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n\
  nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 +
