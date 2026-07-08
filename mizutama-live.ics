@@ -353,4 +353,20 @@ DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  了承ください。
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:水玉なワンマン3 – Sing to Cyan –
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261008
+UID:2026-10-08-9@mizutama-cal
+DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
+ tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
+ (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
+ OR ¥2\,000 +1D\n\n▼出演\n美味しい水玉\n\n▼チケット\n優
+ 先チケット(A)はOISHII FCプレミアム会員限定で抽選受付
+ いたします\nhttps://oishii-fc.bitfan.id/events/21112\n抽選先行：
+ 〜7/12(日)23:59\n\nhttps://livepocket.jp/e/mizutama-oneman3\nオフィ
+ シャル抽選先行：7/14(火)12:00〜7/19(日)23:59\n一般販売：7/
+ 21(火) 12:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
