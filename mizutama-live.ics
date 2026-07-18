@@ -3,66 +3,11 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:IMMERSE
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260718
-UID:2026-07-18-0@mizutama-cal
-DESCRIPTION:[day] Shibuya Milkyway\nIMMERSE\nhttps://oishii.love/mizutama/
- live/2026/07/6322/\n\nOP/ST 10:30/10:45\nADV ¥2\,000 +1D\n\n🎤出演 11
- :15〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉\nキュ
- ニコ\nCoTei\n寄絃 – Yo2La\n\n▼チケット\nhttps://t-dv.com/26071
- 8_IMMERSE\n6/26(金)22:00〜\n\n・全席オールスタンディングと
- なります。\n・飲食物の持ち込みは禁止です。\n・イベ
- ント会場近隣での溜まり・喫煙・飲食等はご遠慮くだ
- さい。\n・お客様を含む会場内の映像・写真が公開され
- る場合がございます。予めご了承ください。\n・スタッ
- フの指示に従っていただけない方は退場いただくこと
- がございます。その際のチケットの払い戻しはいたし
- ませんのであらかじめご了承ください。\n・リフト、モ
- ッシュ、ダイブ等の危険行為、ヤジ等の迷惑行為は禁
- 止とさせていただきます。そのような行為によりケガ
- ・事故等発生した場合は当事者同士で協議をいただき
- 、主催者は関与いたしかねます。\n・荷物等を置いての
- 場所取り行為はご遠慮ください。\n・お手荷物はロッカ
- ーをご利用ください。\n・お荷物、貴重品の管理はお客
- 様ご自身で管理お願いいたします。盗難の際は主催者
- は一切の責任を負いませんのでご了承ください。\n・会
- 場内、外で生じた事故や盗難、破損、傷害等に関して
- 主催者・会場・出演者は一切の責任を負いません。\n・
- 天候や災害、トラブルや出演者様の都合により予告無
- しでイベントの中止、会場、時間、内容等を変更する
- 場合がありますので予めご了承ください。\n・会場内で
- の座り込みはご遠慮ください。スタッフからお声がけ
- をさせていただく場合がございます。\n・公演終了後、
- 会場を出られた方は会場付近に滞留しないようにお願
- いいたします。\n・出待ち、入り待ち等、出演者様の迷
- 惑になる行為はお辞めください。\n・お客様都合による
- チケットのキャンセルや返金は対応できませんので予
- めご了承ください。同様に、出演者様都合によるキャ
- ンセルのチケット返金につきましても対応できません
- ので予めご了承ください。\n・イベントの内容に関する
- 会場への直接のお問合せはご遠慮ください。
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INFINITY LIVE presents『WHITEDAYS』
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260718
-UID:2026-07-18-1@mizutama-cal
-DESCRIPTION:[night] 下北沢MOSAiC\nINFINITY LIVE presents『WHITEDAYS』
- \nhttps://oishii.love/mizutama/live/2026/07/6372/\n\nOP/ST 18:30/18:50\n
- 優先入場 ¥3\,100\nADV ¥2\,400 DOOR ¥3\,100 +1D\n\n🎤出演 19:50
- 〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉\nマイナ
- ーガール\nponderosa may bloom\nRETRORAIN\n\n▼チケット\nhttps://t
- -dv.com/20260718_night_2\n7/12(日)18:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260721
-UID:2026-07-21-2@mizutama-cal
+UID:2026-07-21-0@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/06/6353/
  \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -117,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:8°世界が変われば、『8utter POP!! vol.12』
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260725
-UID:2026-07-25-3@mizutama-cal
+UID:2026-07-25-1@mizutama-cal
 DESCRIPTION:[day] 四谷LOTUS\n8°世界が変われば、『8utter POP!! 
  vol.12』\nhttps://oishii.love/mizutama/live/2026/07/6384/\n\nOP/ST 10:30/
  10:50\nADV ¥2\,500 DOOR ¥3\,000 +1D\n\n🎤出演 11:20〜\n📸特典
@@ -131,7 +76,7 @@ SUMMARY:ゆるめるモ！主催『ゆループ – YOULOOP – 前日決
  起集会!!』
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260725
-UID:2026-07-25-4@mizutama-cal
+UID:2026-07-25-2@mizutama-cal
 DESCRIPTION:[night] 下北沢RéG\nゆるめるモ！主催『ゆループ
   – YOULOOP – 前日決起集会!!』\nhttps://oishii.love/mizutama/liv
  e/2026/07/6390/\n\nOP/ST 11:00/11:20\nADV ¥3\,200 DOOR ¥4\,200 +1D\n\n
@@ -147,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:ゆループ
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-UID:2026-07-26-5@mizutama-cal
+UID:2026-07-26-3@mizutama-cal
 DESCRIPTION:下北沢RéG\nゆループ\nhttps://oishii.love/mizutama/live
  /2026/07/6216/\n\nリストバンド交換開始 10:30〜\nOP/ST 11:00/11:
  30\n\nゆルーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,000 V
@@ -183,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:POPGALAXY2026
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260815
-UID:2026-08-15-6@mizutama-cal
+UID:2026-08-15-4@mizutama-cal
 DESCRIPTION:-08.16(日) お台場R地区\nPOPGALAXY2026\nhttps://oishii.lo
  ve/mizutama/live/2026/06/6319/\n\nOP/ST 9:00/10:00(予定)\nVIP ¥20\,000 
  ADV ¥4\,500 +1D\n\n※詳細後日発表
@@ -193,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:novel junction presents「special junction vol.01」
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260816
-UID:2026-08-16-7@mizutama-cal
+UID:2026-08-16-5@mizutama-cal
 DESCRIPTION:下北沢FlowersLoft\nnovel junction presents「special juncti
  on vol.01」\nhttps://oishii.love/mizutama/live/2026/07/6381/\n\nOP/ST 11:
  00/11:20\nADV ¥2\,500 DOOR ¥3\,000 +1D\n\n▼出演\n美味しい水玉\
@@ -205,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-8@mizutama-cal
+UID:2026-08-31-6@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n\
  nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 +
@@ -237,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-9@mizutama-cal
+UID:2026-10-08-7@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
