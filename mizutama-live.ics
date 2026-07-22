@@ -91,10 +91,28 @@ DESCRIPTION:下北沢FlowersLoft\nnovel junction presents「special juncti
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
+ t-
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260821
+UID:2026-08-21-5@mizutama-cal
+DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
+ ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/07/6397/
+ \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
+ 500 DOOR ¥2\,000 +1D\n\n🎁入場特典🎁\n「美味しい試食券」
+ (サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
+ プを問わずお好きなメンバー1名と撮影可能\n\n▼チケッ
+ ト\n優先チケット(A)はOISHII FCプレミアム会員限定で抽選
+ 受付いたします\nhttps://oishii-fc.bitfan.id/events/21430\n抽選先
+ 行：〜7/27(月)23:59\n\nhttps://livepocket.jp/e/ml37u\n一般販売：8
+ /3(月)12:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-5@mizutama-cal
+UID:2026-08-31-6@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n\
  nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 +
@@ -126,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-6@mizutama-cal
+UID:2026-10-08-7@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
