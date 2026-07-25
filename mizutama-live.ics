@@ -3,40 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:8°世界が変われば、『8utter POP!! vol.12』
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260725
-UID:2026-07-25-0@mizutama-cal
-DESCRIPTION:[day] 四谷LOTUS\n8°世界が変われば、『8utter POP!! 
- vol.12』\nhttps://oishii.love/mizutama/live/2026/07/6384/\n\nOP/ST 10:30/
- 10:50\nADV ¥2\,500 DOOR ¥3\,000 +1D\n\n🎤出演 11:20〜\n📸特典
- 会 終演後\n\n▼出演\n美味しい水玉\n8°世界が変われば
- 、\nGREATMONKEYS\n\n▼チケット\nhttps://tiget.net/events/506804\n7/1
- 5(水)22:15〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ゆるめるモ！主催『ゆループ – YOULOOP – 前日決
- 起集会!!』
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260725
-UID:2026-07-25-1@mizutama-cal
-DESCRIPTION:[night] 下北沢RéG\nゆるめるモ！主催『ゆループ
-  – YOULOOP – 前日決起集会!!』\nhttps://oishii.love/mizutama/liv
- e/2026/07/6390/\n\nOP/ST 11:00/11:20\nADV ¥3\,200 DOOR ¥4\,200 +1D\n\n
- 🎤出演 16:55〜\n📸特典会 17:45〜\n\n▼出演\n美味しい水
- 玉 / ゆるめるモ！ / RETRORAIN / GREAT MONKEYS / REBEL REBEL / ス
- ーパーオーバー / novel junction / berliner filling wis / MA7MEL / T
- ri-Sphere / 棘-おどろ- / マイナーガール / 唯美人形 / Lily /
-  始発待ちアンダーグラウンド\n\n▼チケット\nhttps://t-dv.
- com/20260725_reg\n7/17(金)20:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ゆループ
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260726
-UID:2026-07-26-2@mizutama-cal
+UID:2026-07-26-0@mizutama-cal
 DESCRIPTION:下北沢RéG\nゆループ\nhttps://oishii.love/mizutama/live
  /2026/07/6216/\n\nリストバンド交換開始 10:30〜\nOP/ST 11:00/11:
  30\n\nゆルーVIP ¥15\,000 ゆルーVIP学生 ¥13\,000\nVIP ¥12\,000 V
@@ -69,10 +39,23 @@ DESCRIPTION:下北沢RéG\nゆループ\nhttps://oishii.love/mizutama/live
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INFINITY LIVE presents『ASTROPUFF』
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+UID:2026-08-02-1@mizutama-cal
+DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『ASTROPUFF』\nhttps:
+ //oishii.love/mizutama/live/2026/07/6407/\n\nOP/ST 10:40/11:00\n優先入
+ 場 ¥3\,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n🎤出演 11:50〜\n📸
+ 特典会 終演後\n\n▼出演\n美味しい水玉\n8°世界が変わ
+ れば、\n寄絃 – Yo2La\nKIRA:MINA\nDrawry.\n\n▼チケット\nhttps:
+ //t-dv.com/20260802_day\n7/26(日)20:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:POPGALAXY2026
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260815
-UID:2026-08-15-3@mizutama-cal
+UID:2026-08-15-2@mizutama-cal
 DESCRIPTION:-08.16(日) お台場R地区\nPOPGALAXY2026\nhttps://oishii.lo
  ve/mizutama/live/2026/07/6319/\n\nOP/ST 9:00/10:00(予定)\nVIP ¥20\,000 
  ※特典付き\nADV ¥4\,500 +1D\n\n▼チケット\n●VIP\nDAY1：http:
@@ -86,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:novel junction presents「special junction vol.01」
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260816
-UID:2026-08-16-4@mizutama-cal
+UID:2026-08-16-3@mizutama-cal
 DESCRIPTION:下北沢FlowersLoft\nnovel junction presents「special juncti
  on vol.01」\nhttps://oishii.love/mizutama/live/2026/07/6381/\n\nOP/ST 11:
  00/11:20\nADV ¥2\,500 DOOR ¥3\,000 +1D\n\n▼出演\n美味しい水玉\
@@ -99,7 +82,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260821
-UID:2026-08-21-5@mizutama-cal
+UID:2026-08-21-4@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/07/6397/
  \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -116,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-6@mizutama-cal
+UID:2026-08-31-5@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n\
  nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 +
@@ -148,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-7@mizutama-cal
+UID:2026-10-08-6@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
