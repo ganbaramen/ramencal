@@ -3,23 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:INFINITY LIVE presents『ASTROPUFF』
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260802
-UID:2026-08-02-0@mizutama-cal
-DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『ASTROPUFF』\nhttps:
- //oishii.love/mizutama/live/2026/07/6407/\n\nOP/ST 10:40/11:00\n優先入
- 場 ¥3\,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n🎤出演 11:50〜\n📸
- 特典会 終演後\n\n▼出演\n美味しい水玉\n8°世界が変わ
- れば、\n寄絃 – Yo2La\nKIRA:MINA\nDrawry.\n\n▼チケット\nhttps:
- //t-dv.com/20260802_day\n7/26(日)20:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IDOL FILE PRESENTS Lolita Fashion Party Vol.2
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260808
-UID:2026-08-08-1@mizutama-cal
+UID:2026-08-08-0@mizutama-cal
 DESCRIPTION:SHIBUYA WOMB LIVE\nIDOL FILE PRESENTS Lolita Fashion Party Vol
  .2\nhttps://oishii.love/mizutama/live/2026/08/6410/\n\nOP/ST 15:30/15:50\n
  ADV ¥4\,500 DOOR ¥5\,200 +1D\n\n🎤出演 16:50〜\n📸特典会 終
@@ -37,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROPUFF』
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260811
-UID:2026-08-11-2@mizutama-cal
+UID:2026-08-11-1@mizutama-cal
 DESCRIPTION:[day] 下北沢CLUB251\nINFINITY LIVE presents『ASTROPUFF』\
  nhttps://oishii.love/mizutama/live/2026/07/6421/\n\nOP/ST 13:10/13:30\n優
  先入場 ¥3\,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n🎤出演 14:30〜\
@@ -50,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『ASTROPUFF』
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260811
-UID:2026-08-11-3@mizutama-cal
+UID:2026-08-11-2@mizutama-cal
 DESCRIPTION:[night] 下北沢CLUB251\nINFINITY LIVE presents『ASTROPUFF
  』\nhttps://oishii.love/mizutama/live/2026/07/6416/\n\nOP/ST 18:00/18:15\
  n優先入場 ¥3\,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n🎤出演 18:15
@@ -63,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:POPGALAXY2026
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260815
-UID:2026-08-15-4@mizutama-cal
+UID:2026-08-15-3@mizutama-cal
 DESCRIPTION:-08.16(日) お台場R地区\nPOPGALAXY2026\nhttps://oishii.lo
  ve/mizutama/live/2026/07/6319/\n\nOP/ST 9:00/10:00(予定)\nVIP ¥20\,000 
  ※特典付き\nADV ¥4\,500 +1D\n\n▼チケット\n●VIP\nDAY1：http:
@@ -77,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:novel junction presents「special junction vol.01」
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260816
-UID:2026-08-16-5@mizutama-cal
+UID:2026-08-16-4@mizutama-cal
 DESCRIPTION:下北沢FlowersLoft\nnovel junction presents「special juncti
  on vol.01」\nhttps://oishii.love/mizutama/live/2026/07/6381/\n\nOP/ST 11:
  00/11:20\nADV ¥2\,500 DOOR ¥3\,000 +1D\n\n▼出演\n美味しい水玉\
@@ -90,7 +77,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260821
-UID:2026-08-21-6@mizutama-cal
+UID:2026-08-21-5@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/07/6397/
  \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -107,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-7@mizutama-cal
+UID:2026-08-31-6@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n\
  nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 +
@@ -139,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-8@mizutama-cal
+UID:2026-10-08-7@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
