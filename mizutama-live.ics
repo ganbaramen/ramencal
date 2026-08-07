@@ -96,10 +96,24 @@ DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INFINITY LIVE presents『THE PRISMING』
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260822
+UID:2026-08-22-6@mizutama-cal
+DESCRIPTION:下北沢Flowers Loft\nINFINITY LIVE presents『THE PRISMING
+ 』\nhttps://oishii.love/mizutama/live/2026/08/6441/\n\nOP/ST 15:45/16:00\
+ nADV ¥2\,600 DOOR ¥3\,300 +1D\n\n🎤出演 20:05〜\n📸特典会 終
+ 演後\n\n▼出演\n美味しい水玉 / Lion net girl / マイナーガ
+ ール / トナリア / il pleut / demipogune / RETRORAIN / Buddha TOKYO /
+  THE ORGANICS / kijō no kūron / Lily / MA7MEL\n\n▼チケット\nhttps:
+ //t-dv.com/20260822_night\n8/8(土)22:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-6@mizutama-cal
+UID:2026-08-31-7@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n\
  nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 +
@@ -128,10 +142,36 @@ DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:くさのねアイドルフェスティバル2026
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260906
+UID:2026-09-06-8@mizutama-cal
+DESCRIPTION:草ぶえの丘(千葉佐倉)\nくさのねアイドルフェ
+ スティバル2026\nhttps://oishii.love/mizutama/live/2026/08/6437/\n\nOP
+ /ST 10:00/10:45\nグッズ付き2Days ¥20\,000\n2Days ¥10\,000\nグッ
+ ズ付き1day ¥12\,000\n1day ¥7\,000 女性/学生 ¥4\,000 +1D\n\n▼
+ 出演\n美味しい曖昧 / 美味しい水玉 / 美味しい贖罪 / air
+ attic / I to U $CREAMing!! / さとりモンスター / SOMOSOMO / NUANCE 
+ / may in film / yumegiwa last girl / AQ / ジエメイ/ Chalca / Tohkei / 
+ hakanai / PIGGS /BELLRING少女ハート / アストレイル / KAMAITACI 
+ / Quubi / XINXIN / HIBANA / FOKALITE / Maison de Queen / YOLOZ / AFTERS / 
+ SITUASION / タイトル未定 / Drawry. / 二丁目の魁カミングア
+ ウト / NEKIRU / YA’ABURNEE / RAY / 雨模様のソラリス / 月刊PA
+ M / グデイ / selfish / バンドじゃないもん！MAXX NAKAYOSHI / P
+ ayrin’s / ponderosa may bloom / Mirror\,Mirror / AIWO / 限りなく白
+ く / 空想ロマンス / Question.VI / 猫の眼に宇宙 / Finally / RO
+ Y Limited GIRLFRIEND\n\n▼チケット\n2days：https://t-dv.com/knf_26_2
+ days\n1day：https://t-dv.com/kif2026\n\n※通し券は前日9/5開催の
+ 「くさのねフェス2026」(バンドフェス)との通し券にな
+ ります)\n※高校生以上チケット必要/中学生以下保護者
+ 同伴必須
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-7@mizutama-cal
+UID:2026-10-08-9@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
