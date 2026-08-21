@@ -3,28 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
- t-
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260821
-UID:2026-08-21-0@mizutama-cal
-DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
- ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/07/6397/
- \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
- 500 DOOR ¥2\,000 +1D\n\n🎁入場特典🎁\n「美味しい試食券」
- (サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
- プを問わずお好きなメンバー1名と撮影可能\n\n▼チケッ
- ト\n優先チケット(A)はOISHII FCプレミアム会員限定で抽選
- 受付いたします\nhttps://oishii-fc.bitfan.id/events/21430\n抽選先
- 行：〜7/27(月)23:59\n\nhttps://livepocket.jp/e/ml37u\n一般販売：8
- /3(月)12:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『THE PRISMING』
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260822
-UID:2026-08-22-1@mizutama-cal
+UID:2026-08-22-0@mizutama-cal
 DESCRIPTION:下北沢Flowers Loft\nINFINITY LIVE presents『THE PRISMING
  』\nhttps://oishii.love/mizutama/live/2026/08/6441/\n\nOP/ST 15:45/16:00
  \nADV ¥2\,600 DOOR ¥3\,300 +1D\n\n🎤出演 20:05〜\n📸特典会 終
@@ -38,20 +20,20 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『REPRODUCTION』
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
-UID:2026-08-28-2@mizutama-cal
+UID:2026-08-28-1@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『REPRODUCTION』\nhtt
  ps://oishii.love/mizutama/live/2026/08/6499/\n\nOP/ST 18:15/18:30\n優先 
- ¥3\,100\nADV ¥2\,500 DOOR ¥3\,100 +1D\n\n🎤出演 18:55〜\n📸特
- 典会 終演後\n\n▼出演\n美味しい水玉\nBABYTANTS\nKIRA:MINA\nR
- ICEMOSH!?\nNINGENKYOU\n\n▼チケット\nhttps://t-dv.com/20260828_night
- \n8/16(日)15:00〜
+ ¥3\,100\nADV ¥2\,500 DOOR ¥3\,100 +1D\n\n🎤出演 19:20〜\n📸特
+ 典会 終演後\n\n▼出演\n美味しい水玉 / BABYTANTS / KIRA:MINA 
+ / RICEMOSH!? / NINGENKYOU / SUPER REPLiCA\n\n▼チケット\nhttps://t-dv
+ .com/20260828_night\n8/16(日)15:00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『WHITEDAYS』
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260829
-UID:2026-08-29-3@mizutama-cal
+UID:2026-08-29-2@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『WHITEDAYS』\nhttps:
  //oishii.love/mizutama/live/2026/08/6495/\n\nOP/ST 10:00/10:15\n優先 ¥3
  \,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n🎤出演 12:00〜\n📸特典
@@ -64,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:IDOL CAMP in AOYAMA -DAY-
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260830
-UID:2026-08-30-4@mizutama-cal
+UID:2026-08-30-3@mizutama-cal
 DESCRIPTION:青山RizM\nIDOL CAMP in AOYAMA -DAY-\nhttps://oishii.love/miz
  utama/live/2026/08/6509/\n\nOP/ST 11:15/11:30\nADV ¥2\,800 DOOR ¥3\,300 
  +1D\n\n🎤出演 13:30〜\n📸特典会 終演後\n\n▼出演\n美味
@@ -77,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-5@mizutama-cal
+UID:2026-08-31-4@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n
  \nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 
@@ -109,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:くさのねアイドルフェスティバル2026
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260906
-UID:2026-09-06-6@mizutama-cal
+UID:2026-09-06-5@mizutama-cal
 DESCRIPTION:草ぶえの丘(千葉佐倉)\nくさのねアイドルフェ
  スティバル2026\nhttps://oishii.love/mizutama/live/2026/08/6437/\n\nOP
  /ST 10:00/10:45\nグッズ付き2Days ¥20\,000\n2Days ¥10\,000\nグッ
@@ -136,7 +118,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260911
-UID:2026-09-11-7@mizutama-cal
+UID:2026-09-11-6@mizutama-cal
 DESCRIPTION:タワーレコード池袋店 イベントスペース\n美
  味しい水玉「水玉なアルバム1」リリースイベント\nhttps
  ://oishii.love/mizutama/live/2026/08/6449/\n\nhttps://tower.jp/store/kanto
@@ -287,7 +269,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260913
-UID:2026-09-13-8@mizutama-cal
+UID:2026-09-13-7@mizutama-cal
 DESCRIPTION:タワーレコード新宿店 9F店内イベントスペー
  ス\n美味しい水玉「水玉なアルバム1」リリースイベン
  ト\nhttps://oishii.love/mizutama/live/2026/08/6447/\n\nhttps://tower.jp/s
@@ -430,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:感情遊泳
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260919
-UID:2026-09-19-9@mizutama-cal
+UID:2026-09-19-8@mizutama-cal
 DESCRIPTION:渋谷2会場サーキット\n感情遊泳\nhttps://oishii.lov
  e/mizutama/live/2026/08/6502/\n\nSHIBUYA DESEO＆DESEO mini with VILLAGE V
  ANGUARD\n\nOP/ST 10:10 /10:40\nADV ¥3\,000 DOOR ¥4\,000 +1D\n\n▼出演
@@ -457,11 +439,70 @@ DESCRIPTION:渋谷2会場サーキット\n感情遊泳\nhttps://oishii.lov
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INFINITY LIVE TOUR 2026『ASTROMIRAGE – TOUR FINAL CIRCUIT -』
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260920
+UID:2026-09-20-9@mizutama-cal
+DESCRIPTION:下北沢4会場周遊\nINFINITY LIVE TOUR 2026『ASTROMIRAGE 
+ – TOUR FINAL CIRCUIT -』\nhttps://oishii.love/mizutama/live/2026/08/651
+ 4/\n\nリストバンド交換開始 MOSAiC11:00〜予定\nOP/ST TBA/11:30
+ \nADV ¥3\,600 DOOR ¥4\,600 +1D\n\n▼出演\n美味しい水玉 / 美味
+ しい曖昧 / 美味しい贖罪 / IQ99 / 雨模様のソラリス / il p
+ leut / ELEVYZ / 棘-おどろ- / 開歌 / 会心ノ一撃 / KACHIDOKI / 
+ 可愛いって言わないと呪う！ / CUBΣLIC / キュニコ / Gimme!
+ ×Gimme! / KIRA:MINA / GREAT MONKEYS / さよならステイチューン /
+  syqsyq / じゅじゅ / シンダーエラ / 絶対少女 / demipogune / 
+ トナリア / NINGENKYOU / 8°世界が変われば、 / PANDA CLUB / ピ
+ ューパ!! / THE PINK MINDS / BABYTANTS / WT☆Egret / ponderosa may bloo
+ m / マイナーガール / MAPA / メルクマールメルマール / YOU
+ R ADVISORY BOARD / YUGUREMI / yumegiwa last girl / ゆるめるモ！ / 
+ 寄絃 – Yo2La / Lion net girl / LUCY / LOOPARADE / LØISLOID\nand more
+ …\n\n▼チケット\nhttps://t-dv.com/20260920_final\n8/21(金)20:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
+ t-
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260924
+UID:2026-09-24-10@mizutama-cal
+DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
+ ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/08/6517/
+ \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
+ 500 DOOR ¥2\,000 +1D\n\n🎁入場特典🎁\n「美味しい試食券」
+ (サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
+ プを問わずお好きなメンバー1名と撮影可能\n\n▼出演\n
+ 美味しい水玉\n美味しい曖昧\n美味しい贖罪\n\n▼チケッ
+ ト\n優先チケット(A)はOISHII FCプレミアム会員限定で抽選
+ 受付いたします\nhttps://oishii-fc.bitfan.id/events/22276\n抽選先
+ 行：〜8/27(木)23:59\n\nhttps://livepocket.jp/e/x6kp4\n一般販売：9
+ /3(木)12:00〜\n\n【優先チケット特典】\n・優先エリアで
+ の観覧が可能となります。\n・優先入場となります。\n
+ ・特典会に参加される方は番号順に優先的に整列いた
+ します。\n※優先整列は開場及び特典会が始まる前に整
+ 列をお願いします。\n(特典会の列は特典会が始まりま
+ したら割込み禁止とさせていただきます。ご了承くだ
+ さい。)\n\n【お客様への諸注意】\n※入場時、ドリンク
+ 代が必要となります。\n※入場時、チケット読み込みの
+ 際、スクリーンショットでの提示は禁止となります。\n
+ ※泥酔者の入場は、お断りいたします。\n※モッシュ、
+ ダイブ、リフト、過度なジャンプ、他危険行為は一切
+ 禁止とさせていただきます。\n※ライブ公演中の写真撮
+ 影、録音、録画行為は禁止とさせていただきます。\n※
+ 会場周辺でのたむろ、大声での会話は近隣の迷惑にな
+ る為、ご遠慮ください。\n※その他、会場やほかのお客
+ 様、メンバーに迷惑をかける行為をされたり、上記の
+ ルールをお守りになれないお客様には、ご退場いただ
+ く場合がございます。その場合、チケット代の返金な
+ どはできかねます。ご了承ください。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-UID:2026-09-30-10@mizutama-cal
+UID:2026-09-30-11@mizutama-cal
 DESCRIPTION:HMV＆BOOKS SHIBUYA 5FイベントスペースA\n美味しい
  水玉「水玉なアルバム1」リリースイベント\nhttps://oishii
  .love/mizutama/live/2026/08/6445/\n\nhttps://www.hmv.co.jp/store/BTK/\n【
@@ -582,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-11@mizutama-cal
+UID:2026-10-08-12@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
@@ -592,6 +633,30 @@ DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  〜7/12(日)23:59\n\nhttps://livepocket.jp/e/mizutama-oneman3\nオフィ
  シャル抽選先行：7/14(火)12:00〜7/19(日)23:59\n一般販売：7/
  21(火) 12:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261025
+UID:2026-10-25-13@mizutama-cal
+DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
+ al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/08/6525/\n
+ \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
+ WAVER\n\nリストバンド交換10:30〜(予定)\nSTART 11:00\n好天 ¥8
+ \,800 ※特典付き\nADV ¥4\,800 +1D\n\n▼出演\n美味しい水玉 /
+  美味しい曖昧 / 美味しい贖罪 / 雨模様のソラリス / バ
+ ンドじゃないもん！MAXX NAKAYOSHI / さよならステイチュー
+ ン / CYNHN / ARCANA PROJECT / ミームトーキョー / 月刊PAM / Kira
+ kira Pulse / でんびる.chan / 二丁目の魁カミングアウト / 
+ さとりモンスター / 猫の眼に宇宙 / ROY Limited GIRLFRIEND / 
+ カイジューバイミー / スパンコールグッドタイムズ / 
+ アストレイル / INSPIRE / キュニコ / LUCY / ゆるめるモ！ / 
+ 可愛いって言わないと呪う！ / alma / Chalca / YA’ABURNEE / 8
+ °世界が変われば、 / I to U $CREAMing!! / THE PINK MINDS / Drawry.
+  / syqsyq\nand more…\n\n▼チケット\nhttps://perfectmusic.zaiko.io/j
+ a/item/384197\nSNS抽選先行：〜9/6(日)23:59\n一般販売：9/14(月
+ )21:00〜(予定)
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
