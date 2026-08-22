@@ -3,24 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:INFINITY LIVE presents『THE PRISMING』
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260822
-UID:2026-08-22-0@mizutama-cal
-DESCRIPTION:下北沢Flowers Loft\nINFINITY LIVE presents『THE PRISMING
- 』\nhttps://oishii.love/mizutama/live/2026/08/6441/\n\nOP/ST 15:45/16:00
- \nADV ¥2\,600 DOOR ¥3\,300 +1D\n\n🎤出演 20:05〜\n📸特典会 終
- 演後\n\n▼出演\n美味しい水玉 / Lion net girl / マイナーガ
- ール / トナリア / il pleut / demipogune / RETRORAIN / Buddha TOKYO /
-  THE ORGANICS / kijō no kūron / Lily / MA7MEL\n\n▼チケット\nhttps:
- //t-dv.com/20260822_night\n8/8(土)22:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『REPRODUCTION』
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
-UID:2026-08-28-1@mizutama-cal
+UID:2026-08-28-0@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『REPRODUCTION』\nhtt
  ps://oishii.love/mizutama/live/2026/08/6499/\n\nOP/ST 18:15/18:30\n優先 
  ¥3\,100\nADV ¥2\,500 DOOR ¥3\,100 +1D\n\n🎤出演 19:20〜\n📸特
@@ -33,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『WHITEDAYS』
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260829
-UID:2026-08-29-2@mizutama-cal
+UID:2026-08-29-1@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『WHITEDAYS』\nhttps:
  //oishii.love/mizutama/live/2026/08/6495/\n\nOP/ST 10:00/10:15\n優先 ¥3
  \,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n🎤出演 12:00〜\n📸特典
@@ -46,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:IDOL CAMP in AOYAMA -DAY-
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260830
-UID:2026-08-30-3@mizutama-cal
+UID:2026-08-30-2@mizutama-cal
 DESCRIPTION:青山RizM\nIDOL CAMP in AOYAMA -DAY-\nhttps://oishii.love/miz
  utama/live/2026/08/6509/\n\nOP/ST 11:15/11:30\nADV ¥2\,800 DOOR ¥3\,300 
  +1D\n\n🎤出演 13:30〜\n📸特典会 終演後\n\n▼出演\n美味
@@ -59,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-4@mizutama-cal
+UID:2026-08-31-3@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n
  \nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 
@@ -91,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:くさのねアイドルフェスティバル2026
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260906
-UID:2026-09-06-5@mizutama-cal
+UID:2026-09-06-4@mizutama-cal
 DESCRIPTION:草ぶえの丘(千葉佐倉)\nくさのねアイドルフェ
  スティバル2026\nhttps://oishii.love/mizutama/live/2026/08/6437/\n\nOP
  /ST 10:00/10:45\nグッズ付き2Days ¥20\,000\n2Days ¥10\,000\nグッ
@@ -118,7 +104,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260911
-UID:2026-09-11-6@mizutama-cal
+UID:2026-09-11-5@mizutama-cal
 DESCRIPTION:タワーレコード池袋店 イベントスペース\n美
  味しい水玉「水玉なアルバム1」リリースイベント\nhttps
  ://oishii.love/mizutama/live/2026/08/6449/\n\nhttps://tower.jp/store/kanto
@@ -269,7 +255,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260913
-UID:2026-09-13-7@mizutama-cal
+UID:2026-09-13-6@mizutama-cal
 DESCRIPTION:タワーレコード新宿店 9F店内イベントスペー
  ス\n美味しい水玉「水玉なアルバム1」リリースイベン
  ト\nhttps://oishii.love/mizutama/live/2026/08/6447/\n\nhttps://tower.jp/s
@@ -413,7 +399,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260917
-UID:2026-09-17-8@mizutama-cal
+UID:2026-09-17-7@mizutama-cal
 DESCRIPTION:animate hall BLACK (アニメイト池袋本店 北館9F)\n美
  味しい水玉「水玉なアルバム1」リリースイベント\nhttps
  ://oishii.love/mizutama/live/2026/08/6530/\n\n「優先入場券」集合
@@ -560,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:感情遊泳
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260919
-UID:2026-09-19-9@mizutama-cal
+UID:2026-09-19-8@mizutama-cal
 DESCRIPTION:渋谷2会場サーキット\n感情遊泳\nhttps://oishii.lov
  e/mizutama/live/2026/08/6502/\n\nSHIBUYA DESEO＆DESEO mini with VILLAGE V
  ANGUARD\n\nOP/ST 10:10 /10:40\nADV ¥3\,000 DOOR ¥4\,000 +1D\n\n▼出演
@@ -590,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE TOUR 2026『ASTROMIRAGE – TOUR FINAL CIRCUIT -』
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260920
-UID:2026-09-20-10@mizutama-cal
+UID:2026-09-20-9@mizutama-cal
 DESCRIPTION:下北沢4会場周遊\nINFINITY LIVE TOUR 2026『ASTROMIRAGE 
  – TOUR FINAL CIRCUIT -』\nhttps://oishii.love/mizutama/live/2026/08/651
  4/\n\nリストバンド交換開始 MOSAiC11:00〜予定\nOP/ST TBA/11:30
@@ -613,7 +599,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260924
-UID:2026-09-24-11@mizutama-cal
+UID:2026-09-24-10@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/08/6517/
  \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -643,6 +629,36 @@ DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ルールをお守りになれないお客様には、ご退場いただ
  く場合がございます。その場合、チケット代の返金な
  どはできかねます。ご了承ください。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:美味しいイベント -美味しい水玉 定期主催-
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260929
+UID:2026-09-29-11@mizutama-cal
+DESCRIPTION:新宿MARZ\n美味しいイベント -美味しい水玉 定
+ 期主催-\nhttps://oishii.love/mizutama/live/2026/08/6534/\n\nOP/ST 19:00
+ /19:35\n優先(A) ¥3\,000\n一般(B) ¥1\,500 DOOR ¥2\,000 +1D\n\n🎤
+ 出演 20:25〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉
+ \nトナリア\nゆるめるモ！\n\n▼チケット\nhttps://livepocket.
+ jp/e/f46ln\n8/23(日)21:00～\n\n【優先チケット特典】\n・優先
+ 入場となります。番号順にお並びください。\n・「美味
+ しい水玉」の特典会に参加される方は番号順に優先的
+ に整列いたします。\n※優先整列は開場及び特典会が始
+ まる前に整列をお願いします。\n(特典会の列は特典会
+ が始まりましたら割込み禁止とさせていただきます。
+ ご了承ください。)\n\n【お客様への諸注意】\n※入場時
+ 、チケット読み込みの際、スクリーンショットでの提
+ 示は禁止となります。\n※泥酔者の入場は、お断りいた
+ します。\n※モッシュ、ダイブ、リフト他危険行為は一
+ 切禁止とさせていただきます。\n※ライブ公演中の写真
+ 撮影、録音、録画行為は禁止とさせていただきます。\n
+ ※会場周辺でのたむろ、大声での会話は近隣の迷惑に
+ なる為、ご遠慮ください。\n※その他、会場やほかのお
+ 客様、メンバーに迷惑をかける行為をされたり、上記
+ のルールをお守りになれないお客様には、ご退場いた
+ だく場合がございます。その場合、チケット代の返金
+ などはできかねます。ご了承ください。
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
