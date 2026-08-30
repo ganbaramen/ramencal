@@ -3,23 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:IDOL CAMP in AOYAMA -DAY-
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260830
-UID:2026-08-30-0@mizutama-cal
-DESCRIPTION:青山RizM\nIDOL CAMP in AOYAMA -DAY-\nhttps://oishii.love/miz
- utama/live/2026/08/6509/\n\nOP/ST 11:15/11:30\nADV ¥2\,800 DOOR ¥3\,300 
- +1D\n\n🎤出演 13:30〜\n📸特典会 終演後\n\n▼出演\n美味
- しい水玉 / 奏音コレクト / novel junction / 別所あみか / じ
- ゆりぴ / Happy ParadiSe\n\n▼チケット\nhttps://tiget.net/events/51
- 6278\n8/21(金)20:00～
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260831
-UID:2026-08-31-1@mizutama-cal
+UID:2026-08-31-0@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
  水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n
  \nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 
@@ -51,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:くさのねアイドルフェスティバル2026
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260906
-UID:2026-09-06-2@mizutama-cal
+UID:2026-09-06-1@mizutama-cal
 DESCRIPTION:草ぶえの丘(千葉佐倉)\nくさのねアイドルフェ
  スティバル2026\nhttps://oishii.love/mizutama/live/2026/08/6437/\n\nOP
  /ST 10:00/10:45\nグッズ付き2Days ¥20\,000\n2Days ¥10\,000\nグッ
@@ -79,7 +66,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260911
-UID:2026-09-11-3@mizutama-cal
+UID:2026-09-11-2@mizutama-cal
 DESCRIPTION:タワーレコード池袋店 イベントスペース\n美
  味しい水玉「水玉なアルバム1」リリースイベント\nhttps
  ://oishii.love/mizutama/live/2026/08/6449/\n\nhttps://tower.jp/store/kanto
@@ -230,7 +217,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260913
-UID:2026-09-13-4@mizutama-cal
+UID:2026-09-13-3@mizutama-cal
 DESCRIPTION:タワーレコード新宿店 9F店内イベントスペー
  ス\n美味しい水玉「水玉なアルバム1」リリースイベン
  ト\nhttps://oishii.love/mizutama/live/2026/08/6447/\n\nhttps://tower.jp/s
@@ -374,7 +361,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260917
-UID:2026-09-17-5@mizutama-cal
+UID:2026-09-17-4@mizutama-cal
 DESCRIPTION:animate hall BLACK (アニメイト池袋本店 北館9F)\n美
  味しい水玉「水玉なアルバム1」リリースイベント\nhttps
  ://oishii.love/mizutama/live/2026/08/6530/\n\n「優先入場券」集合
@@ -521,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:感情遊泳
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260919
-UID:2026-09-19-6@mizutama-cal
+UID:2026-09-19-5@mizutama-cal
 DESCRIPTION:渋谷2会場サーキット\n感情遊泳\nhttps://oishii.lov
  e/mizutama/live/2026/08/6502/\n\nSHIBUYA DESEO＆DESEO mini with VILLAGE V
  ANGUARD\n\nOP/ST 10:10 /10:40\nADV ¥3\,000 DOOR ¥4\,000 +1D\n\n▼出演
@@ -551,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE TOUR 2026『ASTROMIRAGE – TOUR FINAL CIRCUIT -』
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260920
-UID:2026-09-20-7@mizutama-cal
+UID:2026-09-20-6@mizutama-cal
 DESCRIPTION:下北沢4会場周遊\nINFINITY LIVE TOUR 2026『ASTROMIRAGE 
  – TOUR FINAL CIRCUIT -』\nhttps://oishii.love/mizutama/live/2026/08/651
  4/\n\nリストバンド交換開始 MOSAiC11:00〜予定\nOP/ST TBA/11:30
@@ -574,7 +561,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260921
-UID:2026-09-21-8@mizutama-cal
+UID:2026-09-21-7@mizutama-cal
 DESCRIPTION:アリオモール蘇我 屋外イベント広場\n美味し
  い水玉「水玉なアルバム1」リリースイベント\nhttps://ois
  hii.love/mizutama/live/2026/08/6563/\n\n【内容】ミニライブ＆特
@@ -716,7 +703,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260924
-UID:2026-09-24-9@mizutama-cal
+UID:2026-09-24-8@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/08/6517/
  \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -752,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:美味しいイベント -美味しい水玉 定期主催-
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260929
-UID:2026-09-29-10@mizutama-cal
+UID:2026-09-29-9@mizutama-cal
 DESCRIPTION:新宿MARZ\n美味しいイベント -美味しい水玉 定
  期主催-\nhttps://oishii.love/mizutama/live/2026/08/6534/\n\nOP/ST 19:00
  /19:35\n優先(A) ¥3\,000\n一般(B) ¥1\,500 DOOR ¥2\,000 +1D\n\n🎤
@@ -783,7 +770,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-UID:2026-09-30-11@mizutama-cal
+UID:2026-09-30-10@mizutama-cal
 DESCRIPTION:HMV＆BOOKS SHIBUYA 5FイベントスペースA\n美味しい
  水玉「水玉なアルバム1」リリースイベント\nhttps://oishii
  .love/mizutama/live/2026/08/6445/\n\nhttps://www.hmv.co.jp/store/BTK/\n【
@@ -904,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-12@mizutama-cal
+UID:2026-10-08-11@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
@@ -920,7 +907,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-13@mizutama-cal
+UID:2026-10-25-12@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/08/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
