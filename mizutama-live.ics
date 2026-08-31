@@ -3,42 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260831
-UID:2026-08-31-0@mizutama-cal
-DESCRIPTION:Shibuya Milkyway\n「美味しいイベント」-美味しい
- 水玉・定期主催-\nhttps://oishii.love/mizutama/live/2026/06/6344/\n
- \nOP/ST 18:45/19:00\n優先(A) ¥3\,000 一般(B) ¥1\,500\nDOOR ¥2\,000 
- +1D\n\n🎤出演 20:25〜\n📸特典会 終演後\n\n▼出演\n美味
- しい水玉\nkijō no kūron\nUNDO\nCoTei\n\n▼チケット\nhttps://liv
- epocket.jp/e/4w2-0\n7/1(水)10:00～\n\n【優先チケット特典】\n
- ・優先エリアでの観覧が可能となります。\n・優先入場
- となります。\n・「美味しい水玉」の特典会に参加され
- る方は番号順に優先的に整列いたします。\n※優先整列
- は開場及び特典会が始まる前に整列をお願いします。\n
- (特典会の列は特典会が始まりましたら割込み禁止とさ
- せていただきます。ご了承ください。)\n\n【お客様への
- 諸注意】\n※入場時、ドリンク代が必要となります。\n
- ※入場時、チケット読み込みの際、スクリーンショッ
- トでの提示は禁止となります。\n※泥酔者の入場は、お
- 断りいたします。\n※モッシュ、ダイブ、リフト、過度
- なジャンプ、他危険行為は一切禁止とさせていただき
- ます。\n※ライブ公演中の写真撮影、録音、録画行為は
- 禁止とさせていただきます。\n※会場周辺でのたむろ、
- 大声での会話は近隣の迷惑になる為、ご遠慮ください
- 。\n※その他、会場やほかのお客様、メンバーに迷惑を
- かける行為をされたり、上記のルールをお守りになれ
- ないお客様には、ご退場いただく場合がございます。
- その場合、チケット代の返金などはできかねます。ご
- 了承ください。
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:くさのねアイドルフェスティバル2026
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260906
-UID:2026-09-06-1@mizutama-cal
+UID:2026-09-06-0@mizutama-cal
 DESCRIPTION:草ぶえの丘(千葉佐倉)\nくさのねアイドルフェ
  スティバル2026\nhttps://oishii.love/mizutama/live/2026/08/6437/\n\nOP
  /ST 10:00/10:45\nグッズ付き2Days ¥20\,000\n2Days ¥10\,000\nグッ
@@ -66,7 +34,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260911
-UID:2026-09-11-2@mizutama-cal
+UID:2026-09-11-1@mizutama-cal
 DESCRIPTION:タワーレコード池袋店 イベントスペース\n美
  味しい水玉「水玉なアルバム1」リリースイベント\nhttps
  ://oishii.love/mizutama/live/2026/08/6449/\n\nhttps://tower.jp/store/kanto
@@ -217,7 +185,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260913
-UID:2026-09-13-3@mizutama-cal
+UID:2026-09-13-2@mizutama-cal
 DESCRIPTION:タワーレコード新宿店 9F店内イベントスペー
  ス\n美味しい水玉「水玉なアルバム1」リリースイベン
  ト\nhttps://oishii.love/mizutama/live/2026/08/6447/\n\nhttps://tower.jp/s
@@ -354,6 +322,17 @@ DESCRIPTION:タワーレコード新宿店 9F店内イベントスペー
  ご協力お願いいたします。\n\n以上注意事項を守れない
  、スタッフのご案内等に従えないお客さまはご参加を
  お断りまたはご退場いただきます。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“hyperproof” vol.25
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260914
+UID:2026-09-14-3@mizutama-cal
+DESCRIPTION:新代田FEVER\n“hyperproof” vol.25\nhttps://oishii.love/m
+ izutama/live/2026/08/6572/\n\nOP/ST 18:30/19:00\nADV ¥3\,000 DOOR ¥3\,50
+ 0 +1D\n\n▼出演\n美味しい水玉\nグデイ\nKIKO\nki.o.ku\nsyqsyq\n
+ \n▼チケット\nhttps://livepocket.jp/e/hyperproof25\n8/30(日)12:00～
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
