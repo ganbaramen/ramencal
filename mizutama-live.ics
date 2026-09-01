@@ -715,10 +715,23 @@ DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Road to PinkySpice 8th Anniversary Special Live
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260925
+UID:2026-09-25-9@mizutama-cal
+DESCRIPTION:GRIT at shibuya\nRoad to PinkySpice 8th Anniversary Special Li
+ ve\nhttps://oishii.love/mizutama/live/2026/09/6578/\n\nOP/ST 18:30/19:00\n
+ 優先 ¥3\,000\nADV ¥2\,000 DOOR +¥1\,000 +1D\n\n🎤出演 19:10〜\n
+ 📸特典会 19:40〜\n\n▼出演\n美味しい水玉\nPinkySpice\nI’m
+ ew\nHey!Mommy!\nMagi\n\n▼チケット\nhttps://t-dv.com/yJgIRqw89fvhKqG2
+ Ue7O\n9/2(水)22:30〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:美味しいイベント -美味しい水玉 定期主催-
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260929
-UID:2026-09-29-9@mizutama-cal
+UID:2026-09-29-10@mizutama-cal
 DESCRIPTION:新宿MARZ\n美味しいイベント -美味しい水玉 定
  期主催-\nhttps://oishii.love/mizutama/live/2026/08/6534/\n\nOP/ST 19:00
  /19:35\n優先(A) ¥3\,000\n一般(B) ¥1\,500 DOOR ¥2\,000 +1D\n\n🎤
@@ -749,7 +762,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-UID:2026-09-30-10@mizutama-cal
+UID:2026-09-30-11@mizutama-cal
 DESCRIPTION:HMV＆BOOKS SHIBUYA 5FイベントスペースA\n美味しい
  水玉「水玉なアルバム1」リリースイベント\nhttps://oishii
  .love/mizutama/live/2026/08/6445/\n\nhttps://www.hmv.co.jp/store/BTK/\n【
@@ -870,7 +883,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-11@mizutama-cal
+UID:2026-10-08-12@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
@@ -886,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-12@mizutama-cal
+UID:2026-10-25-13@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/08/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
