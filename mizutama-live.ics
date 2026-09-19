@@ -3,41 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:感情遊泳
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260919
-UID:2026-09-19-0@mizutama-cal
-DESCRIPTION:渋谷DESEO mini with VILLAGE VANGUARD\n感情遊泳\nhttps://
- oishii.love/mizutama/live/2026/09/6502/\n\nSHIBUYA DESEO＆DESEO mini with
-  VILLAGE VANGUARD\n\nリストバンド交換はSHIBUYA DESEOにて9:30〜
- \nOP/ST 10:10 /10:40\nADV ¥3\,000 DOOR ¥4\,000 +1D\n\n🎤出演 11:45
- 〜\n📸特典会 12:35〜\n\n▼出演\n美味しい水玉 / UNDO / あ
- くまで天使 / @youuuuu!!! / UNBS(アンビス) / il pleut / 有頂天
- メリー ! / 開歌-かいか- / KIKO / キミニハネ / GigiL / CUBΣLI
- C / GigiL / Gimme!×Gimme! / SAZANAMi Λug. / SHAKEBE / じゅじゅ / シ
- ンダーエラ / ツヅリカ / ツキナミ / BANKURUWASE!! / BUNGEE GUM
- . / HATENO / Hellzapoppin / Pafio / PEDIOPHOBIA / Noreco / MiDi ON! / ミ
- ライズ / melnoir / LOVE C!DER / Lion net girl / √REAL ｰルートリ
- アルｰ / LOOPARADE / Rea Lis / 縷々 / ゆるめるモ！ / 夢みる
- アドレセンス / wolfwaltz / 兎アイズ / NORMiL / CYCLONISTA\n\n▼
- チケット\nhttps://ticketvillage.jp/events/13859\n8/21(金)22:00〜\n\n
- 【公演に関する注意事項】\n※整理番号順入場\n※入場
- 時、ドリンク代別途必要\n※営利目的のチケット転売禁
- 止\n※アルコール類の持込、及び泥酔者の入場はお断り
- いたします。\n※リフト、柵に登る、前列へ突っ込むの
- 危険行為、ヤジ等、まわりのお客様の迷惑となる行為
- は全面禁止といたします。\n※ルールをお守りいただけ
- ないお客様へ対しては、退場処分とさせていただきま
- す。入場をお断り、ご退場いただく場合でもチケット
- 代等の返金は一切いたしません。\n※物販・特典会への
- 参加には本公演のチケットが必要となります。
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:INFINITY LIVE TOUR 2026『ASTROMIRAGE – TOUR FINAL CIRCUIT -』
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260920
-UID:2026-09-20-1@mizutama-cal
+UID:2026-09-20-0@mizutama-cal
 DESCRIPTION:下北沢Flowers Loft\nINFINITY LIVE TOUR 2026『ASTROMIRAGE 
  – TOUR FINAL CIRCUIT -』\nhttps://oishii.love/mizutama/live/2026/09/651
  4/\n\nリストバンド交換開始MOSAiCにて10:30〜\nOP/ST 11:00/11:3
@@ -63,7 +32,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260921
-UID:2026-09-21-2@mizutama-cal
+UID:2026-09-21-1@mizutama-cal
 DESCRIPTION:アリオモール蘇我 屋外イベント広場\n美味し
  い水玉「水玉なアルバム1」リリースイベント\nhttps://ois
  hii.love/mizutama/live/2026/08/6563/\n\n【内容】ミニライブ＆特
@@ -205,7 +174,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260924
-UID:2026-09-24-3@mizutama-cal
+UID:2026-09-24-2@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/08/6517/
  \n\nOP/ST 18:30/19:00\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -241,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Road to PinkySpice 8th Anniversary Special Live
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260925
-UID:2026-09-25-4@mizutama-cal
+UID:2026-09-25-3@mizutama-cal
 DESCRIPTION:GRIT at shibuya\nRoad to PinkySpice 8th Anniversary Special Li
  ve\nhttps://oishii.love/mizutama/live/2026/09/6578/\n\nOP/ST 18:30/19:00\n
  優先 ¥3\,000\nADV ¥2\,000 DOOR +¥1\,000 +1D\n\n🎤出演 19:10〜\n
@@ -254,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:美味しいイベント -美味しい水玉 定期主催-
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260929
-UID:2026-09-29-5@mizutama-cal
+UID:2026-09-29-4@mizutama-cal
 DESCRIPTION:新宿MARZ\n美味しいイベント -美味しい水玉 定
  期主催-\nhttps://oishii.love/mizutama/live/2026/08/6534/\n\nOP/ST 19:00
  /19:35\n優先(A) ¥3\,000\n一般(B) ¥1\,500 DOOR ¥2\,000 +1D\n\n🎤
@@ -285,7 +254,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-UID:2026-09-30-6@mizutama-cal
+UID:2026-09-30-5@mizutama-cal
 DESCRIPTION:HMV＆BOOKS SHIBUYA 5FイベントスペースA\n美味しい
  水玉「水玉なアルバム1」リリースイベント\nhttps://oishii
  .love/mizutama/live/2026/08/6445/\n\nhttps://www.hmv.co.jp/store/BTK/\n【
@@ -406,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-7@mizutama-cal
+UID:2026-10-08-6@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
@@ -422,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-8@mizutama-cal
+UID:2026-10-25-7@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
