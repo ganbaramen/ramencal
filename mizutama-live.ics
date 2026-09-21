@@ -234,10 +234,49 @@ DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PLEASURE TIME
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261012
+UID:2026-10-12-6@mizutama-cal
+DESCRIPTION:SHIBUYA PLEASURE PLEASURE\nPLEASURE TIME\nhttps://oishii.love/
+ mizutama/live/2026/09/6624/\n\nOP/ST 9:45/10:00\n前方 ¥7\,000\nADV ¥3
+ \,000 DOOR 各+¥500 +1D\n\n▼出演\n美味しい水玉 / アイテム
+ はてるてるのみ / アイドル革命 / UNDO / UNBS / 「いつかの
+ ネバーランド」 / 有いただ天メリー！ / airrow / KissBee / 
+ キミトサクハナ / 君とのシナリオ / キュン!?恋堕ちキュ
+ ーピッド / SUPER JYAPON / スーパーベイビーズ / なないろ
+ パンダちゃん。 / ネコプラpixx. / Panic Monster !n Wonderland / 
+ ParaLulu / PHiZZ / ぶっとび！パンデミック / べるべっとセ
+ ンテンス / ベンジャス！ / 未完成パズル / ミスティア
+ ！ / ミライズ / LOVE ME / Re:IDOL / Rea Lis / Loulouchouchou / れあ
+ れあれあ！\n\n▼チケット\nhttps://livepocket.jp/e/pt1012\n9/21(
+ 月)20:00〜\n\n※アルコール提供無し\n※再入場可（追加
+ ドリンク代なし）\n\n※モッシュ、ダイブ、リフト他危
+ 険行為は一切禁止とさせていただきます。\n※泥酔者の
+ 入場は、お断りいたします。\n※荷物、私物等でのお席
+ の場所取りは全面的に禁止いたします。\n※必要以上の
+ 座席確保、横入り等の行為が見受けられた際はスタッ
+ フからお声がけさせていただきます。また、放置され
+ ている物に関して盗難・破損などは主催者・会場・出
+ 演者は一切の責任を負いません。予めご了承ください
+ 。\n※会場周辺でのたむろ、大声での会話は近隣の迷惑
+ になる為、ご遠慮ください。\n※会場周辺での喫煙は近
+ 隣の迷惑になる為、禁止とさせていただきます。\n※出
+ 演者都合によるキャンセルの場合、チケット代の払い
+ 戻しはお受けできません。\n※本公演ではチケット購入
+ 確定後、お客様のご都合によるチケットのキャンセル
+ ・払い戻しは受け付けておりません。\n※入場時チケッ
+ ト読み込みの際スクリーンショットでの提示は禁止と
+ なります。\n上記のルールをお守りになれない場合、ご
+ 退場していただく場合がございます。予めご了承くだ
+ さい。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-6@mizutama-cal
+UID:2026-10-25-7@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
