@@ -218,10 +218,24 @@ DESCRIPTION:HMV＆BOOKS SHIBUYA 5FイベントスペースA\n美味しい
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IDOLGROW vol.29
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261003
+UID:2026-10-03-5@mizutama-cal
+DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.29\nhttps://oishii.love/mizu
+ tama/live/2026/09/6627/\n\nOP/ST 10:30/10:00\nVIP ¥5\,000\nADV ¥3\,000 D
+ OOR 各+¥500 +1D\n\n🎤出演 16:00〜\n📸特典会 A 16:50〜\n\n▼
+ 出演\n美味しい水玉 / yumegiwa last girl / NUANCE / I to U $CREAMin
+ g!! / YA’ABURNEE  / may in film / Baby Quartz / じゅじゅ / シンダ
+ ーエラ / 会心ノ一撃 / Lion net girl / CUBΣLIC / キュニコ\n\n
+ ▼チケット\nhttps://livepocket.jp/e/va8_f\n9/22(火)22:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-5@mizutama-cal
+UID:2026-10-08-6@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
@@ -237,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:PLEASURE TIME
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261012
-UID:2026-10-12-6@mizutama-cal
+UID:2026-10-12-7@mizutama-cal
 DESCRIPTION:SHIBUYA PLEASURE PLEASURE\nPLEASURE TIME\nhttps://oishii.love/
  mizutama/live/2026/09/6624/\n\nOP/ST 9:45/10:00\n前方 ¥7\,000\nADV ¥3
  \,000 DOOR 各+¥500 +1D\n\n▼出演\n美味しい水玉 / アイテム
@@ -276,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-7@mizutama-cal
+UID:2026-10-25-8@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
