@@ -168,10 +168,41 @@ DESCRIPTION:HMV＆BOOKS SHIBUYA 5FイベントスペースA\n美味しい
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IDOLGROW vol.29
+SUMMARY:SELENE STADIUM
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261003
 UID:2026-10-03-3@mizutama-cal
+DESCRIPTION:白金高輪SELENEb2\nSELENE STADIUM\nhttps://oishii.love/mizu
+ tama/live/2026/09/6635/\n\nOP/ST 10:00/10:15\n前方 ¥6\,000\nADV ¥3\,00
+ 0 DOOR 各+¥500 +1D\n\n▼出演\n美味しい曖昧 / 美味しい水玉
+  / 美味しい贖罪 / アストレイル / ArmaElla / UNBS / 有頂天
+ メリー！ / 空想ロマンス / zanka / スーパーベイビーズ / 
+ 太陽と踊れ月夜に唄え / 玉響storage / New Crown / Noreco / PAST
+ EL RADIO / P1QUE / Falench. / Payrin’s / ポラライト / 魔訶不思
+ 議変革者-デスデス- / Miluμ! / LUVRiX / Rea Lis / LunaMoon / れ
+ あれあれあ！\n\n▼チケット\nhttps://livepocket.jp/e/selest_1003
+ \n9/21(月)18:00〜\n\n※アルコール提供無し\n※再入場可（
+ 追加ドリンク代あり）\n\n※モッシュ、ダイブ、リフト
+ 他危険行為は一切禁止とさせていただきます。\n※会場
+ 内に飲食物の持ち込みは、お断りさせていただきます
+ 。\n※泥酔者の入場は、お断りいたします。\n※会場周
+ 辺でのたむろ、大声での会話は近隣の迷惑になる為、
+ ご遠慮ください。\n※会場周辺での喫煙は近隣の迷惑に
+ なる為、禁止とさせていただきます。\n※出演者都合に
+ よるキャンセルの場合、チケット代の払い戻しはお受
+ けできません。\n※本公演ではチケット購入確定後、お
+ 客様のご都合によるチケットのキャンセル・払い戻し
+ は受け付けておりません。\n※入場時チケット読み込み
+ の際スクリーンショットでの提示は禁止となります。\n
+ 上記のルールをお守りになれない場合、ご退場してい
+ ただく場合がございます。予めご了承ください。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IDOLGROW vol.29
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261003
+UID:2026-10-03-4@mizutama-cal
 DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.29\nhttps://oishii.love/mizu
  tama/live/2026/09/6627/\n\nOP/ST 10:30/10:00\nVIP ¥5\,000\nADV ¥3\,000 D
  OOR 各+¥500 +1D\n\n🎤出演 16:00〜\n📸特典会 A 16:50〜\n\n▼
@@ -185,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-4@mizutama-cal
+UID:2026-10-08-5@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
@@ -201,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:PLEASURE TIME
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261012
-UID:2026-10-12-5@mizutama-cal
+UID:2026-10-12-6@mizutama-cal
 DESCRIPTION:SHIBUYA PLEASURE PLEASURE\nPLEASURE TIME\nhttps://oishii.love/
  mizutama/live/2026/09/6624/\n\nOP/ST 9:45/10:00\n前方 ¥7\,000\nADV ¥3
  \,000 DOOR 各+¥500 +1D\n\n▼出演\n美味しい水玉 / アイテム
@@ -241,7 +272,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261021
-UID:2026-10-21-6@mizutama-cal
+UID:2026-10-21-7@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/09/6633/
  \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -263,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-7@mizutama-cal
+UID:2026-10-25-8@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
