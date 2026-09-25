@@ -3,23 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:Road to PinkySpice 8th Anniversary Special Live
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260925
-UID:2026-09-25-0@mizutama-cal
-DESCRIPTION:GRIT at shibuya\nRoad to PinkySpice 8th Anniversary Special Li
- ve\nhttps://oishii.love/mizutama/live/2026/09/6578/\n\nOP/ST 18:30/19:00\n
- 優先 ¥3\,000\nADV ¥2\,000 DOOR +¥1\,000 +1D\n\n🎤出演 19:10〜\n
- 📸特典会 19:40〜\n\n▼出演\n美味しい水玉\nPinkySpice\nI’m
- ew\nHey!Mommy!\nMagi\n\n▼チケット\nhttps://t-dv.com/yJgIRqw89fvhKqG2
- Ue7O\n9/2(水)22:30〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:美味しいイベント -美味しい水玉 定期主催-
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260929
-UID:2026-09-29-1@mizutama-cal
+UID:2026-09-29-0@mizutama-cal
 DESCRIPTION:新宿MARZ\n美味しいイベント -美味しい水玉 定
  期主催-\nhttps://oishii.love/mizutama/live/2026/08/6534/\n\nOP/ST 19:00
  /19:35\n優先(A) ¥3\,000\n一般(B) ¥1\,500 DOOR ¥2\,000 +1D\n\n🎤
@@ -50,7 +37,7 @@ SUMMARY:美味しい水玉「水玉なアルバム1」リリースイベ
  ント
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
-UID:2026-09-30-2@mizutama-cal
+UID:2026-09-30-1@mizutama-cal
 DESCRIPTION:HMV＆BOOKS SHIBUYA 5FイベントスペースA\n美味しい
  水玉「水玉なアルバム1」リリースイベント\nhttps://oishii
  .love/mizutama/live/2026/08/6445/\n\nhttps://www.hmv.co.jp/store/BTK/\n【
@@ -171,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:SELENE STADIUM
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261003
-UID:2026-10-03-3@mizutama-cal
+UID:2026-10-03-2@mizutama-cal
 DESCRIPTION:白金高輪SELENEb2\nSELENE STADIUM\nhttps://oishii.love/mizu
  tama/live/2026/09/6635/\n\nOP/ST 10:00/10:15\n前方 ¥6\,000\nADV ¥3\,00
  0 DOOR 各+¥500 +1D\n\n▼出演\n美味しい曖昧 / 美味しい水玉
@@ -202,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:IDOLGROW vol.29
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261003
-UID:2026-10-03-4@mizutama-cal
+UID:2026-10-03-3@mizutama-cal
 DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.29\nhttps://oishii.love/mizu
  tama/live/2026/09/6627/\n\nOP/ST 10:30/10:00\nVIP ¥5\,000\nADV ¥3\,000 D
  OOR 各+¥500 +1D\n\n🎤出演 16:00〜\n📸特典会 A 16:50〜\n\n▼
@@ -216,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なワンマン3 – Sing to Cyan –
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
-UID:2026-10-08-5@mizutama-cal
+UID:2026-10-08-4@mizutama-cal
 DESCRIPTION:Veats Shibuya\n水玉なワンマン3 – Sing to Cyan –\nht
  tps://oishii.love/mizutama/live/2026/07/6362/\n\nOP/ST 18:00/18:30\n優先
  (A) ¥6\,000 ※枚数限定\n一般(B) ¥3\,000 手売り(C) ¥1\,500\nDO
@@ -232,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:PLEASURE TIME
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261012
-UID:2026-10-12-6@mizutama-cal
+UID:2026-10-12-5@mizutama-cal
 DESCRIPTION:SHIBUYA PLEASURE PLEASURE\nPLEASURE TIME\nhttps://oishii.love/
  mizutama/live/2026/09/6624/\n\nOP/ST 9:45/10:00\n前方 ¥7\,000\nADV ¥3
  \,000 DOOR 各+¥500 +1D\n\n▼出演\n美味しい水玉 / アイテム
@@ -272,7 +259,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261021
-UID:2026-10-21-7@mizutama-cal
+UID:2026-10-21-6@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/09/6633/
  \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -294,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-8@mizutama-cal
+UID:2026-10-25-7@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
