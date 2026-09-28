@@ -255,11 +255,25 @@ DESCRIPTION:SHIBUYA PLEASURE PLEASURE\nPLEASURE TIME\nhttps://oishii.love/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INFINITY LIVE presents『OCTOBER SONG』
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261012
+UID:2026-10-12-6@mizutama-cal
+DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『OCTOBER SONG』\nhtt
+ ps://oishii.love/mizutama/live/2026/09/6641/\n\nOP/ST 11:30/11:50\nADV ¥2
+ \,600 DOOR ¥3\,200 +1D\n\n▼出演\n美味しい水玉 / LUCY / GREAT MO
+ NKEYS / KIRA:MINA / 唯美人形 / INSPIRE / MA7MEL / トナリア / ハ
+ チキュウ / RIFFBABYZ / TRI-SPHERE / Gimme!×Gimme! / スーパーオ
+ ーバー / びびっとキュート / Buddha TOKYO\nande more…\n\n▼
+ チケット\nhttps://t-dv.com/20261012_tt\n9/29(火)20:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261021
-UID:2026-10-21-6@mizutama-cal
+UID:2026-10-21-7@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/09/6633/
  \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -281,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-7@mizutama-cal
+UID:2026-10-25-8@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
