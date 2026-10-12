@@ -3,63 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:PLEASURE TIME
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261012
-UID:2026-10-12-0@mizutama-cal
-DESCRIPTION:SHIBUYA PLEASURE PLEASURE\nPLEASURE TIME\nhttps://oishii.love/
- mizutama/live/2026/10/6624/\n\nOP/ST 9:45/10:00\n前方 ¥7\,000\nADV ¥3
- \,000 DOOR 各+¥500 +1D\n\n🎤出演 11:40〜\n📸特典会 C 12:20〜
- \n\n▼出演\n美味しい水玉 / アイテムはてるてるのみ / 
- アイドル革命 / UPローチ / UNDO / UNBS / 「いつかのネバー
- ランド」 / 有頂天メリー！ / airrow / KissBee / キミトサク
- ハナ / 君とのシナリオ / キュン!?恋堕ちキューピッド / 
- SUPER JYAPON / スーパーベイビーズ / なないろパンダちゃ
- ん。 / ネコプラpixx. / Panic Monster !n Wonderland / ParaLulu / PHiZ
- Z / ぶっとび！パンデミック / べるべっとセンテンス / 
- ベンジャス！ / 未完成パズル / ミスティア！ / ミライ
- ズ / LOVE ME / Re:IDOL / Rea Lis / Loulouchouchou / れあれあれあ！
- \n\n▼チケット\nhttps://livepocket.jp/e/pt1012\n9/21(月)20:00〜\n\n
- ※アルコール提供無し\n※再入場可（追加ドリンク代な
- し）\n\n※モッシュ、ダイブ、リフト他危険行為は一切
- 禁止とさせていただきます。\n※泥酔者の入場は、お断
- りいたします。\n※荷物、私物等でのお席の場所取りは
- 全面的に禁止いたします。\n※必要以上の座席確保、横
- 入り等の行為が見受けられた際はスタッフからお声が
- けさせていただきます。また、放置されている物に関
- して盗難・破損などは主催者・会場・出演者は一切の
- 責任を負いません。予めご了承ください。\n※会場周辺
- でのたむろ、大声での会話は近隣の迷惑になる為、ご
- 遠慮ください。\n※会場周辺での喫煙は近隣の迷惑にな
- る為、禁止とさせていただきます。\n※出演者都合によ
- るキャンセルの場合、チケット代の払い戻しはお受け
- できません。\n※本公演ではチケット購入確定後、お客
- 様のご都合によるチケットのキャンセル・払い戻しは
- 受け付けておりません。\n※入場時チケット読み込みの
- 際スクリーンショットでの提示は禁止となります。\n上
- 記のルールをお守りになれない場合、ご退場していた
- だく場合がございます。予めご了承ください。
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INFINITY LIVE presents『OCTOBER SONG』
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261012
-UID:2026-10-12-1@mizutama-cal
-DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『OCTOBER SONG』\nhtt
- ps://oishii.love/mizutama/live/2026/09/6641/\n\nOP/ST 11:30/11:50\nADV ¥2
- \,600 DOOR ¥3\,200 +1D\n\n▼出演\n美味しい水玉 / LUCY / GREAT MO
- NKEYS / KIRA:MINA / 唯美人形 / INSPIRE / MA7MEL / トナリア / ハ
- チキュウ / RIFFBABYZ / TRI-SPHERE / Gimme!×Gimme! / スーパーオ
- ーバー / びびっとキュート / Buddha TOKYO\nande more…\n\n▼
- チケット\nhttps://t-dv.com/20261012_tt\n9/29(火)20:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MIC RAW RUGA 定期公演 HIGH-HO vol.164 HANNAH生誕SP
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261018
-UID:2026-10-18-2@mizutama-cal
+UID:2026-10-18-0@mizutama-cal
 DESCRIPTION:下北沢ERA\nMIC RAW RUGA 定期公演 HIGH-HO vol.164 HANNAH
  生誕SP\nhttps://oishii.love/mizutama/live/2026/09/6655/\n\nOP/ST 10:30/1
  0:50\nSPECIAL ¥7\,500 ※特典付き\nADV ¥3\,500 DOOR ¥4\,000 +1D\n\n
@@ -73,7 +20,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261021
-UID:2026-10-21-3@mizutama-cal
+UID:2026-10-21-1@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/09/6633/
  \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -95,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-4@mizutama-cal
+UID:2026-10-25-2@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
@@ -104,28 +51,30 @@ DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
   美味しい曖昧 / 美味しい贖罪 / 雨模様のソラリス / バ
  ンドじゃないもん！MAXX NAKAYOSHI / さよならステイチュー
  ン / CYNHN / ARCANA PROJECT / ミームトーキョー / 月刊PAM / Kira
- kira Pulse / でんびる.chan / 二丁目の魁カミングアウト / 
- さとりモンスター / 猫の眼に宇宙 / ROY Limited GIRLFRIEND / 
- カイジューバイミー / スパンコールグッドタイムズ / 
- アストレイル / INSPIRE / キュニコ / LUCY / ゆるめるモ！ / 
- 可愛いって言わないと呪う！ / alma / Chalca / YA’ABURNEE / 8
- °世界が変われば、 / I to U $CREAMing!! / THE PINK MINDS / Drawry.
-  / syqsyq / 相沢梨紗・藤咲彩音 / LAVILITH / SOMOSOMO / パピプ
- ペポは難しい / グデイ / may in film / LOOPARADE / NINGENKYOU / 
- トナリア / BNSI‌ / 三島想平 / アカシック アコースティ
- ック / DEARSTAGE研究生 / ponderosa may bloom / BabyQuartz / il pleut 
- / PANDA CLUB / KIRA:MINA / GREAT MONKEYS / Aurora / 寄絃 – Yo2La / ピ
- ューパ!! / CoTei / マイナーガール / demipogune / キキレイレ
- イ / Gimme!×Gimme! / RIFFBABYZ\nand more…\n\n▼チケット\nhttps://
- perfectmusic.zaiko.io/ja/item/384197\nSNS抽選先行：〜9/6(日)23:59\n
- 一般販売：9/14(月)21:30〜
+ kira Pulse / でんびる.chan / DS研究生 / 二丁目の魁カミング
+ アウト / さとりモンスター / カイジューバイミー / ス
+ パンコールグッドタイムズ / アストレイル / INSPIRE / キ
+ ュニコ / LUCY / ゆるめるモ！ / 可愛いって言わないと呪
+ う！ / alma / Chalca / YA’ABURNEE / 8°世界が変われば、 / I to
+  U $CREAMing!! / THE PINK MINDS / Drawry. / syqsyq / 相沢梨紗・藤咲
+ 彩音 / LAVILITH / SOMOSOMO / パピプペポは難しい / グデイ / m
+ ay in film / LOOPARADE / NINGENKYOU / トナリア / BNSI / 三島想平 /
+  アカシック アコースティック / DEARSTAGE研究生 / ponderosa
+  may bloom / BabyQuartz / il pleut / PANDA CLUB / KIRA:MINA / GREAT MONKEY
+ S / Aurora / 寄絃 – Yo2La / ピューパ!! / CoTei / マイナーガ
+ ール / demipogune / キキレイレイ / Gimme!×Gimme! / RIFFBABYZ / 
+ 虹のコンキスタドール予科生 / 絶対少女 / Payrin’s / 開
+ 歌-かいか- / くぴぽ / 始発待ちアンダーグラウンド / 唯
+ 美人形 / ZIPPYS / MA7MEL / ug/y / YOUR ADVISORY BOARD\n\n▼チケッ
+ ト\nhttps://perfectmusic.zaiko.io/ja/item/384197\nSNS抽選先行：〜9/
+ 6(日)23:59\n一般販売：9/14(月)21:30〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『シブヤチャンプルー』
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
-UID:2026-10-27-5@mizutama-cal
+UID:2026-10-27-3@mizutama-cal
 DESCRIPTION:渋谷近未来会館\n#ﾆｷﾌﾟﾚ『シブヤチャン
  プルー』\nhttps://oishii.love/mizutama/live/2026/09/6649/\n\nOP/ST 18:
  30/18:50\nADV ¥2\,800 DOOR ¥3\,300 +1D\n\n🎤出演 19:20〜\n📸特
@@ -139,7 +88,7 @@ SUMMARY:INFINITY LIVE presents『HALLOWEEN COCO – HORROR & CANDY 2026 -
  』
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261031
-UID:2026-10-31-6@mizutama-cal
+UID:2026-10-31-4@mizutama-cal
 DESCRIPTION:下北沢3会場周遊\nINFINITY LIVE presents『HALLOWEEN COC
  O – HORROR & CANDY 2026 -』\nhttps://oishii.love/mizutama/live/2026/10/
  6652/\n\nMOSAiC/Flowers Loft/WAVER\n\n12:30〜MOSAiCにてリストバン
@@ -153,6 +102,86 @@ DESCRIPTION:下北沢3会場周遊\nINFINITY LIVE presents『HALLOWEEN COC
  / syqsyq / Buddha TOKYO / KIKO / 可愛いって言わないと呪う！ /
   ZIPPYS / KACHIDOKI\n\n▼チケット\nhttps://t-dv.com/20261031_all\n10/
  2(金)20:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:水玉なミニワンマン -4colors- Day1 Magenta
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270303
+UID:2027-03-03-5@mizutama-cal
+DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day1 M
+ agenta\nhttps://oishii.love/mizutama/live/2026/10/6693/\n\nOP/ST TBA\n\n4
+ 公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
+  ※10/8限定販売\n一般・通常手売り(C) ¥500\n各+1D\n\n▼チ
+ ケット\nhttps://oishii-fc.bitfan.id/events/23779\nFC先行：～10/15(
+ 木)23:59\n一般販売：11/1(日)12:00～\n\n入場順：S→A→B(限
+ 定手売り)→C(一般・通常手売り)\n\n【特典】\n◾︎一般
+ 入場特典(通し券以外の券種)\n美味しいカードとステッ
+ カー(6種類ランダム)\n\n◾︎通し券入場特典\nDay1：メン
+ バー2ショットお絵描きチェキA＋ステッカー全6種セッ
+ ト\nDay2：メンバー2ショットお絵描きチェキB\nDay3：メン
+ バー2ショットお絵描きチェキC\nDay4：囲みワイドチェキ
+ 撮影
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:水玉なミニワンマン -4colors- Day2 Amber
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270310
+UID:2027-03-10-6@mizutama-cal
+DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day2 A
+ mber\nhttps://oishii.love/mizutama/live/2026/10/6695/\n\nOP/ST TBA\n\n4公
+ 演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
+ ※10/8限定販売\n一般・通常手売り(C) ¥500\n各+1D\n\n▼チ
+ ケット\nhttps://oishii-fc.bitfan.id/events/23779\nFC先行：～10/15(
+ 木)23:59\n一般販売：11/1(日)12:00～\n\n入場順：S→A→B(限
+ 定手売り)→C(一般・通常手売り)\n\n【特典】\n◾︎一般
+ 入場特典(通し券以外の券種)\n美味しいカードとステッ
+ カー(6種類ランダム)\n\n◾︎通し券入場特典\nDay1：メン
+ バー2ショットお絵描きチェキA＋ステッカー全6種セッ
+ ト\nDay2：メンバー2ショットお絵描きチェキB\nDay3：メン
+ バー2ショットお絵描きチェキC\nDay4：囲みワイドチェキ
+ 撮影
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:水玉なミニワンマン -4colors- Day3 Violet
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270317
+UID:2027-03-17-7@mizutama-cal
+DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day3 V
+ iolet\nhttps://oishii.love/mizutama/live/2026/10/6700/\n\nOP/ST TBA\n\n4
+ 公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
+  ※10/8限定販売\n一般・通常手売り(C) ¥500\n各+1D\n\n▼チ
+ ケット\nhttps://oishii-fc.bitfan.id/events/23779\nFC先行：～10/15(
+ 木)23:59\n一般販売：11/1(日)12:00～\n\n入場順：S→A→B(限
+ 定手売り)→C(一般・通常手売り)\n\n【特典】\n◾︎一般
+ 入場特典(通し券以外の券種)\n美味しいカードとステッ
+ カー(6種類ランダム)\n\n◾︎通し券入場特典\nDay1：メン
+ バー2ショットお絵描きチェキA＋ステッカー全6種セッ
+ ト\nDay2：メンバー2ショットお絵描きチェキB\nDay3：メン
+ バー2ショットお絵描きチェキC\nDay4：囲みワイドチェキ
+ 撮影
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:水玉なミニワンマン -4colors- Day4 Prism
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270327
+UID:2027-03-27-8@mizutama-cal
+DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day4 P
+ rism\nhttps://oishii.love/mizutama/live/2026/10/6702/\n\nOP/ST TBA\n\n4公
+ 演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
+ ※10/8限定販売\n一般・通常手売り(C) ¥500\n各+1D\n\n▼チ
+ ケット\nhttps://oishii-fc.bitfan.id/events/23779\nFC先行：～10/15(
+ 木)23:59\n一般販売：11/1(日)12:00～\n\n入場順：S→A→B(限
+ 定手売り)→C(一般・通常手売り)\n\n【特典】\n◾︎一般
+ 入場特典(通し券以外の券種)\n美味しいカードとステッ
+ カー(6種類ランダム)\n\n◾︎通し券入場特典\nDay1：メン
+ バー2ショットお絵描きチェキA＋ステッカー全6種セッ
+ ト\nDay2：メンバー2ショットお絵描きチェキB\nDay3：メン
+ バー2ショットお絵描きチェキC\nDay4：囲みワイドチェキ
+ 撮影
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
