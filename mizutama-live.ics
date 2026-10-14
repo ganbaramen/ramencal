@@ -39,10 +39,23 @@ DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INFINITY LIVE presents『お・お・お ヨツヤ -NIGHT- 』
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261024
+UID:2026-10-24-2@mizutama-cal
+DESCRIPTION:四谷LOTUS\nINFINITY LIVE presents『お・お・お ヨツ
+ ヤ -NIGHT- 』\nhttps://oishii.love/mizutama/live/2026/10/6709/\n\nOP/ST 
+ 16:40/17:00\n優先入場  ¥3\,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n
+ 🎤出演 19:40〜\n📸特典会 終演後\n\n▼出演\n美味しい水
+ 玉 / LUCY / LOOPARADE / MA7MEL / syqsyq / KACHIDOKI / Gimme!×Gimme!\n\n
+ ▼チケット\nhttps://t-dv.com/20261024_night\n10/14(水)21:30〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-2@mizutama-cal
+UID:2026-10-25-3@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
@@ -74,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『シブヤチャンプルー』
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
-UID:2026-10-27-3@mizutama-cal
+UID:2026-10-27-4@mizutama-cal
 DESCRIPTION:渋谷近未来会館\n#ﾆｷﾌﾟﾚ『シブヤチャン
  プルー』\nhttps://oishii.love/mizutama/live/2026/09/6649/\n\nOP/ST 18:
  30/18:50\nADV ¥2\,800 DOOR ¥3\,300 +1D\n\n🎤出演 19:20〜\n📸特
@@ -88,7 +101,7 @@ SUMMARY:INFINITY LIVE presents『HALLOWEEN COCO – HORROR & CANDY 2026 -
  』
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261031
-UID:2026-10-31-4@mizutama-cal
+UID:2026-10-31-5@mizutama-cal
 DESCRIPTION:下北沢3会場周遊\nINFINITY LIVE presents『HALLOWEEN COC
  O – HORROR & CANDY 2026 -』\nhttps://oishii.love/mizutama/live/2026/10/
  6652/\n\nMOSAiC/Flowers Loft/WAVER\n\n12:30〜MOSAiCにてリストバン
@@ -108,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day1 Magenta
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270303
-UID:2027-03-03-5@mizutama-cal
+UID:2027-03-03-6@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day1 M
  agenta\nhttps://oishii.love/mizutama/live/2026/10/6693/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -128,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day2 Amber
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270310
-UID:2027-03-10-6@mizutama-cal
+UID:2027-03-10-7@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day2 A
  mber\nhttps://oishii.love/mizutama/live/2026/10/6695/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
@@ -148,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day3 Violet
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270317
-UID:2027-03-17-7@mizutama-cal
+UID:2027-03-17-8@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day3 V
  iolet\nhttps://oishii.love/mizutama/live/2026/10/6700/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -168,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day4 Prism
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270327
-UID:2027-03-27-8@mizutama-cal
+UID:2027-03-27-9@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day4 P
  rism\nhttps://oishii.love/mizutama/live/2026/10/6702/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
