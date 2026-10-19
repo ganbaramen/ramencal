@@ -286,10 +286,34 @@ DESCRIPTION:下北沢各会場\nアイクル2026 本祭 わくわくサー
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WEEKEND INFNITY 2026
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261108
+UID:2026-11-08-10@mizutama-cal
+DESCRIPTION:下北沢各会場\nWEEKEND INFNITY 2026\nhttps://oishii.love/
+ mizutama/live/2026/10/6743/\n\nシャングリラ / CLUB251 / MOSAiC\n\nOP
+ /ST 11:00/11:30\n先行 ¥4\,500 ADV ¥4\,900 +1D\n\n▼出演\n美味し
+ い水玉 / 美味しい曖昧 / 美味しい贖罪 / AQ / さとりモン
+ スター / さよならスティチューン / パピプペポは難し
+ い / you-show / Baby Quartz / メルクマールメルマール / 猫の
+ 眼に宇宙 / ROY Limited GIRLFRIEND / Gimme!×Gimme! / INSPIRE / kijō n
+ o kūron / 棘-おどろ- / SHAKEBE / PUREMORPH / LiVS / may in film / YUG
+ UREMI / LUCY / NINGENKYOU / il pleut / GREAT MONKEYS / TRiSPHERE / RETRORA
+ IN / トナリア / CHEMICAL X / SUPER REPLiCA / MIC RAW RUGA / novel junc
+ tion / O-VER-KiLL / 唯美人形 / 可愛いって言わないと呪う！
+  / Hellzapoppin’ / ラストブルー / キュニコ / ツキナミ / 
+ シオリベル / YumeLia / チルミチル / WASURENA / LilyS/ash / seque
+  l / ArmaElla / 東京トリロジー / GigiL / ponderosa may bloom / 8°
+ 世界が変われば、 / LUMI×NOIR / RIFFBABYZ\nand more…\n\n▼チ
+ ケット\nhttps://ticketdive.com/event/WEEKENDINFINITY2026\n先行：10/1
+ 8(日)21:00〜10/25(日)23:59\n一般：10/30(金)21:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:感情遊泳 vol.2
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261115
-UID:2026-11-15-10@mizutama-cal
+UID:2026-11-15-11@mizutama-cal
 DESCRIPTION:SHIBUYA DESEO＆DESEO mini with VILLAGE VANGUARD\n感情遊泳
   vol.2\nhttps://oishii.love/mizutama/live/2026/10/6721/\n\nSHIBUYA DESEO
  にてリストバンド交換9:30〜\nOP/ST TBA\nADV ¥3\,300 DOOR ¥4\,3
@@ -318,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day1 Magenta
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270303
-UID:2027-03-03-11@mizutama-cal
+UID:2027-03-03-12@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day1 M
  agenta\nhttps://oishii.love/mizutama/live/2026/10/6693/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -338,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day2 Amber
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270310
-UID:2027-03-10-12@mizutama-cal
+UID:2027-03-10-13@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day2 A
  mber\nhttps://oishii.love/mizutama/live/2026/10/6695/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
@@ -358,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day3 Violet
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270317
-UID:2027-03-17-13@mizutama-cal
+UID:2027-03-17-14@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day3 V
  iolet\nhttps://oishii.love/mizutama/live/2026/10/6700/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -378,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day4 Prism
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270327
-UID:2027-03-27-14@mizutama-cal
+UID:2027-03-27-15@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day4 P
  rism\nhttps://oishii.love/mizutama/live/2026/10/6702/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
