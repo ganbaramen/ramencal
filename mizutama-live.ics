@@ -3,33 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
- t-
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261021
-UID:2026-10-21-0@mizutama-cal
-DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
- ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/09/6633/
- \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
- 500 DOOR ¥2\,000 +1D\n\n🎁入場特典🎁\n「美味しい試食券」
- (サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
- プを問わずお好きなメンバー1名と撮影可能\n\n🎥⭕️ S
- E〜1曲目のみ動画撮影OK ※ユニットは撮影不可\n📸❌ 
- 静止画の撮影はできません\n撮影した動画は、こちらの
- タグをつけてぜひぜひSNSに投稿してください！\n#美味
- しい曖昧ってなぁに\n#美味しい水玉おぼえてて\n#美味
- しい贖罪のすすめ\n#オイシイファミレス\n\n▼チケット
- \n優先チケット(A)はOISHII FCプレミアム会員限定で抽選受
- 付いたします\nhttps://oishii-fc.bitfan.id/events/23301\n抽選先行
- ：〜9/30(水)23:59\n\nhttps://livepocket.jp/e/t435y\n一般販売：10/7
- (水)12:00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Title [ MiX 6 ]
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261023
-UID:2026-10-23-1@mizutama-cal
+UID:2026-10-23-0@mizutama-cal
 DESCRIPTION:shibuya Z MARUYAMA\nTitle [ MiX 6 ]\nhttps://oishii.love/mizut
  ama/live/2026/10/6712/\n\nOP/ST 17:30/18:00\n女性 無料 ※数量限定
  \nADV ¥2\,500 DOOR ¥3\,000 +1D\n\n🎤出演 18:00〜\n📸特典会 特
@@ -42,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:INFINITY LIVE presents『お・お・お ヨツヤ -NIGHT- 』
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261024
-UID:2026-10-24-2@mizutama-cal
+UID:2026-10-24-1@mizutama-cal
 DESCRIPTION:四谷LOTUS\nINFINITY LIVE presents『お・お・お ヨツ
  ヤ -NIGHT- 』\nhttps://oishii.love/mizutama/live/2026/10/6709/\n\nOP/ST 
  16:40/17:00\n優先入場  ¥3\,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n
@@ -56,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:雨模様のソラリス presents「Festival in the Rain 2026」
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261025
-UID:2026-10-25-3@mizutama-cal
+UID:2026-10-25-2@mizutama-cal
 DESCRIPTION:下北沢各会場\n雨模様のソラリス presents「Festiv
  al in the Rain 2026」\nhttps://oishii.love/mizutama/live/2026/09/6525/\n
  \n下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / 
@@ -88,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『シブヤチャンプルー』
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261027
-UID:2026-10-27-4@mizutama-cal
+UID:2026-10-27-3@mizutama-cal
 DESCRIPTION:渋谷近未来会館\n#ﾆｷﾌﾟﾚ『シブヤチャン
  プルー』\nhttps://oishii.love/mizutama/live/2026/09/6649/\n\nOP/ST 18:
  30/18:50\nADV ¥2\,800 DOOR ¥3\,300 +1D\n\n🎤出演 19:20〜\n📸特
@@ -101,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:三拍子＆白岡今日花の イデアのたしなみ #52
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261028
-UID:2026-10-28-5@mizutama-cal
+UID:2026-10-28-4@mizutama-cal
 DESCRIPTION:WALLOP 3F STUDIO\n三拍子＆白岡今日花の イデアの
  たしなみ #52\nhttps://oishii.love/mizutama/live/2026/10/6715/\n\nOP/ST
   18:50/19:00 (受付18:30)\nADV ¥3\,000 DOOR 3\,500 +1D\n\n📸特典会 
@@ -117,7 +94,7 @@ SUMMARY:INFINITY LIVE presents『HALLOWEEN COCO – HORROR & CANDY 2026 -
  』
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261031
-UID:2026-10-31-6@mizutama-cal
+UID:2026-10-31-5@mizutama-cal
 DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『HALLOWEEN COCO – H
  ORROR & CANDY 2026 -』\nhttps://oishii.love/mizutama/live/2026/10/6652/\n
  \nMOSAiC/Flowers Loft/WAVER\n\n12:30〜MOSAiCにてリストバンド交
@@ -137,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:IDOL Treasure bottle LIVE
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261101
-UID:2026-11-01-7@mizutama-cal
+UID:2026-11-01-6@mizutama-cal
 DESCRIPTION:BATUR TOKYO【バトゥール東京】\nIDOL Treasure bottle L
  IVE\nhttps://oishii.love/mizutama/live/2026/10/6737/\n\nhttps://www.andati
  va-batur.com/tokyo/party/enkai/\n\nOP/ST 9:45/10:00(予定)\nADV ¥3\,200 
@@ -244,7 +221,7 @@ SUMMARY:#スミハ生誕2026「21歳拳で祝おう！すーちゃん初
  めての生誕祭2026」
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261103
-UID:2026-11-03-8@mizutama-cal
+UID:2026-11-03-7@mizutama-cal
 DESCRIPTION:新宿MARZ\n#スミハ生誕2026「21歳拳で祝おう！す
  ーちゃん初めての生誕祭2026」\nhttps://oishii.love/mizutama/liv
  e/2026/10/6732/\n\nOP/ST 10:15/10:35\nVIP ¥10\,000 ※特典付き\nADV 
@@ -258,7 +235,7 @@ SUMMARY:アイクル2026 本祭 わくわくサーキット Supported by W
  EEKEND INFINITY
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261107
-UID:2026-11-07-9@mizutama-cal
+UID:2026-11-07-8@mizutama-cal
 DESCRIPTION:下北沢各会場\nアイクル2026 本祭 わくわくサー
  キット Supported by WEEKEND INFINITY\nhttps://oishii.love/mizutama/live
  /2026/10/6740/\n\nシャングリラ / MOSAiC / ERA / CLUB251 / 下北沢
@@ -289,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:WEEKEND INFNITY 2026
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261108
-UID:2026-11-08-10@mizutama-cal
+UID:2026-11-08-9@mizutama-cal
 DESCRIPTION:下北沢各会場\nWEEKEND INFNITY 2026\nhttps://oishii.love/
  mizutama/live/2026/10/6743/\n\nシャングリラ / CLUB251 / MOSAiC\n\nOP
  /ST 11:00/11:30\n先行 ¥4\,500 ADV ¥4\,900 +1D\n\n▼出演\n美味し
@@ -313,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:感情遊泳 vol.2
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261115
-UID:2026-11-15-11@mizutama-cal
+UID:2026-11-15-10@mizutama-cal
 DESCRIPTION:SHIBUYA DESEO＆DESEO mini with VILLAGE VANGUARD\n感情遊泳
   vol.2\nhttps://oishii.love/mizutama/live/2026/10/6721/\n\nSHIBUYA DESEO
  にてリストバンド交換9:30〜\nOP/ST TBA\nADV ¥3\,300 DOOR ¥4\,3
@@ -336,6 +313,30 @@ DESCRIPTION:SHIBUYA DESEO＆DESEO mini with VILLAGE VANGUARD\n感情遊泳
  す。\n入場をお断り、ご退場いただく場合でもチケット
  代等の返金は一切いたしません。\n※物販・特典会への
  参加には本公演のチケットが必要となります。
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
+ t-
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+UID:2026-11-24-11@mizutama-cal
+DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
+ ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/10/6747/
+ \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
+ 500 DOOR ¥2\,000 +1D\n\n▼出演\n美味しい曖昧\n美味しい水玉
+ \n美味しい贖罪\n\n🎁入場特典🎁\n「美味しい試食券」(
+ サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
+ プを問わずお好きなメンバー1名と撮影可能\n\n🎥⭕️ S
+ E〜1曲目のみ動画撮影OK ※ユニットは撮影不可\n📸❌ 
+ 静止画の撮影はできません\n撮影した動画は、こちらの
+ タグをつけてぜひ投稿してください！\n#美味しい曖昧
+ ってなぁに\n#美味しい水玉おぼえてて\n#美味しい贖罪
+ のすすめ\n#オイシイファミレス\n\n▼チケット\n優先チ
+ ケット(A)はOISHII FCプレミアム会員限定で抽選受付いた
+ します\nhttps://oishii-fc.bitfan.id/events/24170\n抽選先行：〜10/
+ 27(火)23:59\n\nhttps://livepocket.jp/e/2fofz\n一般販売：11/3(水)12:
+ 00〜
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
