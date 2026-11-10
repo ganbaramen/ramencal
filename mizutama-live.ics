@@ -3,23 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:「美味しいイベント」-美味しい水玉・定期主催-
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261110
-UID:2026-11-10-0@mizutama-cal
-DESCRIPTION:新宿MARZ\n「美味しいイベント」-美味しい水玉
- ・定期主催-\nhttps://oishii.love/mizutama/live/2026/10/6760/\n\nOP/ST
-  19:00/19:30\n優先(A) ¥3\,000\n一般(B) ¥1\,500 DOOR ¥2\,000 +1D\n\n
- 🎤出演 19:30〜\n📸特典会 終演後\n\n▼出演\n美味しい水
- 玉\nsyqsyq\ndemipogune\n\n▼チケット\nhttps://livepocket.jp/e/15ypz
- \n10/26(月)21:00～
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:感情遊泳 vol.2
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261115
-UID:2026-11-15-1@mizutama-cal
+UID:2026-11-15-0@mizutama-cal
 DESCRIPTION:SHIBUYA DESEO＆DESEO mini with VILLAGE VANGUARD\n感情遊泳
   vol.2\nhttps://oishii.love/mizutama/live/2026/10/6721/\n\nSHIBUYA DESEO
  にてリストバンド交換9:30〜\nOP/ST TBA\nADV ¥3\,300 DOOR ¥4\,3
@@ -50,7 +37,7 @@ SUMMARY:大宮I☆DOLL対バン全国ツアー『超REVIVER -JAPAN SERIES-
  』【FINAL】
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261116
-UID:2026-11-16-2@mizutama-cal
+UID:2026-11-16-1@mizutama-cal
 DESCRIPTION:duo MUSIC EXCHANGE\n大宮I☆DOLL対バン全国ツアー『
  超REVIVER -JAPAN SERIES-』【FINAL】\nhttps://oishii.love/mizutama/live
  /2026/10/6771/\n\nOP/ST 12:40/13:00\n前方 ¥6\,000\nADV ¥3\,000 DOOR 
@@ -68,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:IDOLGROW vol.30
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261121
-UID:2026-11-21-3@mizutama-cal
+UID:2026-11-21-2@mizutama-cal
 DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.30\nhttps://oishii.love/mizu
  tama/live/2026/10/6754/\n\nOP/ST 10:00/10:30\nVIP ¥5\,000 ADV ¥3\,000 +1
  D\n\n🎤出演 11:35〜\n📸特典会 A 12:10〜\n\n▼出演\n美味し
@@ -86,7 +73,7 @@ SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261124
-UID:2026-11-24-4@mizutama-cal
+UID:2026-11-24-3@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/10/6747/
  \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -109,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day1 Magenta
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270303
-UID:2027-03-03-5@mizutama-cal
+UID:2027-03-03-4@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day1 M
  agenta\nhttps://oishii.love/mizutama/live/2026/10/6693/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -129,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day2 Amber
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270310
-UID:2027-03-10-6@mizutama-cal
+UID:2027-03-10-5@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day2 A
  mber\nhttps://oishii.love/mizutama/live/2026/10/6695/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
@@ -149,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day3 Violet
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270317
-UID:2027-03-17-7@mizutama-cal
+UID:2027-03-17-6@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day3 V
  iolet\nhttps://oishii.love/mizutama/live/2026/10/6700/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -169,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day4 Prism
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270327
-UID:2027-03-27-8@mizutama-cal
+UID:2027-03-27-7@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day4 P
  rism\nhttps://oishii.love/mizutama/live/2026/10/6702/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
