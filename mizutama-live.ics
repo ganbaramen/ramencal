@@ -3,28 +3,11 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:IDOLGROW vol.30
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261121
-UID:2026-11-21-0@mizutama-cal
-DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.30\nhttps://oishii.love/mizu
- tama/live/2026/10/6754/\n\nOP/ST 10:00/10:30\nVIP ¥5\,000 ADV ¥3\,000 +1
- D\n\n🎤出演 11:35〜\n📸特典会 A 12:10〜\n\n▼出演\n美味し
- い水玉 / 美味しい曖昧 / 美味しい贖罪 / BELLRING少女ハー
- ト / 太陽と踊れ月夜に唄え / YA’ABURNEE  / Drawry. / 強がり
- センセーション / ギガLOVEアップビート / ハッピークリ
- エイターズ / iCON! / アイドルは下剋上 / may in film / diig / 
- Baby Quartz / 会心ノ一撃 / キュニコ / 空想ロマンス / syqsyq
-  / ug/y\n\n▼チケット\nhttps://livepocket.jp/e/4hep1\n10/22(木)22:00
- 〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261124
-UID:2026-11-24-1@mizutama-cal
+UID:2026-11-24-0@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/10/6747/
  \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -47,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day1 Magenta
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270303
-UID:2027-03-03-2@mizutama-cal
+UID:2027-03-03-1@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day1 M
  agenta\nhttps://oishii.love/mizutama/live/2026/10/6693/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -67,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day2 Amber
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270310
-UID:2027-03-10-3@mizutama-cal
+UID:2027-03-10-2@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day2 A
  mber\nhttps://oishii.love/mizutama/live/2026/10/6695/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
@@ -87,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day3 Violet
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270317
-UID:2027-03-17-4@mizutama-cal
+UID:2027-03-17-3@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day3 V
  iolet\nhttps://oishii.love/mizutama/live/2026/10/6700/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -107,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day4 Prism
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270327
-UID:2027-03-27-5@mizutama-cal
+UID:2027-03-27-4@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day4 P
  rism\nhttps://oishii.love/mizutama/live/2026/10/6702/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
