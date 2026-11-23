@@ -3,41 +3,11 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261123
-UID:2026-11-23-0@mizutama-cal
-DESCRIPTION:[night] 下北沢MOSAiCINFINITY LIVE presents『WHITEDAYS』\n
- \nhttps://oishii.love/mizutama/live/2026/11/6817/\n\nOP/ST 16:30/16:45\n
- 優先入場 ¥3\,100\nADV ¥2\,500 DOOR ¥3\,200 +1D\n\n🎤出演 20:15
- 〜\n📸特典会 終演後\n\n▼出演\n美味しい水玉 / 棘-おど
- ろ- / YOUR ADVISORY BOARD / 始発待ちアンダーグラウンド / ug/
- y / YOTAKA / TRiSPHERE / EVERYTHING IS WONDER / REBEL REBEL\n\n▼チケ
- ット\nhttps://t-dv.com/20261123_Night\n11/12(木)19:30〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IDOL Treasure bottle LIVE～秋の幕張スペシャル
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261123
-UID:2026-11-23-1@mizutama-cal
-DESCRIPTION:[day] イオンモール幕張新都心 グランドモール 
- 1階グランドスクエア\nIDOL Treasure bottle LIVE～秋の幕張ス
- ペシャル\nhttps://oishii.love/mizutama/live/2026/11/6825/\n\nOP/ST 10:
- 00/10:15\n前方チケット ¥3\,200(特典券3枚付き)\n後方 ¥0\n\n
- 🎤出演 11:15〜\n📸特典会 D 11:45〜\n\n🎥美味しい水玉は
- 全編動画のみ撮影OK⭕️\n(静止画NG)\n\n🕊️前方チケッ
- ト特典券レギュレーション\n3枚 30秒動画撮影\n2枚 チェ
- キ券(サイン・トークあり)1枚\n1枚 チェキ券(サイン・ト
- ークなし)1枚\n\n▼チケット\nhttps://tiget.net/events/535860
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
  t-
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261124
-UID:2026-11-24-2@mizutama-cal
+UID:2026-11-24-0@mizutama-cal
 DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
  ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/10/6747/
  \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
@@ -60,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:イオ vol.1
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261202
-UID:2026-12-02-3@mizutama-cal
+UID:2026-12-02-1@mizutama-cal
 DESCRIPTION:GOTANDA G6\nイオ vol.1\nhttps://oishii.love/mizutama/live/20
  26/11/6809/\n\nOP/ST 17:15/17:45\nFRONT ¥3\,000 GENERAL ¥2\,000 +1D\n\n
  🎤出演 19:55〜\n📸特典会 C 20:25〜\n\n▼出演\n美味しい
@@ -96,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:IDOLGROW vol.31
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261205
-UID:2026-12-05-4@mizutama-cal
+UID:2026-12-05-2@mizutama-cal
 DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.31\nhttps://oishii.love/mizu
  tama/live/2026/11/6805/\n\nOP/ST 10:30/11:00\nVIP ¥5\,000\nADV ¥3\,000 D
  OOR 各+¥500 +1D\n\n🎤出演 13:30〜\n📸特典会 C 14:15〜\n\n▼
@@ -110,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-冬-』
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261216
-UID:2026-12-16-5@mizutama-cal
+UID:2026-12-16-3@mizutama-cal
 DESCRIPTION:渋谷各会場\n#ﾆｷﾌﾟﾚ『カンシャサイ。-冬-
  』\nhttps://oishii.love/mizutama/live/2026/11/6801/\n\n渋谷音楽堂 / 
  Shibuya Milkyway / SHIBUYA THE GAME / Star Lounge / CHELSEA HOTEL / TAKE O
@@ -134,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day1 Magenta
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270303
-UID:2027-03-03-6@mizutama-cal
+UID:2027-03-03-4@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day1 M
  agenta\nhttps://oishii.love/mizutama/live/2026/10/6693/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -154,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day2 Amber
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270310
-UID:2027-03-10-7@mizutama-cal
+UID:2027-03-10-5@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day2 A
  mber\nhttps://oishii.love/mizutama/live/2026/10/6695/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
@@ -174,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day3 Violet
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270317
-UID:2027-03-17-8@mizutama-cal
+UID:2027-03-17-6@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day3 V
  iolet\nhttps://oishii.love/mizutama/live/2026/10/6700/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -194,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day4 Prism
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270327
-UID:2027-03-27-9@mizutama-cal
+UID:2027-03-27-7@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day4 P
  rism\nhttps://oishii.love/mizutama/live/2026/10/6702/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
