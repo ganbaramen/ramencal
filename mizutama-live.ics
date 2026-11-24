@@ -3,34 +3,10 @@ VERSION:2.0
 PRODID:-//Mizutama Live Calendar//ramencal//
 X-WR-CALNAME:美味しい水玉非公式カレンダー
 BEGIN:VEVENT
-SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
- t-
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261124
-UID:2026-11-24-0@mizutama-cal
-DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
- ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/10/6747/
- \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
- 500 DOOR ¥2\,000 +1D\n\n▼出演\n美味しい曖昧\n美味しい水玉
- \n美味しい贖罪\n\n🎁入場特典🎁\n「美味しい試食券」(
- サインなし2ショットチェキ撮影＋トーク20秒)\nグルー
- プを問わずお好きなメンバー1名と撮影可能\n\n🎥⭕️ S
- E〜1曲目のみ動画撮影OK ※ユニットは撮影不可\n📸❌ 
- 静止画の撮影はできません\n撮影した動画は、こちらの
- タグをつけてぜひ投稿してください！\n#美味しい曖昧
- ってなぁに\n#美味しい水玉おぼえてて\n#美味しい贖罪
- のすすめ\n#オイシイファミレス\n\n▼チケット\n優先チ
- ケット(A)はOISHII FCプレミアム会員限定で抽選受付いた
- します\nhttps://oishii-fc.bitfan.id/events/24170\n抽選先行：〜10/
- 27(火)23:59\n\nhttps://livepocket.jp/e/2fofz\n一般販売：11/3(水)12:
- 00〜
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:イオ vol.1
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261202
-UID:2026-12-02-1@mizutama-cal
+UID:2026-12-02-0@mizutama-cal
 DESCRIPTION:GOTANDA G6\nイオ vol.1\nhttps://oishii.love/mizutama/live/20
  26/11/6809/\n\nOP/ST 17:15/17:45\nFRONT ¥3\,000 GENERAL ¥2\,000 +1D\n\n
  🎤出演 19:55〜\n📸特典会 C 20:25〜\n\n▼出演\n美味しい
@@ -66,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:IDOLGROW vol.31
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261205
-UID:2026-12-05-2@mizutama-cal
+UID:2026-12-05-1@mizutama-cal
 DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.31\nhttps://oishii.love/mizu
  tama/live/2026/11/6805/\n\nOP/ST 10:30/11:00\nVIP ¥5\,000\nADV ¥3\,000 D
  OOR 各+¥500 +1D\n\n🎤出演 13:30〜\n📸特典会 C 14:15〜\n\n▼
@@ -77,10 +53,65 @@ DESCRIPTION:銀座BASE GRANBELL\nIDOLGROW vol.31\nhttps://oishii.love/mizu
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OISHII.inc Presents「美味しいイベント」-Family restauran
+ t-
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261210
+UID:2026-12-10-2@mizutama-cal
+DESCRIPTION:Spotify O-Crest\nOISHII.inc Presents「美味しいイベン
+ ト」-Family restaurant-\nhttps://oishii.love/mizutama/live/2026/11/6836/
+ \n\nOP/ST 18:15/18:45\n優先(A) ¥4\,000 ※枚数限定\n一般(B) ¥1\,
+ 500 DOOR ¥2\,000 +1D\n\n▼出演\n美味しい曖昧\n美味しい水玉
+ \n美味しい贖罪\nおよそやよい\n\n🎁入場特典🎁\n「美
+ 味しい試食券」(サインなし2ショットチェキ撮影＋トー
+ ク20秒)\nグループを問わずお好きなメンバー1名と撮影
+ 可能\n\n🎥⭕️ SE〜1曲目のみ動画撮影OK ※ユニットは
+ 撮影不可\n📸❌ 静止画の撮影はできません\n撮影した
+ 動画は、こちらのタグをつけてぜひ投稿してください
+ ！\n#美味しい曖昧ってなぁに\n#美味しい水玉おぼえて
+ て\n#美味しい贖罪のすすめ\n#オイシイファミレス\n\n▼
+ チケット\n優先チケット(A)はOISHII FCプレミアム会員限定
+ で抽選受付いたします\nhttps://oishii-fc.bitfan.id/events/25150\n
+ 抽選先行：〜11/27(金)23:59\n\nhttps://livepocket.jp/e/8ukb1\n一般
+ 販売：12/4(金)12:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INFINITY LIVE presents『WHITEDAYS』
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261213
+UID:2026-12-13-3@mizutama-cal
+DESCRIPTION:下北沢MOSAiC\nINFINITY LIVE presents『WHITEDAYS』\nhttps:
+ //oishii.love/mizutama/live/2026/11/6839/\n\nOP/ST 10:30/10:45\n優先入
+ 場 ¥3\,100\nADV ¥2\,600 DOOR ¥3\,200 +1D\n\n🎤出演 14:20〜\n📸
+ 特典会 終演後\n\n▼出演\n美味しい水玉 / トナリア / LOOP
+ ARADE / ponderosa may bloom / キキレイレイ / Gimme!×Gimme! / マイ
+ ナーガール / LUMI×NOIR / Lion net girl / スーパーオーバー\n
+ \n▼チケット\nhttps://t-dv.com/20261213_day\n11/25(水)21:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:kijō no kūron 六歌 恋町 -ﾘｯｶ ｺﾏﾁ- 生誕主催
+ 公演「なかよしくらぶ 決起集会2026 ふゆ」
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261215
+UID:2026-12-15-4@mizutama-cal
+DESCRIPTION:SHIBUYA DESEO mini VV\nkijō no kūron 六歌 恋町 -ﾘｯ
+ ｶ ｺﾏﾁ- 生誕主催公演「なかよしくらぶ 決起集会2026
+  ふゆ」\nhttps://oishii.love/mizutama/live/2026/11/6843/\n\n2026/12/15(
+ 火)\nSHIBUYA DESEO mini VV\n\nOP/ST 18:00/18:30\nSP ¥5\,000 ※特典付
+ き\nADV ¥2\,500 DOOR ¥3\,000 +1D\n\n🎤出演 19:55〜\n📸特典会 
+ 終演後\n\n▼出演\n美味しい水玉\nkijō no kūron\nVillage in Ma
+ ier\nクリームソーダズ\nil pleut\n\n▼チケット\nhttps://livepo
+ cket.jp/e/x0y9e\n先行：11/24(火)19:00〜12/4(金)23:59\n一般：11/24
+ (火)19:00〜
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。-冬-』
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261216
-UID:2026-12-16-3@mizutama-cal
+UID:2026-12-16-5@mizutama-cal
 DESCRIPTION:渋谷各会場\n#ﾆｷﾌﾟﾚ『カンシャサイ。-冬-
  』\nhttps://oishii.love/mizutama/live/2026/11/6801/\n\n渋谷音楽堂 / 
  Shibuya Milkyway / SHIBUYA THE GAME / Star Lounge / CHELSEA HOTEL / TAKE O
@@ -104,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day1 Magenta
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270303
-UID:2027-03-03-4@mizutama-cal
+UID:2027-03-03-6@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day1 M
  agenta\nhttps://oishii.love/mizutama/live/2026/10/6693/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -124,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day2 Amber
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270310
-UID:2027-03-10-5@mizutama-cal
+UID:2027-03-10-7@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day2 A
  mber\nhttps://oishii.love/mizutama/live/2026/10/6695/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
@@ -144,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day3 Violet
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270317
-UID:2027-03-17-6@mizutama-cal
+UID:2027-03-17-8@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day3 V
  iolet\nhttps://oishii.love/mizutama/live/2026/10/6700/\n\nOP/ST TBA\n\n4
  公演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500
@@ -164,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:水玉なミニワンマン -4colors- Day4 Prism
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270327
-UID:2027-03-27-7@mizutama-cal
+UID:2027-03-27-9@mizutama-cal
 DESCRIPTION:Shibuya Milkyway\n水玉なミニワンマン -4colors- Day4 P
  rism\nhttps://oishii.love/mizutama/live/2026/10/6702/\n\nOP/ST TBA\n\n4公
  演通し券(S) ¥25\,000\n優先(A) ¥5\,000\n限定手売り(B) ¥500 
